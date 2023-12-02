@@ -1,0 +1,49 @@
+
+  .numbers {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .number {
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+  
+  .number .counter {
+    font-weight: bold;
+    font-style: italic;
+    font-size: .3em;
+    margin: 6px 0;
+  }
+  .number span {
+    font-size: 0.2em;
+    display: block;
+  }
+  .MuiButtonBase-root {
+    color: aliceblue !important;
+  }
+  .css-1ih5ps2-MuiStack-root {
+    display: flex !important;
+    flex-direction :row !important;
+    justify-content: center !important;
+    flex-wrap: nowrap;
+  }
+  
+  .card-name {
+    background: black;
+    border: 2px solid #ffc010;
+    height: 250px;
+  }
+  .css-1v2lvtn-MuiPaginationItem-root {
+    color: white !important;
+  }
+  .css-af73bn {
+    display: flex;
+    color: whitesmoke;
+    /* text-align: center; */
+    align-content: center;
+    flex-wrap: wrap;
+    /* justify-content: flex-end; */
+    /* align-items: flex-start; */
+    flex-direction: column;
+}

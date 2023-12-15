@@ -9,6 +9,7 @@ import PostContent from "../../Utilities/Blog/SinglePost/PostContent";
 import Comments from "../../Utilities/Blog/SinglePost/Comments";
 import CommentForm from "../../Utilities/Blog/SinglePost/CommentForm";
 import HeroTwo from "../../Utilities/Hero/HeroThree/HeroThree";
+import HeroBlog from "../../Utilities/Hero/HeroBlog/HeroBlog";
 
 const SinglePost = () => {
     useEffect(() => {
@@ -19,7 +20,7 @@ const SinglePost = () => {
     return (
 
         <React.Fragment>
-            <HeroTwo />
+            <HeroBlog />
 
             <section className="inner-blog b-details-p pb-90">
                 <div className="container">

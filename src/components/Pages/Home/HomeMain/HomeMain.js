@@ -30,7 +30,13 @@ const Home = () => {
 
     return (
                 <Fragment>
-      
+                    <Helmet>
+       <title>Rocky Book - Best Online Cricket Betting Sites in India</title>
+  <meta name="keywords" content="best betting sites in India, cricket betting sites, best online betting sites India, top betting sites in India, fantasy sports sites in India, top sports websites in India, India's no.1 book, trusted cricket betting sites in India, India no 1 betting site, best legal betting sites, Online Gambling Sites, rocky book, best online gaming platform in India" data-react-helmet="true" />
+<meta name="title" content="Rocky Book - Best Online Cricket Betting Sites in India" data-react-helmet="true"/>
+
+<meta name="description" content="Best Online Gaming Platforms in India - Discover the best online gaming platform in India with Rocky Book. Enjoy a wide range of thrilling games, seamless betting experience." data-react-helmet="true" />
+</Helmet>
                 <Box
   sx={{
     position: 'fixed',

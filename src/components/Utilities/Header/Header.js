@@ -50,12 +50,12 @@ const Header = () => {
                                     <div className="cart-top">
                                         <ul>
                                             <li>
-                                                <a href='https://www.instagram.com/rockybook2121/'>
+                                                <a rel="nofollow" href='https://www.instagram.com/rockybook2121/'>
                                                     <i className="fab fa-instagram"></i>
                                                 </a>
                                             </li>
                                             <li>
-                                            <a href='https://t.me/rockybook2121'>
+                                            <a rel="nofollow" href='https://t.me/rockybook2121'>
                                                     <i className="fab fa-telegram"></i>
                                                 </a>
                                             </li>

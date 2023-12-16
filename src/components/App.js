@@ -19,10 +19,12 @@ import BlogPost from './Pages/Blog/Blog';
 import ContactUs from './Pages/ContactUs/ContactUs';
 import SinglePost from './Pages/SinglePost/SinglePost';
 import { ParallaxProvider } from 'react-scroll-parallax';
-
+import { Helmet, HelmetProvider } from "react-helmet-async";
 
 const App = () => {
+
   return (
+    <HelmetProvider>
     <div className="App">
     <ParallaxProvider>
     <BrowserRouter>
@@ -57,6 +59,7 @@ const App = () => {
     </BrowserRouter>
     </ParallaxProvider>
     </div>
+    </HelmetProvider>
   );
 }
 

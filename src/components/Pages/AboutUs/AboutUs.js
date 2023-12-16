@@ -10,6 +10,7 @@ import Box from '@mui/material/Box';
 import thumbnail from "../../../assets/img/logo/logo-01.png"
 import HeroThree from '../../Utilities/Hero/HeroThree/HeroThree';
 import AboutData from '../../Utilities/About/AboutData';
+import MetaDecorator from '../../MetaDecorator';
 const AboutUs = () => {
     const videoUrls = [
         "https://www.youtube.com/watch?v=oXBj9528a9M",
@@ -22,7 +23,6 @@ const AboutUs = () => {
     return (
 
         <React.Fragment>
-            
             {/* Breadcrumb component */}
             
             {/* About component */}

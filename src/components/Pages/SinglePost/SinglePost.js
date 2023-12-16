@@ -10,6 +10,7 @@ import Comments from "../../Utilities/Blog/SinglePost/Comments";
 import CommentForm from "../../Utilities/Blog/SinglePost/CommentForm";
 import HeroTwo from "../../Utilities/Hero/HeroThree/HeroThree";
 import HeroBlog from "../../Utilities/Hero/HeroBlog/HeroBlog";
+import { Helmet } from "react-helmet";
 
 const SinglePost = () => {
     useEffect(() => {
@@ -20,6 +21,14 @@ const SinglePost = () => {
     return (
 
         <React.Fragment>
+  <Helmet>
+     <title>RockyBook Informative Blogs │Thrilling Gaming Updates</title>
+          <meta name="keywords" content="RockyBook Informative Blogs" />
+        <meta name="title" content="RockyBook Informative Blogs │ Thrilling Gaming Updates" />
+        
+        <meta name="description" content="Dive into the pulse of gaming with RockyBook Insights, your go-to source for thrilling updates and strategic tips. Stay ahead in the gaming arena with our curated content, bringing you the latest trends and expert insights." />
+
+  </Helmet>
             <HeroBlog />
 
             <section className="inner-blog b-details-p pb-90">

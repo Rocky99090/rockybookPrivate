@@ -21,6 +21,7 @@ import HeroTwo from '../../../Utilities/Hero/HeroTwo/HeroTwo';
 import { ParallaxProvider } from 'react-scroll-parallax';
 import { Box, Fab } from '@mui/material';
 import { Helmet } from 'react-helmet';
+import MetaDecorator from '../../../MetaDecorator';
 
 const Home = () => {
     const openWhatsapp = () => {
@@ -29,14 +30,7 @@ const Home = () => {
 
     return (
                 <Fragment>
-                       <Helmet>
-        <title>Best Online Cricket ID Provider in India | Rocky Book</title>
-        <meta name="keywords" content="best betting sites in India, cricket betting sites, best online betting sites India, top betting sites in India, fantasy sports sites in India, top sports websites in India, India's no.1 book, trusted cricket betting sites in India, India no 1 betting site, best legal betting sites, Online Gambling Sites, rocky book, best online gaming platform in India" />
-       <meta name="title" content="Rocky Book - Best Online Cricket Betting Sites in India" />
       
-        <meta name="description" content="Best Online Gaming Platforms in India - Discover the best online gaming platform in India with Rocky Book. Enjoy a wide range of thrilling games, seamless betting experience." />
-        {/* Other meta tags */}
-      </Helmet>
                 <Box
   sx={{
     position: 'fixed',

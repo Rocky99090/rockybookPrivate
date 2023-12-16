@@ -52,8 +52,8 @@ const Faqs = () => {
                     <div className="row">
                         <div className="col-lg-6 col-md-6">
                             <div className="faq-wrap">
-                                <h4 className="mb-30">{'Change Your Style With Rocky Book. Get Your ID and Start Winning Now!'}</h4>
-                                <p>{"Welcome to the Frequently Asked Questions (FAQ) section of Rocky Book. We understand that sports betting might raise various questions, especially if you're new to the world of betting or exploring our platform for the first time. This comprehensive FAQ is designed to provide you with clear and informative answers to some of the most common queries you might have."}</p>
+                                <h4 className="mb-30">{'ENHANCE YOUR EXPERIENCE WITH ROCKY BOOK AND GET YOUR GAME-WINNING ID!'}</h4>
+                                <p>{"Welcome to the Frequently Asked Questions (FAQ) section of Rocky Book. We recognize that sports betting can often lead to questions, particularly for newcomers or those discovering our platform for the first time. This detailed FAQ aims to address your inquiries by offering concise and informative answers to the most commonly asked questions."}</p>
                             </div>
                         </div>
                         <div className="col-lg-6 col-md-6">

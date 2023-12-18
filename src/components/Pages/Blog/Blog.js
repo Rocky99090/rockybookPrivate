@@ -1,17 +1,10 @@
 import React, { useEffect } from "react";
 import { Link } from "react-router-dom";
-import PostPagination from "../../Utilities/Blog/ArchivePost/PostPagination";
-import SideBar from "../../Utilities/Blog/ArchivePost/SideBar";
-import Breadcrumb from "../../Utilities/Breadcrumb/Breadcrumb";
-
-import postThumb1 from '../../../assets/img/blog/inner_b1.jpg';
-import postThumb2 from '../../../assets/img/blog/inner_b2.jpg';
-import postThumb3 from '../../../assets/img/blog/inner_b3.jpg';
-import HeroThree from "../../Utilities/Hero/HeroThree/HeroThree";
 import { Blogs } from "../../Utilities/Blog/blogs-data";
-import SectionTitle from "../../Utilities/SectionTitle/SectionTitle";
 import HeroBlog from "../../Utilities/Hero/HeroBlog/HeroBlog";
-import { Helmet } from "react-helmet";
+import MetaDecorator from "../../MetaDecorator";
+const content = require("../../SeoData/BlogData.json");
+
 const psots = Blogs
 
 const BlogPost = () => {
@@ -24,14 +17,12 @@ const BlogPost = () => {
       }, []);
     return (
         <React.Fragment>
-  <Helmet>
-     <title>RockyBook Informative Blogs │Thrilling Gaming Updates</title>
-          <meta name="keywords" content="RockyBook Informative Blogs" />
-        <meta name="title" content="RockyBook Informative Blogs │ Thrilling Gaming Updates" />
-        
-        <meta name="description" content="Dive into the pulse of gaming with RockyBook Insights, your go-to source for thrilling updates and strategic tips. Stay ahead in the gaming arena with our curated content, bringing you the latest trends and expert insights." />
 
-  </Helmet>
+  <MetaDecorator
+        description={content.description}
+        title={content.title}
+        keywords={content.keywords}
+      />
       <HeroBlog />
 
 <section className="inner-blog pb-90">

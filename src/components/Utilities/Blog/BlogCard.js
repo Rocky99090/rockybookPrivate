@@ -1,9 +1,5 @@
 import React, { Fragment, useState } from "react";
 import { Link } from "react-router-dom";
-import img1 from '../../../assets/img/blog/b_details01.jpg'
-import img2 from '../../../assets/img/blog/b_details02.jpg'
-import img3 from '../../../assets/img/blog/b_details03.jpg'
-import img4 from '../../../assets/img/blog/b_details04.jpg'
 
 const BlogCard = ({ blogData }) => {
     const [isExpanded, setExpanded] = useState(false);

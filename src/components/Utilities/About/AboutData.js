@@ -13,6 +13,8 @@ import HeroThree from '../Hero/HeroThree/HeroThree';
 import useMediaQuery from '@mui/material/useMediaQuery';
 import { Helmet } from 'react-helmet';
 import HeroAbout from '../Hero/HeroOne/HeroOne';
+import MetaDecorator from '../../MetaDecorator';
+const content = require("../../SeoData/AboutData.json");
 const AboutData = () => {
     const mobile = useMediaQuery('(max-width:792px)');
     const web = useMediaQuery('(min-width:793px)');
@@ -23,14 +25,11 @@ const AboutData = () => {
     }
     return (
 <section id="about" className="about-area about-p  pt-30  p-relative">
-             <Helmet>
-        <title>Best Online Cricket ID Provider in India | Rocky Book</title>
-        <meta name="keywords" content="online cricket id provider in India, best cricket id provider in India, get online cricket id India, best online cricket betting id provider, cricket id online" />
-        <meta name="title" content="Best Online Cricket ID Provider in India | Rocky Book" />
-      
-        <meta name="description" content="Best Online Cricket ID Provider - Explore the best online cricket experiences with Rocky Book. We are leading cricket id provider, offers wide range of id with different platforms." />
-        {/* Other meta tags */}
-      </Helmet>
+<MetaDecorator
+        description={content.description}
+        title={content.title}
+        keywords={content.keywords}
+      />
             <HeroAbout />
             <div className="container ">
                 <div className="row">

@@ -1,7 +1,4 @@
 import { Link, useLocation, useParams } from "react-router-dom";
-
-import img1 from '../../../../assets/img/blog/b_details01.jpg'
-import img2 from '../../../../assets/img/blog/b_details02.jpg'
 import { Blogs} from "../blogs-data";
 import SectionTitle from "../../SectionTitle/SectionTitle";
 import SectionBlogTitle from "../../SectionTitle/SectionBlogTitle";
@@ -32,18 +29,13 @@ const PostContent = () => {
                   <>
                   
                     <SectionBlogTitle titlefirst={matchingPost[headKey].head0.title?matchingPost[headKey].head0.title:""}   />
-                    <p>{matchingPost[headKey].head0.body0?matchingPost[headKey].head0.body0:""}</p> 
-                    <p>{matchingPost[headKey].head0.body0?matchingPost[headKey].head0.body1:""}</p> 
-                    <p>{matchingPost[headKey].head0.body0?matchingPost[headKey].head0.body2:""}</p> 
+                    <p>{matchingPost[headKey].head0.body?matchingPost[headKey].head0.body:""}</p> 
                     <SectionBlogTitle titlefirst={matchingPost[headKey].head1.title?matchingPost[headKey].head1.title:""}   />
-                    <p>{matchingPost[headKey].head0.body1?matchingPost[headKey].head1.body0:""}</p> 
-                    <p>{matchingPost[headKey].head0.body1?matchingPost[headKey].head1.body1:""}</p> 
-                    <p>{matchingPost[headKey].head0.body1?matchingPost[headKey].head1.body2:""}</p> 
+                    <p>{matchingPost[headKey].head1.body?matchingPost[headKey].head1.body:""}</p> 
                     <SectionBlogTitle titlefirst={matchingPost[headKey].head2.title?matchingPost[headKey].head2.title:""} />
-                    <p>{matchingPost[headKey].head0.body2?matchingPost[headKey].head2.body0:""}</p> 
-                    <p>{matchingPost[headKey].head0.body2?matchingPost[headKey].head2.body1:""}</p> 
-                    <p>{matchingPost[headKey].head0.body2?matchingPost[headKey].head2.body2:""}</p> 
-
+                    <p>{matchingPost[headKey].head1.body?matchingPost[headKey].head2.body:""}</p> 
+                    <SectionBlogTitle titlefirst={matchingPost[headKey].head2.title?matchingPost[headKey].head3.title:""} />
+                    <p>{matchingPost[headKey].head1.body?matchingPost[headKey].head3.body:""}</p> 
                     </>:
                   <>
                   <SectionBlogTitle titlefirst={matchingPost[headKey]['head0']?matchingPost[headKey]['head0']:""} />

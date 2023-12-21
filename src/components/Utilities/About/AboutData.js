@@ -25,7 +25,8 @@ const AboutData = () => {
     }
     return (
 <section id="about" className="about-area about-p  pt-30  p-relative">
-<MetaDecorator
+
+      <MetaDecorator
         description={content.description}
         title={content.title}
         keywords={content.keywords}

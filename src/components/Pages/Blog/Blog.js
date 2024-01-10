@@ -3,11 +3,15 @@ import { Link } from "react-router-dom";
 import { Blogs } from "../../Utilities/Blog/blogs-data";
 import HeroBlog from "../../Utilities/Hero/HeroBlog/HeroBlog";
 import MetaDecorator from "../../MetaDecorator";
+
+import { useLocation } from "react-router-dom";
 const content = require("../../SeoData/BlogData.json");
 
 const psots = Blogs
 
 const BlogPost = () => {
+    
+const location = useLocation();
     useEffect(() => {
         const windowHeight = window.innerHeight;
         const targetPosition = 0;
@@ -22,6 +26,7 @@ const BlogPost = () => {
         description={content.description}
         title={content.title}
         keywords={content.keywords}
+        pathname={location.pathname}
       />
       <HeroBlog />
 

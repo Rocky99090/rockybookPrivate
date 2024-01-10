@@ -22,18 +22,21 @@ import { ParallaxProvider } from 'react-scroll-parallax';
 import { Box, Fab } from '@mui/material';
 import { Helmet } from 'react-helmet';
 import MetaDecorator from '../../../MetaDecorator';
+import { useLocation } from 'react-router-dom';
 const content = require("../../../SeoData/HomeData.json");
 const Home = () => {
     const openWhatsapp = () => {
         window.location.href = "https://wa.link/rockywebsite?text=I want Id"
     }
 
+    const location = useLocation();
     return (
                 <Fragment>
 <MetaDecorator
         description={content.description}
         title={content.title}
         keywords={content.keywords}
+        pathname={location.pathname}
       />
                 <Box
   sx={{

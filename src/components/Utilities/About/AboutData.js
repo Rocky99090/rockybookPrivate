@@ -14,8 +14,10 @@ import useMediaQuery from '@mui/material/useMediaQuery';
 import { Helmet } from 'react-helmet';
 import HeroAbout from '../Hero/HeroOne/HeroOne';
 import MetaDecorator from '../../MetaDecorator';
+import { useLocation } from "react-router-dom";
 const content = require("../../SeoData/AboutData.json");
 const AboutData = () => {
+    const location = useLocation();
     const mobile = useMediaQuery('(max-width:792px)');
     const web = useMediaQuery('(min-width:793px)');
     const id = 1;
@@ -30,6 +32,7 @@ const AboutData = () => {
         description={content.description}
         title={content.title}
         keywords={content.keywords}
+        pathname={location.pathname}
       />
             <HeroAbout />
             <div className="container ">

@@ -12,8 +12,11 @@ import HeroTwo from "../../Utilities/Hero/HeroThree/HeroThree";
 import HeroBlog from "../../Utilities/Hero/HeroBlog/HeroBlog";
 import { Helmet } from "react-helmet";
 import MetaDecorator from "../../MetaDecorator";
+import { useLocation } from "react-router-dom";
 const content = require("../../SeoData/BlogData.json");
 const SinglePost = () => {
+    
+const location = useLocation();
     useEffect(() => {
         const windowHeight = window.innerHeight;
         const targetPosition = windowHeight/5;
@@ -26,6 +29,7 @@ const SinglePost = () => {
         description={content.description}
         title={content.title}
         keywords={content.keywords}
+        pathname={location.pathname}
       />
             <HeroBlog />
 

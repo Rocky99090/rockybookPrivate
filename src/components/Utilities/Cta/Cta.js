@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 import bgImg from '../../../assets/img/slider/hero-8.jpg';
 const ctaData = {
     bg: bgImg,
-    title: 'BEST ONLINE GAMING PLATFORM IN INDIA ',
+    title: 'Trusted Cricket Betting Sites in India',
     description: 'Click on the Button Below and Get your ID now',
     btn: 'Join Now',
 }
@@ -23,7 +23,7 @@ const [hidden, setHidden] = useState(false);
                         <div className="section-title cta-title  mb-20 wow fadeInUp animated" data-animation="fadeInRight" data-delay=".4s">
                             <div className="row justify-content-center">
                                 <div className="col-xl-6 col-lg-8">
-                                    <h2>{title}</h2>
+                                    <h3>{title}</h3>
                                 </div>
                             </div>
                             <div className="row justify-content-center">

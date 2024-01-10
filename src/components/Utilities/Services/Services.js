@@ -24,8 +24,8 @@ const Services = () => {
 
             <div className="container">
             <SectionTitle
-                titlefirst={'Best'}
-                titleSec={'Service'}
+                titlefirst={'Best Online '}
+                titleSec={'Cricket Betting Sites'}
                 className={'about-title second-title text-center'}
             />
             <div className="s-about-content " data-wow-delay=".4s">

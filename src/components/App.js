@@ -38,7 +38,7 @@ const App = () => {
           <Route exact path="/" element={<Home />} />
           
           <Route exact path="/home-three" component={HomeThree} />
-          <Route exact path="/about-us" element={<AboutUs />} />
+          <Route exact path="/best-online-cricket-id-provider-in-india" element={<AboutUs />} />
           {/* <Route exact path="/gallery" element={<Gallery />} /> */}
           {/* <Route exact path="/team" component={Teams} /> */}
           {/* <Route exact path="/faq" component={Faqs} /> */}

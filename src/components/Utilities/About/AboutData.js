@@ -43,7 +43,7 @@ const AboutData = () => {
                         <div className="details__content-img">
                         
                         </div>
-                        <SectionTitle titleSec={data.title}  className="text-center" />
+                        <SectionTitle titlethird={data.title}  className="text-center" />
                         <h5>{data.excerptAbout}.</h5>
                         <p>{data.body1About}</p>
                         <p>{data.body2About}</p>

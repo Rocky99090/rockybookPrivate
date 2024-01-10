@@ -2087,6 +2087,7 @@ label {
 	display           : none;
 }
 
+
 .section-title p {
 	width : 65%;
 	margin: 10px auto;
@@ -5813,6 +5814,7 @@ section:hover .section-title h2:before {
 	border-bottom      : 4px solid #170f0f;
 	background         : #000;
 	background-position: center 0 !important;
+	text-align: center;
 }
 
 .f-cta-area.gray-bg {

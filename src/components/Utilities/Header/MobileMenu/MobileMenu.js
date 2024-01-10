@@ -38,7 +38,7 @@ class MobileMenu extends Component {
                         </li>
                         <li>
                             <Link onClick={() => this.props.onClose(false)}
-                                to={'/about-us'}>
+                                to={'/best-online-cricket-id-provider-in-india'}>
                                 {'About Us'}
                             </Link>
                         </li>

@@ -36,8 +36,7 @@ const About = () => {
                     <div className="col-lg-6 col-md-12 col-sm-12">
                         <div className="about-content s-about-content wow fadeInRight" data-wow-delay=".4s">
                             <SectionTitle
-                                titlefirst={'We’re the best '}
-                                titleSec={'gaming platform in India'}
+                                titlethird={'We’re the best online gaming platform in India'}
                                 className={'about-title second-title'}
                             />
                             <p><b>KHELO DUM PAR, JEETO BUMPER </b></p>

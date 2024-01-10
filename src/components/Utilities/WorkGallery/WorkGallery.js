@@ -95,9 +95,10 @@ const WorkGallery = () => {
                 <div className="portfolio ">
                     <div className="row align-items-center mb-0 wow fadeInUp animated" data-animation="fadeInRight" data-delay=".4s">
                         <div className="col-lg-12 text-center">
-                            <SectionTitle
-                                titlefirst='EXPLORE AND ENGAGE IN THE'
-                                titleSec='GAME OF YOUR CHOICE' />
+                            {/* <SectionTitle
+                                titleh3='EXPLORE AND ENGAGE IN THE'
+                                titleh3Sec='GAME OF YOUR CHOICE' /> */}
+                                <p style={{fontSize:"2em", color:"white",lineHeight:"35px"}}>EXPLORE AND ENGAGE IN THE GAME OF YOUR CHOICE</p>
                         </div>
                     </div>
                     <div className="grid col4 ">

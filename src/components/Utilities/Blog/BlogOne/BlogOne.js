@@ -77,9 +77,10 @@ const BlogOne = () => {
             <div className="container">
             <div className="row align-items-center mb-0 wow fadeInUp animated" data-animation="fadeInRight" data-delay=".4s">
                         <div className="col-lg-12 text-center">
-                            <SectionTitle
+                            {/* <SectionTitle
                                 titlefirst='THE ROCKY GUARANTEE'
-                                titleSec=' WITHDRAWAL IN 60 MINUTES - OR ELSE MONEY DOUBLE' />
+                                titleSec=' WITHDRAWAL IN 60 MINUTES - OR ELSE MONEY DOUBLE' /> */}
+                                <h4 style={{fontSize:"2em", color:"white",lineHeight:"35px"}}>THE ROCKY GUARANTEE WITHDRAWAL IN 60 MINUTES - OR ELSE MONEY DOUBLE</h4>
                         </div>
                     </div>
                     

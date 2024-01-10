@@ -6,10 +6,10 @@ import img3 from '../../../assets/img/blog/blog4.jpg'
 export const Blogs = 
 [
     {   
-        "handle":"cricket-betting-strategies-a-beginner’s-guide-with-rockybook",
+        "handle":"cricket-betting-insights-a-beginner’s-guide-with-rockybook",
         "id":0,
-        "heading":"Cricket Betting Strategies",
-        "title": "Cricket Betting Strategies: A Beginner’s Guide with RockyBook",
+        "heading":"Cricket Betting Insights",
+        "title": "Cricket Betting Insights: A Beginner’s Guide with RockyBook",
         "imageUrl": img,
         "totalHeads": 6,
         "head0" : "Understanding the basics : ",

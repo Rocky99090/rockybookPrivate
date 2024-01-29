@@ -3,6 +3,8 @@ import img from '../../../assets/img/blog/blog-img.jpg'
 import img1 from '../../../assets/img/blog/rockblog2.jpg'
 import img2 from '../../../assets/img/blog/blog3.jpg'
 import img3 from '../../../assets/img/blog/blog4.jpg'
+import img4 from '../../../assets/img/blog/new-blog1.jpg'
+import img5 from '../../../assets/img/blog/new-blog2.jpg'
 export const Blogs = 
 [
     {   
@@ -152,20 +154,53 @@ export const Blogs =
         "excerpt": "Welcome to the electrifying realm of live gaming on cricket matches with RockyBook! We understand the exhilaration that in-play betting brings to your gaming experience, and we're here to guide you through this thrilling journey. Teamed up with platforms that offer round-the-clock withdrawal and deposit services, RockyBook ensures a smooth and flexible gaming experience for all enthusiasts.",
         "conclusion" : "At RockyBook, we take pride in being your trusted mediator for betting with some of the top betting sites. Our commitment to providing 24/7 services, diverse gaming options, and seamless accessibility sets us apart. Visit our partner sites for more details, and may your gaming experience be not only enjoyable but also rewarding. Happy gaming!"
       },
-    // {
-    //     "id":2,
-    //     "heading":"Just Imagine......",
-    //     "title": "Make Your Destinational Wedding Magical With CamHire At Udaipur",
-    //     "imageUrl": img,
-    //     "excerpt": "India is an amazingly diverse country filled with different interesting cultures,",
-    //     "body": "India is an amazingly diverse country filled with different interesting cultures, customs, and religions. It is unusual to find a place with so much diversity filled with ancient beauty and long history. India is known for its many celebrations and rituals. Indians live every day as if it's Carnival. One of the most extravagant things would have to be Indian weddings. Indian Weddings are unlike any other in the world. They are an extended celebration of love and dedication that culminates in an unforgettable night. Many cultures live in India, and each culture has very different aspects of a wedding ceremony. Indian weddings are a visual extravaganza because of every little detail, from involvement, effort and emotions to the wealth which changed from town to town. The grandeur of an Indian bride and groom is unmatched. Guests eagerly wait to see the divinity together. The grandeur radiated by the bride and groom leaves a lasting impression on all who witness her ceremony. As we raise a toast to the most memorable moment with the most glamorous people of a wedding, we want you to soak your senses in the surreal beauty of the pictures captured by CamHire. Secure your timeless moments in the best possible way and reminisce about them. We have a team of diverse talents from across the nation who are perfect for capturing memories and etching them in your hearts. We offer you the best third-party services by assuring zero fraud and 100% satisfactory deals. And what better place can you choose other than the Venice of East - Udaipur. Destination weddings in Udaipur are the latest trend. As they grow in popularity, we'll help you turn your event into a memorable celebration. We specialize in creating beautiful and unique events that others might not be able to achieve. Come to the exotic city to have the photography of your life."
-    //   },
-    // {
-    //     "id":3,
-    //     "heading":"The Importance Of Photography In Business And Startups",
-    //     "title": "How Is Photography Impacting Businesses And Startups In The Digital Age?",
-    //     "imageUrl": img,
-    //     "excerpt": "It is not surprising that in the digital age, photography has become the ultimate",
-    //     "body": "It is not surprising that in the digital age, photography has become the ultimate hit for startups and businesses. A photo can pack a powerful emotional punch, but more importantly, it connects to your audience on an emotional level. In today's digital age, businesses and startups increasingly rely on photography to help them stand out from the competition. Professional photography can help your business or startup to project a more professional and polished image, which can be vital to success in today's competitive marketplace. Photography can also capture important moments and events, which can help promote your business or startup to a broader audience. Social media platforms such as Instagram and Snapchat are hugely popular among businesses and startups. Using high-quality images on these platforms can help generate interest and engagement from potential customers. Professional photography services can be a worthwhile investment for any business or startup and help you achieve your desired results in today's digital age. As businesses and startups increasingly move into the digital age, hiring a photographer who understands how to capture high-quality images that represent you or your incidents well online becomes more important. Not only do these photos need to look good, but they also need to tell a story that speaks to your brand or your emotions. An experienced and creative photographer can take great photos and work with you to come up with ideas for shots that will show off your products or services in the best light possible. They will also understand the importance of Lightroom and Photoshop editing to create images that look professional and polished. Investing in quality photography is worth it not only for the great images you'll end up with but also for the peace of mind knowing that your best moments are being represented in the best way possible. So if you're looking to make a good impression in the digital age, hire a photographer who can help you do just that. Things To Keep In Mind When You Are Looking For A Photographer It is still essential to keep a few things in mind when looking for a photographer, especially if you are looking for someone to photograph the best moments of your life like a wedding or your new startup. First of all, you will want to make sure that the photographer has experience in photographing businesses and startups. This way, you can be sure that they know how to capture the essence of your emotions in their photos. Secondly, checking out the photographer's portfolios before hiring them is crucial. This will give you an idea of their style and whether or not it is a good fit for your needs. Lastly, be sure to communicate your needs and goals clearly with the photographer before booking them. This way, there will be no surprises, and you will end up with the photos you are looking for. At CamHire, you get to satiate all the above-mentioned needs as we give you trusted photographers who will capture the exotic moments, just in the way you want to have them. Every photographer has a unique approach, so you get to have the best of the best!"
-    // }
-]
+      {   
+        "handle":"Cricket-Betting-Glossary-Key-Terms-Every-Punter-Should-Know",
+        "id":4,
+        "heading":"Cricket Betting Glossary",
+        "title": "Cricket Betting Glossary: Key Terms Every Punter Should Know",
+        "imageUrl": img4,
+        "totalHeads": 10,
+        "head0" : "Bookmaker: ",
+        "head1" : "Betting Odds:",
+        "head2" : "Betting Exchange:",
+        "head3" : "Accumulator Bet:",
+        "head4" : "In-Play Betting:",
+        "head5" : "Free Bets:",
+        "head6" : "Live Streaming:",
+        "head7" : "Cash Out:",
+        "head8" : "Handicap Betting:",
+        "head9" : "Wagering Requirements:",
+        "body0": "A bookmaker is a platform or individual that accepts and pays off bets on sporting events. With the rise of online betting, choosing the best online betting sites in India is crucial for a seamless and secure betting experience.",
+        "body1": "Understanding betting odds is fundamental. Odds represent the probability of a particular outcome and the potential profit. Whether you're exploring cricket betting sites or any other sports, odds come in various formats like fractional, decimal, and money line.",
+        "body2": "Some of the top betting sites in India offer betting exchanges, where users can bet against each other. This allows punters to act as both the bettor and the bookmaker, providing a unique and dynamic betting experience.",
+        "body3": "Also known as a parlay or combo bet, an accumulator involves combining multiple bets into one. While the potential payout is higher, all individual bets must win for the accumulator to be successful.",
+        "body4": "One of the exciting features offered by leading cricket betting sites is in-play betting, allowing punters to place bets while the game is in progress. This dynamic form of betting adds an extra layer of excitement to the overall experience.",
+        "body5": "Many online betting sites in India attract new customers by offering free bets as a part of their welcome packages. Understanding the terms and conditions attached to free bets is crucial for maximizing their benefits.",
+        "body6": "Top betting sites in India often provide live streaming services, allowing users to watch the cricket match directly on their platforms. This feature enhances the in-play betting experience, enabling punters to make informed decisions in real-time.",
+        "body7": "Cash-out is a feature that allows punters to settle their bets before the completion of an event. It provides a way to secure profits or minimize losses based on the current state of the game.",
+        "body8": "Handicap betting is a popular option for cricket enthusiasts. It involves giving one team a virtual advantage or disadvantage to level the playing field, providing more balanced odds for different outcomes.",
+        "body9": "When exploring the best online betting sites in India, understanding wagering requirements is crucial, especially when it comes to bonuses. Wagering requirements dictate how many times you must wager your bonus before you can withdraw any associated winnings.",
+        "excerpt1": "",
+        "excerpt": " Welcome to the thrilling world of cricket betting, where excitement and strategy converge to create an unforgettable experience for punters. Whether you're a seasoned bettor or a newcomer exploring the best betting sites in India, understanding the cricket betting glossary is essential for making informed decisions and maximizing your chances of success. In partnership with legal betting sites around the world, Rockybook is here to guide you through the key terms every punter should know.",
+        "conclusion" : "As you embark on your cricket betting journey with Rockybook, mastering these key terms will undoubtedly enhance your overall experience. Stay informed, explore the best betting sites in India, and may your cricket betting adventures be filled with excitement and success. Happy betting!"
+      },
+      {   
+        "handle":"Jeetega-Bhai-Jeetega-India-Jeetega-Join-Team-India-and-Win-Big-With-Rockybook",
+        "id":5,
+        "heading":"Jeetega Bhai Jeetega India Jeetega!",
+        "title": "Jeetega Bhai Jeetega India Jeetega! Join Team India and Win Big With Rockybook",
+        "imageUrl": img5,
+        "totalHeads": 4,
+        "head0" : "Khelo Dum Par Jeeto Bumper",
+        "head1" : "World Number 1",
+        "head2" : "Easy and User-Friendly Rocky",
+        "head3" : "Responsible Gambling at its Core",
+        "excerpt": "As the excitement and thrill of the cricket T20 series is going on, and the matches are intensifying, the Indian cricket team's shining performances have been nothing short of spectacular. With every victory, the pride of the nation soars high, as does the opportunity for fans to celebrate. The India vs Afghanistan match in the T20 series is a thrilling and highly anticipated clash between two strong cricketing nations. As Indian cricket enthusiasts, let's unite and show our unwavering support to our national team. However, did you know that the Indian Cricket winning streak is not just limited to the players? It's also a fantastic chance for you to Play Big and Win Big with Rockybook, an online cricket ID provider in India. So, gear up, cheer loudly, and let's stand with our team as they aim for glory on the biggest stage of cricket. As a trusted betting partner, Rockybook provides an exhilarating platform to bet legally on cricket matches. Join Team India and offer yourself the opportunity to Win and celebrate victory with a double delight.",
+        "body0": "Rockybook stands apart from other betting platforms due to its unique offering, Khelo Dum Par Jeeto Bumper. This exciting feature amplifies the thrill of betting by providing generous rewards and bonuses. On Rockybook, you have the opportunity to not only cheer for Team India but also add an extra layer of excitement to the game with fantastic promotions, tempting odds, and lucrative rewards.",
+        "body1": "Team India, having won the first game of this T20 series, is looking like the World’s best team by miles. Let's create history with team India and be the number 1 T20 team in this World. You have our support, and we ensure you that your betting experience remains unparalleled to any other. Rockybook prides itself on being the World's number one betting platform. With its strong reputation and commitment to fair play and transparency, you can place your bets with confidence. Rockybook collaborates with legal and authorized betting platforms, ensuring the best online cricket ID and reliable gambling experience. As a fan, you can enjoy the thrill of betting without any concerns, knowing that you are consuming on a responsible and legitimate platform. ",
+        "body2": "Navigating the World of online betting can seem formidable, but Rockybook simplifies the process with its user-friendly interface. Whether you are a seasoned bettor or new to the World of cricket betting sites, Rockybook ensures a seamless and enjoyable experience. From creating an account to placing bets, the platform's intuitive design caters to your convenience, making it a breeze to bet on your favorite cricket matches. ",
+        "body3": "Rockybook prioritizes responsible gambling, encouraging users to bet responsibly and within their limits. With features like deposit limits, loss limits, and a dedicated customer support team, Rockybook promotes a healthy gambling environment. This commitment to responsible gambling ensures that your experience remains enjoyable and stress-free. ",
+        "conclusion": "Joining Team India in their quest towards lifting the T20 series Cup not only fills you with national pride but also offers you a fabulous opportunity to win big on Rockybook, the World's number one betting platform. With a user-friendly interface and commitment to responsible gambling, Rockybook provides a secure and thrilling platform for cricket enthusiasts to engage in legal betting as a trusted cricket betting site in India. So, gear up, support Team India, and get ready to make the most of this exciting cricket season with Rockybook!"
+      },
+    ]

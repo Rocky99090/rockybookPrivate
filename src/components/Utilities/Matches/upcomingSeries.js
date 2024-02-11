@@ -24,7 +24,7 @@ import './counter.css'
 const UpcomingSeries = () => {
     
     const apiUrl = 'https://api.cricapi.com/v1/series';
-    const apiKey = 'ab12eb5d-64bd-40fe-8b1c-bd49af32eddd';
+    const apiKey = 'e32e64aa-9b01-40a3-8b93-a1490241c60b';
     const img = 'https://h.cricapi.com/img/icon512.png'
     //ab12eb5d-64bd-40fe-8b1c-bd49af32eddd
     const offset = 0;

@@ -5,6 +5,7 @@ import img2 from '../../../assets/img/blog/blog3.jpg'
 import img3 from '../../../assets/img/blog/blog4.jpg'
 import img4 from '../../../assets/img/blog/new-blog1.jpg'
 import img5 from '../../../assets/img/blog/new-blog2.jpg'
+import img6 from '../../../assets/img/blog/new-blog3.jpg'
 export const Blogs = 
 [
     {   
@@ -187,7 +188,7 @@ export const Blogs =
       },
       {   
         "handle":"Jeetega-Bhai-Jeetega-India-Jeetega-Join-Team-India-and-Win-Big-With-Rockybook",
-        "id":5,
+        "id":6,
         "heading":"Jeetega Bhai Jeetega India Jeetega!",
         "title": "Jeetega Bhai Jeetega India Jeetega! Join Team India and Win Big With Rockybook",
         "imageUrl": img5,
@@ -202,5 +203,26 @@ export const Blogs =
         "body2": "Navigating the World of online betting can seem formidable, but Rockybook simplifies the process with its user-friendly interface. Whether you are a seasoned bettor or new to the World of cricket betting sites, Rockybook ensures a seamless and enjoyable experience. From creating an account to placing bets, the platform's intuitive design caters to your convenience, making it a breeze to bet on your favorite cricket matches. ",
         "body3": "Rockybook prioritizes responsible gambling, encouraging users to bet responsibly and within their limits. With features like deposit limits, loss limits, and a dedicated customer support team, Rockybook promotes a healthy gambling environment. This commitment to responsible gambling ensures that your experience remains enjoyable and stress-free. ",
         "conclusion": "Joining Team India in their quest towards lifting the T20 series Cup not only fills you with national pride but also offers you a fabulous opportunity to win big on Rockybook, the World's number one betting platform. With a user-friendly interface and commitment to responsible gambling, Rockybook provides a secure and thrilling platform for cricket enthusiasts to engage in legal betting as a trusted cricket betting site in India. So, gear up, support Team India, and get ready to make the most of this exciting cricket season with Rockybook!"
+      },
+
+      {   
+        "handle":"Assuring-Safe-and-Responsible-Betting-RockyBooks-Approach",
+        "id":5,
+        "heading":"Assuring Safe and Responsible Betting",
+        "title": "Assuring Safe and Responsible Betting: RockyBook's Approach",
+        "imageUrl": img6,
+        "totalHeads": 5,
+        "head0" : "Partnering with the Best Top Betting Sites in India",
+        "head1" : "Embracing Fantasy Sports: Fantasy Sports Sites in India",
+        "head2" : "Promoting Responsible Gambling: Our Top Priority",
+        "head3" : "Transparency and Integrity: Our Commitment to Users",
+        "head4" : "A Safe and Enjoyable Betting Experience",
+        "excerpt": "In the passionate world of online betting, ensuring safety and promoting responsible gambling practices are paramount. At RockyBook, we understand the importance of creating a secure user environment while encouraging responsible betting habits. As an online betting platform that partners with some of the top betting sites in India, we strive to provide our users with an unparalleled gaming experience while prioritizing their well-being.",
+        "body0": "RockyBook's commitment to safety begins with our selection of partners. We collaborate with some of the top betting sites in India, renowned for their reliability, integrity, and security measures. By partnering with these trusted platforms, we ensure that our users can access a wide range of betting options while enjoying a safe and secure environment.",
+        "body1": "In addition to traditional sports betting, RockyBook embraces the growing popularity of fantasy sports in India. We partner with top sports websites, allowing our users to engage in this exciting and interactive form of gaming. Whether you're a cricket enthusiast or a football fanatic, our fantasy sports offerings cater to diverse interests, ensuring that there's something for everyone.",
+        "body2": "At RockyBook, responsible gambling is not just a priority—it's a core value. We understand that betting should be enjoyed responsibly and never at the expense of our users' well-being. We have implemented various measures to promote responsible gambling practices among our users. First and foremost, we provide our users with access to educational resources and information on responsible gambling. Through our platform, users can learn about the signs of problem gambling, set limits on their betting activity, and access support services if needed. Additionally, we offer self-exclusion tools that allow users to take a break from betting if they feel it's necessary. Moreover, we have a dedicated team of support professionals available 24/7 to assist users who may be struggling with their gambling habits. Whether you have questions about setting limits, accessing support services, or anything related to responsible gambling, our team is here to help.",
+        "body3": "Transparency and integrity are at the heart of everything we do at RockyBook. We provide our users with clear, accurate, and up-to-date information so that they can make informed decisions about their betting activity. From odds and payouts to terms and conditions, we strive to be transparent in all our dealings.",
+        "body4": "At RockyBook, we are committed to providing our users with a safe, responsible, and enjoyable betting experience. By partnering with the top betting sites and fantasy sports sites in India, promoting responsible gambling practices, and prioritizing transparency and integrity.",
+        "conclusion": "we strive to set the standard for online betting platforms. So, whether you're a seasoned bettor or new to online gambling, you can trust RockyBook to provide a secure and enjoyable gaming experience."
       },
     ]

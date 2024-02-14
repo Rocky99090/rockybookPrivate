@@ -6,6 +6,7 @@ import img3 from '../../../assets/img/blog/blog4.jpg'
 import img4 from '../../../assets/img/blog/new-blog1.jpg'
 import img5 from '../../../assets/img/blog/new-blog2.jpg'
 import img6 from '../../../assets/img/blog/new-blog3.jpg'
+import img7 from '../../../assets/img/blog/new-blog4.jpg'
 export const Blogs = 
 [
     {   
@@ -188,7 +189,7 @@ export const Blogs =
       },
       {   
         "handle":"Jeetega-Bhai-Jeetega-India-Jeetega-Join-Team-India-and-Win-Big-With-Rockybook",
-        "id":6,
+        "id":5,
         "heading":"Jeetega Bhai Jeetega India Jeetega!",
         "title": "Jeetega Bhai Jeetega India Jeetega! Join Team India and Win Big With Rockybook",
         "imageUrl": img5,
@@ -207,7 +208,7 @@ export const Blogs =
 
       {   
         "handle":"Assuring-Safe-and-Responsible-Betting-RockyBooks-Approach",
-        "id":5,
+        "id":6,
         "heading":"Assuring Safe and Responsible Betting",
         "title": "Assuring Safe and Responsible Betting: RockyBook's Approach",
         "imageUrl": img6,
@@ -225,4 +226,28 @@ export const Blogs =
         "body4": "At RockyBook, we are committed to providing our users with a safe, responsible, and enjoyable betting experience. By partnering with the top betting sites and fantasy sports sites in India, promoting responsible gambling practices, and prioritizing transparency and integrity.",
         "conclusion": "we strive to set the standard for online betting platforms. So, whether you're a seasoned bettor or new to online gambling, you can trust RockyBook to provide a secure and enjoyable gaming experience."
       },
+
+      {   
+        "handle":"RockyBook-Your-Ultimate-Destination-for-Online-Cricket-Betting",
+        "id":7,
+        "heading":"Ultimate Destination for Cricket Betting",
+        "title": "RockyBook: Your Ultimate Destination for Online Cricket Betting",
+        "imageUrl": img7,
+        "totalHeads": 6,
+        "head0" : "Partnerships: A Winning Formula",
+        "head1" : "User-Friendly Interface: Navigating with Ease",
+        "head2" : "Security and Transparency: Putting Users First",
+        "head3" : "Diverse Betting Options: Beyond Cricket",
+        "head4" : "Rewarding Loyalty: Bonuses and Promotions",
+        "head5" : "Join RockyBook Today",
+        "excerpt": "In the fast-paced world of online betting, discerning punters seek reliability, security, and an exceptional user experience. Enter RockyBook, the best online cricket ID provider meant for excellence in the realm of cricket betting. Let's dive deeper into what sets RockyBook apart as the premier destination for enthusiasts of the sport.",
+        "body0": "RockyBook's strategic partnerships with numerous online betting sites solidify its status as the go-to platform for discerning punters. By collaborating with industry leaders, RockyBook ensures users have access to a diverse range of betting options, including cricket – the heartbeat of sports in India.",
+        "body1": "One of RockyBook's key highlights is its intuitive interface, designed to enhance the user experience. Whether you're a seasoned punter or a novice exploring online betting for the first time, RockyBook caters to all levels of expertise with its user-friendly platform.",
+        "body2": "As the leading online cricket ID provider in India, RockyBook prioritizes user security and transparency. With stringent security measures and a commitment to responsible betting practices, RockyBook ensures users can place their bets with confidence and peace of mind.",
+        "body3": "While cricket holds a special place in the hearts of Indian punters, RockyBook offers a diverse array of betting options spanning various sports and events. From live betting to virtual games, RockyBook caters to every whim and fancy of its users.",
+        "body4": "RockyBook goes above and beyond to reward its users for their loyalty and patronage. With enticing bonuses, promotions, and rewards programs, RockyBook ensures users feel valued and appreciated every step of the way.",
+        "body5": "RockyBook emerges as the undisputed champion in the realm of online cricket betting, setting the gold standard for excellence and innovation. With its seamless interface, extensive range of betting options, and unwavering commitment to user satisfaction",
+        "conclusion": "RockyBook stands tall as the ultimate destination for punters seeking a thrilling and rewarding betting experience. So why settle for anything less? Join RockyBook today and embark on an unforgettable journey into the world of online betting like never before. Khelo Dumper Jeeto Bumper"
+      },
+
     ]

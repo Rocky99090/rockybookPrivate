@@ -7,6 +7,8 @@ import img4 from '../../../assets/img/blog/new-blog1.jpg'
 import img5 from '../../../assets/img/blog/new-blog2.jpg'
 import img6 from '../../../assets/img/blog/new-blog3.jpg'
 import img7 from '../../../assets/img/blog/new-blog4.jpg'
+import img8 from '../../../assets/img/blog/new-blog5.jpg'
+
 export const Blogs = 
 [
     {   
@@ -230,24 +232,45 @@ export const Blogs =
       {   
         "handle":"RockyBook-Your-Ultimate-Destination-for-Online-Cricket-Betting",
         "id":7,
-        "heading":"Ultimate Destination for Cricket Betting",
+        "heading":"Ultimate Destination for Online Cricket Betting",
         "title": "RockyBook: Your Ultimate Destination for Online Cricket Betting",
         "imageUrl": img7,
-        "totalHeads": 6,
+        "totalHeads": 5,
         "head0" : "Partnerships: A Winning Formula",
         "head1" : "User-Friendly Interface: Navigating with Ease",
         "head2" : "Security and Transparency: Putting Users First",
         "head3" : "Diverse Betting Options: Beyond Cricket",
         "head4" : "Rewarding Loyalty: Bonuses and Promotions",
-        "head5" : "Join RockyBook Today",
         "excerpt": "In the fast-paced world of online betting, discerning punters seek reliability, security, and an exceptional user experience. Enter RockyBook, the best online cricket ID provider meant for excellence in the realm of cricket betting. Let's dive deeper into what sets RockyBook apart as the premier destination for enthusiasts of the sport.",
         "body0": "RockyBook's strategic partnerships with numerous online betting sites solidify its status as the go-to platform for discerning punters. By collaborating with industry leaders, RockyBook ensures users have access to a diverse range of betting options, including cricket – the heartbeat of sports in India.",
         "body1": "One of RockyBook's key highlights is its intuitive interface, designed to enhance the user experience. Whether you're a seasoned punter or a novice exploring online betting for the first time, RockyBook caters to all levels of expertise with its user-friendly platform.",
         "body2": "As the leading online cricket ID provider in India, RockyBook prioritizes user security and transparency. With stringent security measures and a commitment to responsible betting practices, RockyBook ensures users can place their bets with confidence and peace of mind.",
         "body3": "While cricket holds a special place in the hearts of Indian punters, RockyBook offers a diverse array of betting options spanning various sports and events. From live betting to virtual games, RockyBook caters to every whim and fancy of its users.",
         "body4": "RockyBook goes above and beyond to reward its users for their loyalty and patronage. With enticing bonuses, promotions, and rewards programs, RockyBook ensures users feel valued and appreciated every step of the way.",
-        "body5": "RockyBook emerges as the undisputed champion in the realm of online cricket betting, setting the gold standard for excellence and innovation. With its seamless interface, extensive range of betting options, and unwavering commitment to user satisfaction",
-        "conclusion": "RockyBook stands tall as the ultimate destination for punters seeking a thrilling and rewarding betting experience. So why settle for anything less? Join RockyBook today and embark on an unforgettable journey into the world of online betting like never before. Khelo Dumper Jeeto Bumper"
+        "conclusion": "RockyBook emerges as the undisputed champion in the realm of online cricket betting, setting the gold standard for excellence and innovation. With its seamless interface, extensive range of betting options, and unwavering commitment to user satisfaction, RockyBook stands tall as the ultimate destination for punters seeking a thrilling and rewarding betting experience. So why settle for anything less? Join RockyBook today and embark on an unforgettable journey into the world of online betting like never before."
+      },
+
+      {   
+        "handle":"Rocky-Book-Gaming-Updates-Your-Ultimate-Guide-to-Sports-Betting",
+        "id":8,
+        "heading":"Rocky Book Gaming Updates",
+        "title": "Rocky Book Gaming Updates: Your Ultimate Guide to Sports Betting",
+        "imageUrl": img8,
+        "totalHeads": 5,
+        "head0" : "Getting Started: Creating Your Account and Placing Bets",
+        "head1" : "Exploring Betting Options: A Diverse Range of Sports Events",
+        "head2" : "Optimized for Mobile Betting: Betting on the Go",
+        "head3" : "Legal and Trusted: Your Partner in Responsible Gaming",
+        "head4" : "Innovation and Transparency: Our Core Values",
+        "head5" : "Dedicated Support: Your Partners in Excellence",
+        "excerpt": "Embark on an enriching journey into the exhilarating realm of sports betting with RockyBook. Our platform offers many resources and features to enhance your experience and elevate your understanding of the betting landscape.",
+        "body0": "Learn how to kickstart your betting adventure by creating an account on our user-friendly platform. Discover how easy it is to browse sports events, make selections, and set your stake to begin your journey towards potential winnings.",
+        "body1": "Dive into the diverse array of sports available for betting on Rocky Book. Our platform caters to various interests and preferences, from cricket and football to basketball, soccer, baseball, tennis, and more. Explore our comprehensive list of events to find the perfect betting opportunities that align with your passions.",
+        "body2": "Experience the convenience of mobile betting with Rocky Book. Our platform is optimized for smartphones and tablets, allowing you to place bets, manage your account, and enjoy a seamless betting experience. Discover the freedom and flexibility of betting from anywhere, at any time.",
+        "body3": "Rest assured that you're in safe hands with Rocky Book. As one of the best legal betting sites, we prioritize integrity and transparency while providing responsible gaming updates. We provide a secure and enjoyable betting experience for seasoned enthusiasts and newcomers. Explore our commitment to promoting healthy habits and offering self-exclusion tools to maintain a balanced approach to betting.",
+        "body4": "Discover what sets Rocky Book apart from the rest. Our unwavering commitment to innovation, responsibility, and transparency ensures you receive the best betting experience. From our cutting-edge mobile app to our clear, real-time information on odds, results, and payouts, we strive to keep you well-informed and empowered throughout your betting journey.",
+        "body5": "Meet the passionate team behind Rocky Book – a dedicated group of betting experts, developers, and customer support professionals committed to delivering an exceptional experience. From troubleshooting technical issues to providing expert advice, our team is here to support you every step of the way.",
+        "conclusion": "As you embark on your betting journey, remember that Rocky Book is here to guide and support you. With our comprehensive resources, user-friendly interface, and unwavering commitment to excellence, we strive to be your trusted partner in the thrilling world of sports betting. Join us today and experience the excitement of legal betting at your fingertips."
       },
 
     ]

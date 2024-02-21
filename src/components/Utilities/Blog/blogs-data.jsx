@@ -8,6 +8,7 @@ import img5 from '../../../assets/img/blog/new-blog2.jpg'
 import img6 from '../../../assets/img/blog/new-blog3.jpg'
 import img7 from '../../../assets/img/blog/new-blog4.jpg'
 import img8 from '../../../assets/img/blog/new-blog5.jpg'
+import img9 from '../../../assets/img/blog/new-blog6.jpg'
 
 export const Blogs = 
 [
@@ -256,7 +257,7 @@ export const Blogs =
         "heading":"Rocky Book Gaming Updates",
         "title": "Rocky Book Gaming Updates: Your Ultimate Guide to Sports Betting",
         "imageUrl": img8,
-        "totalHeads": 5,
+        "totalHeads": 6,
         "head0" : "Getting Started: Creating Your Account and Placing Bets",
         "head1" : "Exploring Betting Options: A Diverse Range of Sports Events",
         "head2" : "Optimized for Mobile Betting: Betting on the Go",
@@ -272,5 +273,29 @@ export const Blogs =
         "body5": "Meet the passionate team behind Rocky Book – a dedicated group of betting experts, developers, and customer support professionals committed to delivering an exceptional experience. From troubleshooting technical issues to providing expert advice, our team is here to support you every step of the way.",
         "conclusion": "As you embark on your betting journey, remember that Rocky Book is here to guide and support you. With our comprehensive resources, user-friendly interface, and unwavering commitment to excellence, we strive to be your trusted partner in the thrilling world of sports betting. Join us today and experience the excitement of legal betting at your fingertips."
       },
+
+      {   
+        "handle":"Top-5-Online-Games-to-Bet-On-A-Guide-to-Thrilling-Gamers-with-RockyBook",
+        "id":9,
+        "heading":"Top 5 Online Games to Bet On",
+        "title": "Top 5 Online Games to Bet On: A Guide to Thrilling Gamers with RockyBook",
+        "imageUrl": img9,
+        "totalHeads": 6,
+        "head0" : "1. Cricket: The Gentleman's Game Takes Center Stage",
+        "head1" : "2. Football: A Global Spectacle of Skill and Strategy",
+        "head2" : "3. Casino Games: Where Luck Meets Strategy",
+        "head3" : "4. Tennis: A Game of Precision and Power",
+        "head4" : "5. Esports: Where Virtual Worlds Collide",
+        "head5" : "Why RockyBook is Your Number One Betting Partner",
+        "excerpt": "In the ever-evolving landscape of online betting, the array of games available to bet on seems endless. From timeless classics to modern marvels, there's something for every betting enthusiast. In this guide, we'll explore the top 5 games to bet on online, with cricket taking the number one spot. We'll also explore how betting works in each game and why RockyBook is your ultimate betting partner for all these gaming adventures.",
+        "body0": "Cricket holds a special place in the hearts of millions of fans worldwide, and it's no surprise that it tops the list of games to bet on. Cricket offers many betting opportunities, from thrilling T20 clashes to intense Test matches. Bettors can wager on match outcomes, player performances, and even specific events within the game, such as boundaries, wickets, and runs scored. With its dynamic nature and broad fan base, cricket betting sites attract enthusiasts from all walks of life.",
+        "body1": "Football, or soccer, is another trendy sport that draws millions of fans and bettors alike. Betting on football matches involves predicting the outcome of games, including win-draw-win, total goals scored, and specific player performances. With leagues and tournaments spanning the globe, football betting offers a diverse range of options for enthusiasts to explore.",
+        "body2": "For those seeking a different kind of thrill, casino games offer a wealth of betting opportunities, from classic table games like blackjack and roulette to modern slots and poker variants. Betting on casino games involves wagering various outcomes, such as card combinations, dice rolls, or slot machine spins. With its blend of luck and strategy, casino betting provides endless entertainment for players looking to test their skills and luck.",
+        "body3": "Tennis betting has gained significant traction in recent years, thanks to the sport's thrilling matches and a star-studded lineup of players. From Grand Slam events to ATP and WTA tournaments, tennis offers a variety of betting markets, including match winners, set scores, and game outcomes. With its fast-paced action and nail-biting finishes, tennis betting promises an adrenaline-fueled experience for fans and bettors alike.",
+        "body4": "Esports betting has emerged as a burgeoning industry, attracting millions of fans to virtual battlegrounds where gamers compete for glory and prizes. Popular esports titles such as League of Legends, Counter-Strike: Global Offensive, and Dota 2 offer a multitude of betting markets, including match winners, map outcomes, and player performances. With its rapidly growing fan base and competitive gameplay, esports betting presents a unique opportunity for bettors to immerse themselves in gaming.",
+        "body5": "As India's No.1 book and trusted cricket betting site, RockyBook offers a seamless and secure platform for betting on all your favourite games. With its user-friendly interface, competitive odds, and unparalleled customer support, RockyBook ensures that your betting experience is exceptional. Whether you're a cricket fanatic, a football fan, or an esports enthusiast, RockyBook has a wide range of betting options and exclusive promotions. So why wait? Join RockyBook today and elevate your betting experience to new heights!",
+        "conclusion": "In conclusion, whether you're drawn to the excitement of cricket, the global spectacle of football, the precision of tennis, the virtual battlegrounds of esports, or the thrill of casino games, RockyBook stands as India's premier betting partner, offering a seamless and exhilarating experience for enthusiasts of all gaming genres."
+      },
+
 
     ]

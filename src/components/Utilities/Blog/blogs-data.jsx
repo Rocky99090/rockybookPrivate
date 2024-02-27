@@ -9,6 +9,7 @@ import img6 from '../../../assets/img/blog/new-blog3.jpg'
 import img7 from '../../../assets/img/blog/new-blog4.jpg'
 import img8 from '../../../assets/img/blog/new-blog5.jpg'
 import img9 from '../../../assets/img/blog/new-blog6.jpg'
+import img10 from '../../../assets/img/blog/new-blog7.jpg'
 
 export const Blogs = 
 [
@@ -297,5 +298,21 @@ export const Blogs =
         "conclusion": "In conclusion, whether you're drawn to the excitement of cricket, the global spectacle of football, the precision of tennis, the virtual battlegrounds of esports, or the thrill of casino games, RockyBook stands as India's premier betting partner, offering a seamless and exhilarating experience for enthusiasts of all gaming genres."
       },
 
+      {   
+        "handle":"Winning-Strategies-for-Cricket-Betting-with-India-no-1-betting-Site-RockyBook",
+        "id":10,
+        "heading":"India no. 1 betting Site RockyBook",
+        "title": "Winning Strategies for Cricket Betting with India no. 1 betting Site RockyBook",
+        "imageUrl": img10,
+        "totalHeads": 3,
+        "head0" : "1. Choosing Players Based on Batting and Bowling Order",
+        "head1" : "2. Pitch Report Analysis: The Key to Informed Decisions",
+        "head2" : "3. RockyBook: Your Gateway to Winning",
+        "excerpt": "Cricket betting is not merely a game of chance; it's a strategic pursuit where knowledge and analysis play pivotal roles in securing victories. With RockyBook as the best cricket ID provider in India, mastering the art of cricket betting becomes more accessible than ever. Let's explore key strategies for cricket betting and how RockyBook empowers you to emerge victorious in your betting endeavours.",
+        "body0": "In shorter formats like T-10 and T-20, selecting players based on their batting and bowling order is crucial. Top-order batsmen are more likely to score big runs, especially on batting-friendly pitches. Conversely, lower-order batsmen might not get a chance to bat if the pitch favours bowling. Similarly, focus on selecting bowlers who are likely to bowl in the death overs, where wickets are more frequent.",
+        "body1": "Before placing your bet, always review the pitch report. This report provides valuable insights into factors like match score, wicket behaviour, and the ratio of wickets taken by spinners versus fast bowlers. Adjust your bet based on pitch conditions; for example, opt for more bowlers or all-rounders on bowling-friendly pitches and select in-form batsmen as captains on batting-friendly surfaces.",
+        "body2": "With RockyBook as your trusted online cricket ID provider in India, implementing these winning strategies becomes seamless. RockyBook offers a user-friendly platform where you can access valuable insights, expert analysis, and real-time updates to inform your betting decisions. Whether you're a seasoned bettor or a novice, RockyBook empowers you with the tools and resources needed to succeed in cricket betting. RockyBook goes beyond being just a betting platform; it's a comprehensive betting partner that guides you through the step-by-step process of playing fantasy sports. From creating an investment strategy to assessing risks and assembling your winning team, RockyBook ensures that you have everything you need to consistently win in cricket betting.",
+        "conclusion": "In conclusion, with RockyBook as your trusted companion, mastering the art of cricket betting and securing victories becomes an achievable goal. By implementing these key strategies and leveraging RockyBook's expertise and resources, you can elevate your cricket betting experience and maximise your chances of success. So why wait? Join RockyBook today and embark on a journey towards unparalleled betting triumphs!"
+      },
 
     ]

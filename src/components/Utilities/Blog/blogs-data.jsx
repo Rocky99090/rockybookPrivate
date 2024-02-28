@@ -10,6 +10,7 @@ import img7 from '../../../assets/img/blog/new-blog4.jpg'
 import img8 from '../../../assets/img/blog/new-blog5.jpg'
 import img9 from '../../../assets/img/blog/new-blog6.jpg'
 import img10 from '../../../assets/img/blog/new-blog7.jpg'
+import img11 from '../../../assets/img/blog/new-blog8.jpg'
 
 export const Blogs = 
 [
@@ -313,6 +314,27 @@ export const Blogs =
         "body1": "Before placing your bet, always review the pitch report. This report provides valuable insights into factors like match score, wicket behaviour, and the ratio of wickets taken by spinners versus fast bowlers. Adjust your bet based on pitch conditions; for example, opt for more bowlers or all-rounders on bowling-friendly pitches and select in-form batsmen as captains on batting-friendly surfaces.",
         "body2": "With RockyBook as your trusted online cricket ID provider in India, implementing these winning strategies becomes seamless. RockyBook offers a user-friendly platform where you can access valuable insights, expert analysis, and real-time updates to inform your betting decisions. Whether you're a seasoned bettor or a novice, RockyBook empowers you with the tools and resources needed to succeed in cricket betting. RockyBook goes beyond being just a betting platform; it's a comprehensive betting partner that guides you through the step-by-step process of playing fantasy sports. From creating an investment strategy to assessing risks and assembling your winning team, RockyBook ensures that you have everything you need to consistently win in cricket betting.",
         "conclusion": "In conclusion, with RockyBook as your trusted companion, mastering the art of cricket betting and securing victories becomes an achievable goal. By implementing these key strategies and leveraging RockyBook's expertise and resources, you can elevate your cricket betting experience and maximise your chances of success. So why wait? Join RockyBook today and embark on a journey towards unparalleled betting triumphs!"
+      },
+
+      {   
+        "handle":"Top-5-ODI-Double-Centuries-and-Rohit-Sharma-the-Ultimate-Cricket-Betting-Ace",
+        "id":11,
+        "heading":"Top 5 ODI Double Centuries",
+        "title": "Top 5 ODI Double Centuries and Rohit Sharma the Ultimate Cricket Betting Ace",
+        "imageUrl": img11,
+        "totalHeads": 5,
+        "head0" : "1. Rohit Sharma's Dominance (264 Runs):",
+        "head1" : "2. Martin Guptill's World Cup Heroics (237 Runs):*",
+        "head2" : "3. Virender Sehwag's Swashbuckling 219 Runs:",
+        "head3" : "4. Chris Gayle's Caribbean Fireworks (215 Runs):",
+        "head4" : "5. Fakhar Zaman's Pakistani Pride (210 Runs):*",
+        "excerpt": "Welcome to RockyBook, your premier destination for all things sports betting and gaming updates. As enthusiasts ourselves, we understand the thrill of legal betting and strive to provide a safe and enjoyable experience for all our users. Join us as we explore the top 5 ODI double centuries ever scored and discover why Rohit Sharma stands out as your next betting star.        ",
+        "body0": "Rohit Sharma, the maestro of the cricketing world, holds the record for the highest individual score in ODI cricket with a breathtaking 264 runs against Sri Lanka. His ability to convert a basic start into monumental innings has earned him a reputation as one of the most formidable batsmen in the game. With three double centuries to his name, Rohit Sharma's consistency and mastery make him a standout performer in the world of sports betting.",
+        "body1": "Martin Guptill's explosive innings of 237* runs in the ICC Cricket World Cup 2015 showcased his ability to deliver on the grandest stage. His remarkable stroke play and unwavering resolve propelled New Zealand to victory, solidifying his status as a top-tier batsman in ODI cricket.",
+        "body2": "Virender Sehwag, the fearless opener from Delhi, redefined the role of an opener with his swashbuckling innings of 219 runs against West Indies. Known for his audacious stroke play, Sehwag's ability to dominate bowling attacks made him a nightmare for opposing teams.",
+        "body3": "Chris Gayle, the 'Universe Boss' of cricket, left spectators in awe with his fiery innings of 215 runs against Zimbabwe. His raw power and ability to decimate bowling attacks made him a fan favourite and a formidable opponent on the field.",
+        "body4": "Fakhar Zaman's historic double century against Zimbabwe showcased his potential as a match-winner for Pakistan. His impeccable timing and fluent stroke play earned him accolades and admiration from fans and pundits alike. Now, why should you bet on Rohit Sharma as the next star performer? At RockyBook, we believe in backing the best, and Rohit Sharma's track record speaks for itself. With three double centuries in ODI cricket, he has consistently delivered match-winning performances for his team. His ability to read the game and play according to the situation makes him a safe bet for any cricket enthusiast.",
+        "conclusion": "In conclusion, Behind RockyBook is a dedicated team of betting experts, developers, and customer support professionals who are passionate about providing you with the best possible experience. Our commitment to innovation, responsibility, and transparency sets us apart from the rest. So, join us at RockyBook and experience the thrill of legal betting like never before."
       },
 
     ]

@@ -37,7 +37,7 @@ const location = useLocation();
         
         <div className="grid col4 ">
                         {
-                              psots.map((data, index) => {
+                              psots.sort((a, b) => parseInt(b.id, 10) - parseInt(a.id, 10)).map((data, index) => {
                                 const { imageUrl, admin, title, excerpt,id, handle } = data;
                                 return (
                                     <div className="grid-item1 ml-4" key={index}>

@@ -11,6 +11,7 @@ import img8 from '../../../assets/img/blog/new-blog5.jpg'
 import img9 from '../../../assets/img/blog/new-blog6.jpg'
 import img10 from '../../../assets/img/blog/new-blog7.jpg'
 import img11 from '../../../assets/img/blog/new-blog8.jpg'
+import img12 from '../../../assets/img/blog/new-blog9.jpg'
 
 export const Blogs = 
 [
@@ -335,6 +336,23 @@ export const Blogs =
         "body3": "Chris Gayle, the 'Universe Boss' of cricket, left spectators in awe with his fiery innings of 215 runs against Zimbabwe. His raw power and ability to decimate bowling attacks made him a fan favourite and a formidable opponent on the field.",
         "body4": "Fakhar Zaman's historic double century against Zimbabwe showcased his potential as a match-winner for Pakistan. His impeccable timing and fluent stroke play earned him accolades and admiration from fans and pundits alike. Now, why should you bet on Rohit Sharma as the next star performer? At RockyBook, we believe in backing the best, and Rohit Sharma's track record speaks for itself. With three double centuries in ODI cricket, he has consistently delivered match-winning performances for his team. His ability to read the game and play according to the situation makes him a safe bet for any cricket enthusiast.",
         "conclusion": "In conclusion, Behind RockyBook is a dedicated team of betting experts, developers, and customer support professionals who are passionate about providing you with the best possible experience. Our commitment to innovation, responsibility, and transparency sets us apart from the rest. So, join us at RockyBook and experience the thrill of legal betting like never before."
+      },
+
+      {   
+        "handle":"The-Legend-of-MS-Dhoni-Tips-Strategies-to-Win-like-the-Captain-Cool",
+        "id":12,
+        "heading":"The Legend of MS Dhoni",
+        "title": "The Legend of MS Dhoni: Tips & Strategies to Win like the Captain Cool",
+        "imageUrl": img12,
+        "totalHeads": 3,
+        "head0" : "The Art of Leading by Example",
+        "head1" : "Dhoni's Crowning Achievements",
+        "head2" : "How do you become a winner like MS Dhoni?",
+        "excerpt": "MS Dhoni's journey to becoming one of cricket's most celebrated figures is a tale of perseverance and skill. Hailing from a small town in India, Dhoni rose through the ranks with sheer determination, carving a path to cricketing stardom. Dhoni's early struggles only fueled his determination to succeed. His unorthodox batting style and lightning-fast reflexes behind the stumps caught the eye of selectors, earning him a spot in the Indian national team. From there, Dhoni's journey was marked by countless match-winning performances and record-breaking achievements.",
+        "body0": "As captain of the Indian cricket team, Dhoni earned the title "Captain Cool" for his calm mindset and sharp decision-making on the field. His ability to stay composed under pressure and lead by example inspired his teammates to perform at their best, even in the most challenging situations.",
+        "body1": "Dhoni's term as captain saw India achieve unprecedented success on the global stage. Dhoni's leadership left a memorable mark on the cricket world, from determining the ICC Cricket World Cup in 2011 to leading the Chennai Super Kings to multiple IPL titles. One of Dhoni's most iconic moments came in the final of the 2011 ICC Cricket World Cup. With the hopes of a nation resting on his shoulders, Dhoni smashed a match-winning six to seal India's victory, etching his name in cricketing history forever. Under Dhoni's captaincy, the Chennai Super Kings became the most successful franchise in IPL history. Dhoni's tactical insight and leadership prowess guided the team to multiple titles, solidifying his status as one of the greatest captains the game has ever seen.",
+        "body2": "For cricket enthusiasts looking to add an extra layer of excitement to the game, RockyBook offers a comprehensive platform for cricket betting. With a user-friendly interface and a wide range of betting options, RockyBook, the best betting site in India, makes it easy for fans to get in on the action. Like MS Dhoni's journey to cricketing greatness, your path to success starts with RockyBook. Mastering cricket betting is no easy feat, but anyone can become a winner with the proper knowledge and resources. Whether you're a seasoned bettor or new to cricket betting, RockyBook provides a seamless betting experience. From selecting your bets to tracking live odds, our platform offers everything you need to make informed decisions and maximise your winnings. At RockyBook, we understand that timing is everything when betting on cricket. That's why we offer 24/7 betting services via WhatsApp, ensuring you never miss out on the action, no matter where you are. Our dedicated team can always assist you with any queries or concerns. Whether you need help placing a bet or navigating our platform, our experienced support staff provides real-time assistance and ensures a smooth betting experience.",
+        "conclusion": "The journey of MS Dhoni from a small-town boy to a cricketing legend is a testament to the power of determination, skill, and leadership. Dhoni's ability to stay composed under pressure and make strategic decisions on the field has earned him a place among the game's all-time greats. Just as MS Dhoni's journey to cricketing greatness personifies the spirit of being a winner through determination and skill, RockyBook, India's best online betting site, provides the platform and resources for cricket enthusiasts to channel that winning spirit into successful betting. Whether a seasoned gambler or new to cricket betting, RockyBook delivers the tools and resources you need to become a winner."
       },
 
     ]

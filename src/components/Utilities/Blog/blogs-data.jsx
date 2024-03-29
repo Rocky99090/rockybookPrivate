@@ -13,6 +13,7 @@ import img10 from '../../../assets/img/blog/new-blog7.jpg'
 import img11 from '../../../assets/img/blog/new-blog8.jpg'
 import img12 from '../../../assets/img/blog/new-blog9.jpg'
 import img13 from '../../../assets/img/blog/new-blog10.jpg'
+import img14 from '../../../assets/img/blog/new-blog11.jpg'
 
 export const Blogs = 
 [
@@ -388,5 +389,26 @@ export const Blogs =
         "conclusion": "In conclusion, the IPL Season 2024 is primed to elevate the excitement and engagement in cricket betting, offering a combination of thrilling matches, diverse betting options, and rewarding opportunities. India's no.1 book on sports betting, RockyBook stands ready to cater to the burgeoning demand for cricket betting sites, ensuring a seamless and enjoyable experience for bettors across India and beyond."
       },
 
+      {   
+        "handle":"IPL-2024-CSK-vs-RCB-Match-Analysis-on-RockyBook",
+        "id":14,
+        "heading":"IPL 2024",
+        "title": "IPL 2024: CSK vs RCB Match Analysis on RockyBook",
+        "imageUrl": img14,
+        "totalHeads": 6,
+        "head0" : "Player of the Match: Mustafizur Rahman",
+        "head1" : "Captain's Perspective: Ruturaj Gaikwad",
+        "head2" : "Turning Points and Record-Breaking Performances",
+        "head3" : "Challenges Faced by RCB",
+        "head4" : "Stay Informed with RockyBook",
+        "head5" : "Looking Ahead with RockyBook",
+        "excerpt": "The IPL 2024 season began with a thrilling encounter between Chennai Super Kings (CSK) and Royal Challengers Bangalore (RCB) at Chepauk. Cricket fans eagerly awaited this clash of titans, which didn't disappoint.",
+        "body0": "Mustafizur Rahman stole the show with his exceptional bowling, earning him the title of player of the match. His impressive figures of 4 wickets for 29 runs played a crucial role in CSK's victory.",
+        "body1": "CSK's captain, Ruturaj Gaikwad, reflected on his team's performance, emphasising their control throughout the game. Despite minor setbacks, CSK maintained their composure, showcasing their experience in T20 cricket.",
+        "body2": "CSK's ability to handle RCB's bowling attack effectively proved to be a turning point in the match. Additionally, Ravindra Jadeja's unbeaten innings and CSK's eighth consecutive win against RCB at Chepauk set new records in IPL history.",
+        "body3": "On the other hand, RCB faced challenges, especially in their middle-order batting. Their strategy of relying heavily on short balls didn't yield the desired results, allowing CSK to capitalise on opportunities.",
+        "body4": "Cricket enthusiasts can stay updated with RockyBook for in-depth analysis and insights into IPL matches. RockyBook, known for being the best online cricket ID provider in India, offers a platform for fans to engage with the game and make informed betting decisions.",
+        "body5": "As the IPL 2024 season progresses, RockyBook will provide expert commentary, match predictions, and betting tips, enhancing the excitement for cricket and betting enthusiasts alike. Don't miss out on the chance to win big with RockyBook, your trusted cricket betting site in India.",
+      },
 
     ]

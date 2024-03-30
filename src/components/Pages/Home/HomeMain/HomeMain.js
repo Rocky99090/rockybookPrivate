@@ -42,7 +42,7 @@ const Home = () => {
   sx={{
     position: 'fixed',
     bottom: '20px',
-    right: '20px',
+    left: '20px',
     '& > :not(style)': { m: 1 },
     zIndex: 1000 // Adjust the z-index as needed
   }}

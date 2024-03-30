@@ -14,6 +14,7 @@ import img11 from '../../../assets/img/blog/new-blog8.jpg'
 import img12 from '../../../assets/img/blog/new-blog9.jpg'
 import img13 from '../../../assets/img/blog/new-blog10.jpg'
 import img14 from '../../../assets/img/blog/new-blog11.jpg'
+import img15 from '../../../assets/img/blog/new-blog12.jpg'
 
 export const Blogs = 
 [
@@ -409,6 +410,29 @@ export const Blogs =
         "body3": "On the other hand, RCB faced challenges, especially in their middle-order batting. Their strategy of relying heavily on short balls didn't yield the desired results, allowing CSK to capitalise on opportunities.",
         "body4": "Cricket enthusiasts can stay updated with RockyBook for in-depth analysis and insights into IPL matches. RockyBook, known for being the best online cricket ID provider in India, offers a platform for fans to engage with the game and make informed betting decisions.",
         "body5": "As the IPL 2024 season progresses, RockyBook will provide expert commentary, match predictions, and betting tips, enhancing the excitement for cricket and betting enthusiasts alike. Don't miss out on the chance to win big with RockyBook, your trusted cricket betting site in India.",
+      },
+
+      {   
+        "handle":"IPL-2024-ORANGE-CAP-Predicting-the-Top-Run-Scorer",
+        "id":15,
+        "heading":"IPL 2024 ORANGE CAP",
+        "title": "IPL 2024 ORANGE CAP: Predicting the Top Run-Scorer",
+        "imageUrl": img15,
+        "totalHeads": 6,
+        "head0" : "Understanding the Significance of the Orange Cap",
+        "head1" : "Analyzing Past Winners and Their Performances",
+        "head2" : "Key Contenders for IPL 2024 Orange Cap",
+        "head3" : "1. Virat Kohli - A Powerhouse of Runs",
+        "head4" : "2. Rohit Sharma - The Master of Big Innings",
+        "head5" : "Utilizing Insights for Informed Betting",
+        "head6" : "Stay Ahead with RockyBook",
+        "excerpt": "The Orange Cap, a coveted award in the IPL, is a testament to a player's batting prowess and consistency throughout the tournament. As the highest run-scorer, winning the Orange Cap is a goal many top batters aspire to achieve. This blog from RockyBook, one of the best betting sites in India, explores the potential contenders for the Orange Cap in IPL 2024 and how this information can benefit cricket betting enthusiasts.",
+        "body0": "The Orange Cap is a symbol of individual excellence and a reflection of a player's contribution to their team's success. It signifies the ability to score runs consistently and significantly impact the outcome of matches.",
+        "body1": "In the previous IPL season, Shubman Gill emerged as the Orange Cap winner with an impressive tally of 890 runs in 17 matches. His consistent performances were instrumental in Kolkata Knight Riders' success, highlighting the importance of a reliable run-scorer in a team's lineup.",
+        "body2": "Virat Kohli, known for his aggressive batting style and ability to dominate bowlers, is a strong contender for the Orange Cap in IPL 2024. His past performances in the ICC Cricket World Cup and leadership skills make him a favourite among fans and betting enthusiasts.",
+        "body3": "Rohit Sharma's elegant stroke play and knack for scoring big runs make him another top contender for the Orange Cap. As the former captain of Mumbai Indians, Sharma brings experience and strategic insight to his batting, making him a force to be reckoned with. ",
+        "body4": "For cricket betting sites enthusiasts, staying informed about the potential Orange Cap winner is crucial. By analyzing players' form, match conditions, and historical data, bettors can make informed decisions on their bets. RockyBook, known as one of best online betting sites in India, provides valuable insights, expert analysis, and betting tips to enhance the betting experience during IPL 2024.",
+        "body5": "As the IPL 2024 season unfolds, watch Virat Kohli, Rohit Sharma, and other top batters competing for the Orange Cap. Use the insights and information provided by RockyBook to make informed betting choices and increase your chances of winning. Happy betting, and may the best batsman claim the Orange Cap in this thrilling season of IPL!",
       },
 
     ]

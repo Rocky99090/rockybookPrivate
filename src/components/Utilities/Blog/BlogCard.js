@@ -7,6 +7,8 @@ const BlogCard = ({ blogData }) => {
     const toggleExpand = () => {
       setExpanded(!isExpanded);
     };
+    const lastFourBlogs = blogData.slice(-4); // Get the last four blogs
+
     return (
         <Fragment>
             {
@@ -14,7 +16,8 @@ const BlogCard = ({ blogData }) => {
                     
                 <div className="grid col4 ">
                     {
-                          blogData.map((data, index) => {
+                    lastFourBlogs.sort((a, b) => parseInt(b.id, 10) - parseInt(a.id, 10)).map((data, index) => {
+
                             const { imageUrl, admin, title, excerpt,id,heading, handle } = data;
                             const words = excerpt.split(' ');
                             const truncatedText = isExpanded ? words.join(' ') : words.slice(0, 20).join(' ');

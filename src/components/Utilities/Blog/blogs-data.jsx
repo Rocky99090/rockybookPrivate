@@ -15,6 +15,7 @@ import img12 from '../../../assets/img/blog/new-blog9.jpg'
 import img13 from '../../../assets/img/blog/new-blog10.jpg'
 import img14 from '../../../assets/img/blog/new-blog11.jpg'
 import img15 from '../../../assets/img/blog/new-blog12.jpg'
+import img16 from '../../../assets/img/blog/new-blog13.jpg'
 
 export const Blogs = 
 [
@@ -434,4 +435,24 @@ export const Blogs =
         "body5": "As the IPL 2024 season unfolds, watch Virat Kohli, Rohit Sharma, and other top batters competing for the Orange Cap. Use the insights and information provided by RockyBook to make informed betting choices and increase your chances of winning. Happy betting, and may the best batsman claim the Orange Cap in this thrilling season of IPL!",
       },
 
+      {   
+        "handle":"Celebrating-the-Top-Performers-of-the-1st-Week-of-IPL-2024",
+        "id":16,
+        "heading":"RockyBook Informative Blogs",
+        "title": "Celebrating the Top Performers of the 1st Week of IPL 2024",
+        "imageUrl": img16,
+        "totalHeads": 6,
+        "head0" : "1. Rohit Sharma: Leading from the Front",
+        "head1" : "2. Virat Kohli: Bouncing Back with Style",
+        "head2" : "3. Abhishek Sharma: A Rising Star for SRH",
+        "head3" : "4. Sanju Samson: Leading from the Front for RR",
+        "head4" : "5. Shivam Dube: CSK's Reliable Performer",
+        "excerpt": "The opening week of the Indian Premier League (IPL) 2024 has been exhilarating, treating cricket enthusiasts to a thrilling display of talent and sportsmanship. As fans gear up for the excitement of the T20 World Cup following the IPL, let's take a closer look at some of the standout Indian players who have shone brightly in the tournament's inaugural week.",
+        "body0": "Rohit Sharma, the captain of Mumbai Indians (MI), has set the tone for his team with his commanding performances. In a match against Gujarat Titans (GT) at the Narendra Modi Stadium, Rohit showcased his prowess with a quickfire 43 off just 29 deliveries, providing a strong start for MI. His aggressive batting continued against Sunrisers Hyderabad (SRH), where he contributed a rapid 26 runs off 12 balls in a high-scoring chase.",
+        "body1": "Royal Challengers Bengaluru (RCB) skipper Virat Kohli initially faced a stumble in the tournament but quickly regained his form. After a modest start against Chennai Super Kings (CSK), Kohli roared back with a magnificent 77 off 49 balls against Punjab Kings (PBKS), guiding RCB to a crucial victory at the M. Chinnaswamy Stadium.",
+        "body2": "With his consistent performances, Abhishek Sharma has emerged as a key player for Sunrisers Hyderabad (SRH). His aggressive batting, highlighted by a blistering 63 off 23 deliveries against Mumbai Indians (MI), earned him the Player of the Match award and contributed significantly to SRH's success in the tournament.",
+        "body3": "Sanju Samson's leadership and batting prowess have been instrumental for Rajasthan Royals (RR). His unbeaten 82 off 52 balls against Lucknow SuperGiants (LSG) secured a win for RR and showcased his ability to anchor the innings and play match-winning knocks under pressure.",
+        "body4": "Shivam Dube's all-round contributions have been crucial for Chennai Super Kings (CSK). With match-winning performances against RCB and GT, Dube's ability to finish games and score quick runs has been a valuable asset for CSK in their successful start to the tournament.",
+        "conclusion": "As the IPL 2024 unfolds, these players and many others will continue to captivate audiences with their exceptional performances, making every match a spectacle to behold. Follow the electrifying performances of these top players in IPL 2024, remember them for your next gaming update on RockyBook, the premier cricket betting platform in India. With a user-friendly interface, secure transactions, and a wide range of betting options, RockyBook ensures an immersive and rewarding betting experience. Whether you're backing Rohit Sharma's explosive batting, Virat Kohli's comeback prowess, or Abhishek Sharma's rising star status, RockyBook offers you the perfect platform to elevate your excitement and win big. Join us at RockyBook and unlock your winning potential with every match of the IPL season!",
+      },
     ]

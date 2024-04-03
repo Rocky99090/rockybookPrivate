@@ -16,6 +16,7 @@ import img13 from '../../../assets/img/blog/new-blog10.jpg'
 import img14 from '../../../assets/img/blog/new-blog11.jpg'
 import img15 from '../../../assets/img/blog/new-blog12.jpg'
 import img16 from '../../../assets/img/blog/new-blog13.jpg'
+import img17 from '../../../assets/img/blog/new-blog14.jpg'
 
 export const Blogs = 
 [
@@ -455,4 +456,26 @@ export const Blogs =
         "body4": "Shivam Dube's all-round contributions have been crucial for Chennai Super Kings (CSK). With match-winning performances against RCB and GT, Dube's ability to finish games and score quick runs has been a valuable asset for CSK in their successful start to the tournament.",
         "conclusion": "As the IPL 2024 unfolds, these players and many others will continue to captivate audiences with their exceptional performances, making every match a spectacle to behold. Follow the electrifying performances of these top players in IPL 2024, remember them for your next gaming update on RockyBook, the premier cricket betting platform in India. With a user-friendly interface, secure transactions, and a wide range of betting options, RockyBook ensures an immersive and rewarding betting experience. Whether you're backing Rohit Sharma's explosive batting, Virat Kohli's comeback prowess, or Abhishek Sharma's rising star status, RockyBook offers you the perfect platform to elevate your excitement and win big. Join us at RockyBook and unlock your winning potential with every match of the IPL season!",
       },
+
+      {   
+        "handle":"Rajasthan-Royals-Dominating-IPL-2024-A-Winning-Streak-with-RockyBook",
+        "id":17,
+        "heading":"Rajasthan Royals Dominating IPL 2024",
+        "title": "Rajasthan Royals Dominating IPL 2024: A Winning Streak with RockyBook",
+        "imageUrl": img17,
+        "totalHeads": 5,
+        "head0" : "RR's Winning Formula:",
+        "head1" : "Batting Brilliance:",
+        "head2" : "Key Players Driving RR's Success:",
+        "head3" : "Winning Big with RockyBook:",
+        "head4" : "Why Choose RockyBook?",
+        "excerpt": "As the IPL 2024 season unfolds with exhilarating matches, one team that has caught the attention of cricket enthusiasts and betting enthusiasts alike is the Rajasthan Royals (RR). With a spectacular winning streak, RR has showcased outstanding performances, making them a team to watch out for in the tournament. Let's dive into their recent victories and how you can leverage this form to win big with RockyBook, the best online gaming platform in India.",
+        "body0": "In their latest match against Mumbai Indians (MI), RR continued their winning streak by securing their third consecutive victory. Opting to field first, RR's bowlers displayed remarkable prowess, restricting MI to a modest total of 125/9. Trent Boult and Yuzvendra Chahal were instrumental with the ball, claiming three wickets each and putting MI on the back foot early in the game.",
+        "body1": "In response, RR's batsmen showcased their skills, chasing down the target comfortably. Riyan Parag's unbeaten 54 off 39 balls stood out as he anchored the innings with finesse. Despite MI's efforts, including Hardik Pandya's aggressive 34 off 21 balls and Tilak Varma's contribution of 32 off 29 balls, RR emerged victorious with six wickets to spare.",
+        "body2": "RR's success can be attributed to key players like Sanju Samson, Riyan Parag, and the dynamic duo of Trent Boult and Ravichandran Ashwin in the bowling department. Their consistent performances have propelled RR to the top of the IPL 2024 points table with 6 points and an impressive net run rate of 1.249.",
+        "body3": "Now, let's talk about how you can turn RR's winning form into lucrative wins with RockyBook, one of the top online gambling sites in India. By analysing RR's performance trends and key players' form, you can make informed bets on matches involving RR. Whether it's predicting match outcomes, top scorers, or standout performances from RR's bowlers, RockyBook provides you with a platform to turn your cricket knowledge into winnings.",
+        "body4": "RockyBook stands out as the best online gaming platform in India, offering a user-friendly interface, secure transactions, and a wide range of betting options across cricket and other sports. With RockyBook, you have access to live betting, competitive odds, and expert insights to enhance your betting experience and increase your chances of winning big.",
+        "conclusion": "As RR continues to dominate the IPL 2024 season, partner with RockyBook to elevate your betting game and enjoy the thrill of cricket betting like never before. Join RockyBook today and experience the excitement of online betting combined with the thrill of RR's winning streak!",
+      },
+
     ]

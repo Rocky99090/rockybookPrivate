@@ -17,6 +17,7 @@ import img14 from '../../../assets/img/blog/new-blog11.jpg'
 import img15 from '../../../assets/img/blog/new-blog12.jpg'
 import img16 from '../../../assets/img/blog/new-blog13.jpg'
 import img17 from '../../../assets/img/blog/new-blog14.jpg'
+import img18 from '../../../assets/img/blog/new-blog15.jpg'
 
 export const Blogs = 
 [
@@ -476,6 +477,30 @@ export const Blogs =
         "body3": "Now, let's talk about how you can turn RR's winning form into lucrative wins with RockyBook, one of the top online gambling sites in India. By analysing RR's performance trends and key players' form, you can make informed bets on matches involving RR. Whether it's predicting match outcomes, top scorers, or standout performances from RR's bowlers, RockyBook provides you with a platform to turn your cricket knowledge into winnings.",
         "body4": "RockyBook stands out as the best online gaming platform in India, offering a user-friendly interface, secure transactions, and a wide range of betting options across cricket and other sports. With RockyBook, you have access to live betting, competitive odds, and expert insights to enhance your betting experience and increase your chances of winning big.",
         "conclusion": "As RR continues to dominate the IPL 2024 season, partner with RockyBook to elevate your betting game and enjoy the thrill of cricket betting like never before. Join RockyBook today and experience the excitement of online betting combined with the thrill of RR's winning streak!",
+      },
+
+      {   
+        "handle":"Unstoppable-Kolkata-Knight-Riders-A-Cricketing-Powerhouse-in-IPL-2024",
+        "id":18,
+        "heading":"Unstoppable Kolkata Knight Riders",
+        "title": "Unstoppable Kolkata Knight Riders: A Cricketing Powerhouse in IPL 2024",
+        "imageUrl": img18,
+        "totalHeads": 7,
+        "head0" : "KKR's Record-breaking Performance",
+        "head1" : "IPL 2024 Points Table: KKR's Dominance",
+        "head2" : "Sunil Narine's Heroics and KKR's Legacy",
+        "head3" : "Enter the World of Cricket Betting with RockyBook",
+        "head4" : "Why Choose RockyBook for Cricket Betting?",
+        "head5" : "Capitalising on KKR's Form",
+        "head6" : "Bet Smart, Win Big with RockyBook",
+        "excerpt": "In the electrifying world of IPL 2024, one team has emerged as a dominant force, captivating audiences with their exceptional performances and record-breaking achievements. Kolkata Knight Riders (KKR) have set the stage on fire with their stellar display of cricketing prowess, leaving fans in awe and opponents in disbelief.",
+        "body0": "In a recent match against Delhi Capitals (DC), KKR showcased their batting prowess by scoring a staggering 272 runs in just 20 overs. This monumental achievement marked the second-highest team score in IPL history, trailing only behind Sunrisers Hyderabad's 277 runs against Mumbai Indians earlier this season. KKR's remarkable form has catapulted them to the top, alongside Rajasthan Royals, as the unbeaten sides in the tournament, with 6 points and an impressive net run rate of 2.518.",
+        "body1": "KKR's crushing victory over DC not only secured their position as one of the top teams but also significantly boosted their net run rate, which stands at an impressive 2.518, nearly double that of RR's 1.249. With an all-win record and a commanding lead in the points table, KKR is proving to be a formidable force in this year's IPL.",
+        "body2": "Sunil Narine's spectacular innings of 85 runs played a pivotal role in KKR's historic total of 272-7. This outstanding performance adds to KKR's legacy as a powerhouse in IPL cricket, having clinched the championship title in 2012 and 2014. Their ability to deliver under pressure and set new benchmarks makes them a team to watch out for in every match they play.",
+        "body3": "As KKR continues to dominate the IPL, cricket enthusiasts have an opportunity to enhance their excitement and engagement through online cricket betting. With RockyBook, the best online cricket betting id provider in India, fans can get their cricket id online and dive into the thrilling world of sports betting.",
+        "body4": "RockyBook offers a seamless and secure platform for cricket betting, ensuring a hassle-free experience for users. With a wide range of betting options, live updates, expert analysis, and competitive odds, RockyBook is the go-to destination for cricket enthusiasts looking to elevate their passion for the game.",
+        "body5": "For avid bettors, KKR's exceptional form presents a golden opportunity to win big on RockyBook. Analyzing KKR's strategies, key players, and upcoming matches can provide valuable insights for placing informed bets. Whether it's predicting match outcomes, top performers, or milestone achievements, betting with RockyBook adds an extra layer of excitement to every IPL match.",
+        "body6": "As Kolkata Knight Riders continue their quest for IPL glory, make sure to leverage their form and expertise to your advantage on RockyBook. Get online cricket id India, explore the best online cricket betting options, and embark on a thrilling journey of sports betting. With KKR's dominance on the field and RockyBook's reliable platform, your cricket betting experience is bound to be rewarding and exhilarating. Place your bets wisely and enjoy the excitement of IPL 2024 with RockyBook!",
       },
 
     ]

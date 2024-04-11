@@ -18,6 +18,7 @@ import img15 from '../../../assets/img/blog/new-blog12.jpg'
 import img16 from '../../../assets/img/blog/new-blog13.jpg'
 import img17 from '../../../assets/img/blog/new-blog14.jpg'
 import img18 from '../../../assets/img/blog/new-blog15.jpg'
+import img19 from '../../../assets/img/blog/new-blog16.jpg'
 
 export const Blogs = 
 [
@@ -501,6 +502,32 @@ export const Blogs =
         "body4": "RockyBook offers a seamless and secure platform for cricket betting, ensuring a hassle-free experience for users. With a wide range of betting options, live updates, expert analysis, and competitive odds, RockyBook is the go-to destination for cricket enthusiasts looking to elevate their passion for the game.",
         "body5": "For avid bettors, KKR's exceptional form presents a golden opportunity to win big on RockyBook. Analyzing KKR's strategies, key players, and upcoming matches can provide valuable insights for placing informed bets. Whether it's predicting match outcomes, top performers, or milestone achievements, betting with RockyBook adds an extra layer of excitement to every IPL match.",
         "body6": "As Kolkata Knight Riders continue their quest for IPL glory, make sure to leverage their form and expertise to your advantage on RockyBook. Get online cricket id India, explore the best online cricket betting options, and embark on a thrilling journey of sports betting. With KKR's dominance on the field and RockyBook's reliable platform, your cricket betting experience is bound to be rewarding and exhilarating. Place your bets wisely and enjoy the excitement of IPL 2024 with RockyBook!",
+      },
+
+      {   
+        "handle":"Win-Big-In-IPL-2024-Best-Online-Cricket-ID-with-RockyBook",
+        "id":19,
+        "heading":"Win Big In IPL 2024",
+        "title": "Win Big In IPL 2024 - Best Online Cricket ID with RockyBook",
+        "imageUrl": img19,
+        "totalHeads": 8,
+        "head0" : "Rewarding Loyalty and Patronage",
+        "head1" : "Setting the Gold Standard in Online Cricket Betting",
+        "head2" : "Diverse Betting Options Beyond Cricket",
+        "head3" : "Prioritising User Security and Transparency",
+        "head4" : "Intuitive Interface for Enhanced User Experience",
+        "head5" : "Strategic Partnerships for Expanded Betting Options",
+        "head6" : "IPL 2024 Updates and Insights",
+        "head7" : "Join RockyBook for an Unforgettable Betting Experience",
+        "excerpt": "RockyBook is more than just a platform for online cricket betting; it's a gateway to unparalleled excitement and potential big wins in the upcoming IPL 2024 season. With plenty of features designed to enhance user experience, RockyBook stands out as the go-to destination for cricket enthusiasts and punters alike.",
+        "body0": "RockyBook goes above and beyond to reward its users for their loyalty and patronage. Through enticing bonuses, promotions, and rewards programs, RockyBook ensures that users feel valued and appreciated every step of the way. Whether you're a new user or a seasoned bettor, RockyBook offers incentives that enhance the thrill of betting and increase your chances of winning big.",
+        "body1": "RockyBook emerges as the undisputed champion in the realm of online cricket betting, setting the gold standard for excellence and innovation. Its seamless interface provides a user-friendly experience, allowing bettors to navigate effortlessly through a plethora of betting options. From match outcomes to player performances, RockyBook covers every aspect of cricket betting, catering to diverse preferences and strategies.",
+        "body2": "While cricket holds a special place in the hearts of Indian punters, Rocky Book Blogs offers a diverse array of betting information spanning various sports and events. From live betting to virtual games, RockyBook caters to every whim and fancy of its users. Whether you're passionate about cricket, football, tennis, or other sports, RockyBook ensures that there's something exciting for everyone.",
+        "body3": "One of RockyBook's key highlights is its commitment to user security and transparency. With stringent security measures and a focus on responsible betting practices, RockyBook provides a safe and secure environment for users to place their bets with confidence. By prioritising transparency in odds and outcomes, RockyBook ensures that users can make informed decisions and enjoy a fair betting experience.",
+        "body4": "RockyBook's intuitive interface is designed to enhance the user experience. Whether you're a seasoned punter or a novice exploring online betting for the first time, RockyBook caters to all levels of expertise with its user-friendly platform. With easy navigation, clear betting options, and real-time updates, RockyBook makes it easy for users to stay engaged and informed throughout their betting journey.",
+        "body5": "RockyBook's strategic partnerships with numerous online betting sites solidify its status as the go-to platform for discerning punters. By collaborating with industry leaders, RockyBook ensures that users have access to a diverse range of betting options. From traditional bets to innovative betting markets, RockyBook's partnerships enhance the betting experience and offer exciting opportunities for users to explore new avenues in online betting.",
+        "body6": "As the IPL 2024 season unfolds, RockyBook’s Cricket Blog Updates keeps users informed with the latest updates and insights. Currently, Rajasthan Royals hold the number 1 position on the table, remaining unbeaten with 8 points. Following closely behind are Kolkata Knight Riders with 6 points, Mumbai Indians, and Royal Challengers Bangalore. The intense competition and unpredictable outcomes make IPL 2024 an exciting season for cricket fans and bettors.",
+        "body7": "In the fast-paced world of online betting, discerning punters seek reliability, security, and an exceptional user experience. RockyBook and its cricket blog tips check all the boxes, offering a seamless platform for cricket betting and beyond. Whether you're looking to bet on IPL matches, international cricket tournaments, or other sports events, RockyBook provides a comprehensive and rewarding betting experience. Join RockyBook today and unlock the potential for big wins in IPL 2024 and beyond!",
       },
 
     ]

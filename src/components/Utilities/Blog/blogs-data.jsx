@@ -20,6 +20,7 @@ import img17 from '../../../assets/img/blog/new-blog14.jpg'
 import img18 from '../../../assets/img/blog/new-blog15.jpg'
 import img19 from '../../../assets/img/blog/new-blog16.jpg'
 import img20 from '../../../assets/img/blog/new-blog17.jpg'
+import img21 from '../../../assets/img/blog/new-blog18.jpg'
 
 export const Blogs = 
 [
@@ -551,6 +552,26 @@ export const Blogs =
         "body3": "As the IPL unfolds, Dhoni's performances continue to captivate audiences. From his strategic captaincy decisions to game-changing contributions with the bat and behind the stumps, Dhoni embodies the spirit of excellence. Similarly, RockyBook's commitment to the best cricket id provider in India mirrors Dhoni's dedication to perfection.",
         "body4": "The synergy between Dhoni's legendary legacy and RockyBook's innovative betting solutions creates an unbeatable combination. Whether backing your favourite team or predicting player performances, RockyBook empowers you to make informed decisions and amplify your IPL experience.",
         "body5": "As you follow Dhoni's journey in IPL 2024, let RockyBook be your trusted companion in the thrilling world of cricket betting. With the best online cricket ID at your fingertips and RockyBook's unrivalled support, every match becomes a chance to win big and enjoy the excitement of IPL like never before. Join the winning team with RockyBook and experience the thrill of IPL betting at its finest!",
+      },
+
+      {   
+        "handle":"Rashid-Khans-Heroics-and-a-Rocky-Finish-IPL-2024-Spreads-Dramatic-Book-Moments",
+        "id":21,
+        "heading":"Rashid Khan's Heroics",
+        "title": "Rashid Khan's Heroics and a Rocky Finish: IPL 2024 Spreads Dramatic Book Moments",
+        "imageUrl": img21,
+        "totalHeads": 4,
+        "head0" : "Rashid Khan's Stellar Performance",
+        "head1" : "The Intense Final Over",
+        "head2" : "The Impact on IPL 2024 Standings",
+        "head3" : "Upgrade Your Betting Experience at RockyBook",
+        "excerpt": "The IPL 2024 season has been a rollercoaster of excitement and drama, with standout performances and thrilling finishes defining the cricketing action. One memorable match showcased Rashid Khan's incredible talents and the nail-biting moments that kept fans on the edge of their seats.",
+        "body0": "In a match between Titans and Royals, Rashid Khan delivered a stellar performance that left a lasting impact on the game. With the ball, Rashid dominated the Titans' batting lineup, restricting them in their chase of a formidable target of 197 runs. His precision and skill with the ball set the stage for a tense and thrilling finish later in the match. But Rashid's contributions didn't stop there. When Titans needed 40 runs off just 15 balls, Rashid Khan showcased his all-round brilliance by stepping up with the bat. Alongside his partner in crime, Rahul Tewatia, Rashid played crucial shots that brought Titans closer to victory in a gripping run chase.",
+        "body1": "The match reached its climax in the final over, bowled by Avesh Khan, with Titans needing 15 runs to win off just six balls. Rashid Khan, the hero of the match, found himself on strike for the last ball, with the hopes of Titans resting on his shoulders. In a display of nerves of steel, Rashid carved a boundary off Avesh's delivery, securing a remarkable win for the Titans and ending the Royals' unbeaten streak in IPL 2024.",
+        "body2": "The thrilling finish significantly impacted the IPL 2024 standings. With the Royals' unbeaten streak coming to an end, there was a shift in the leaderboard. The Titans, with their mid-table position, are now looking ahead to future matches with optimism and determination, especially with key players like Miller and Omarzai set to return from injury.",
+        "body3": "As the cricketing action unfolds on the field, the excitement extends beyond the boundaries of the world of online betting. Trusted cricket betting sites in India, like RockyBook, offer a secure and best legal betting site for enthusiasts to place their bets with confidence. RockyBook stands out as India's No. 1 betting site, with a commitment to excellence, fairness, and transparency in its betting environment.",
+        "conclusion": "Joining the excitement at RockyBook means experiencing a seamless interface, diverse betting options, and top-notch security measures. Whether you're a seasoned bettor or new to online betting, RockyBook enhances your IPL betting experience and ensures that every match becomes an opportunity to win big and enjoy the thrill of cricket betting like never before. Bet confidently with RockyBook, the trusted destination for online cricket betting in India.",
+
       },
 
     ]

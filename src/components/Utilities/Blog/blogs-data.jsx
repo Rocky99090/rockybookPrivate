@@ -19,6 +19,7 @@ import img16 from '../../../assets/img/blog/new-blog13.jpg'
 import img17 from '../../../assets/img/blog/new-blog14.jpg'
 import img18 from '../../../assets/img/blog/new-blog15.jpg'
 import img19 from '../../../assets/img/blog/new-blog16.jpg'
+import img20 from '../../../assets/img/blog/new-blog17.jpg'
 
 export const Blogs = 
 [
@@ -528,6 +529,28 @@ export const Blogs =
         "body5": "RockyBook's strategic partnerships with numerous online betting sites solidify its status as the go-to platform for discerning punters. By collaborating with industry leaders, RockyBook ensures that users have access to a diverse range of betting options. From traditional bets to innovative betting markets, RockyBook's partnerships enhance the betting experience and offer exciting opportunities for users to explore new avenues in online betting.",
         "body6": "As the IPL 2024 season unfolds, RockyBook’s Cricket Blog Updates keeps users informed with the latest updates and insights. Currently, Rajasthan Royals hold the number 1 position on the table, remaining unbeaten with 8 points. Following closely behind are Kolkata Knight Riders with 6 points, Mumbai Indians, and Royal Challengers Bangalore. The intense competition and unpredictable outcomes make IPL 2024 an exciting season for cricket fans and bettors.",
         "body7": "In the fast-paced world of online betting, discerning punters seek reliability, security, and an exceptional user experience. RockyBook and its cricket blog tips check all the boxes, offering a seamless platform for cricket betting and beyond. Whether you're looking to bet on IPL matches, international cricket tournaments, or other sports events, RockyBook provides a comprehensive and rewarding betting experience. Join RockyBook today and unlock the potential for big wins in IPL 2024 and beyond!",
+      },
+
+      {   
+        "handle":"Dhonis-Fire-and-RockyBook-Your-Winning-Formula-for-IPL-Betting",
+        "id":20,
+        "heading":"Dhoni's Fire and RockyBook",
+        "title": "Dhoni's Fire and RockyBook: Your Winning Formula for IPL Betting",
+        "imageUrl": img20,
+        "totalHeads": 6,
+        "head0" : "Dhoni's Dominance Against Mumbai Indians",
+        "head1" : "RockyBook: Your Gateway to IPL Betting",
+        "head2" : "Empowering Your Betting Experience",
+        "head3" : "Dhoni's Leadership and RockyBook's Reliability",
+        "head4" : "The Winning Combination: Dhoni and RockyBook",
+        "head5" : "Join the Winning Team",
+        "excerpt": "Are you ready to witness MS Dhoni's legend in action during IPL 2024? The recent game against Mumbai Indians showcased Dhoni's unparalleled prowess, particularly when facing off against Hardik Pandya, who has become a negative figure among Indian fans. But amidst the cricketing excitement, there's another bright star—RockyBook, your ultimate betting partner for the IPL season.",
+        "body0": "In the clash against Mumbai Indians, Dhoni's bat roared as he hammered 20 runs off just four deliveries in the 20th over, taking Chennai Super Kings (CSK) to a formidable 206 for four. The way he dismantled Hardik Pandya's bowling was nothing short of legendary.",
+        "body1": "As you marvel at Dhoni's brilliance on the field, remember the strategic advantage RockyBook brings to your betting journey. RockyBook stands as the best online cricket ID provider in India, offering seamless access to the thrilling world of IPL betting.",
+        "body2": "With RockyBook, you're not just placing bets; you're diving into a realm of opportunities and excitement. Whether you're a seasoned bettor or a newcomer, RockyBook's user-friendly interface and expert insights make every bet count.",
+        "body3": "As the IPL unfolds, Dhoni's performances continue to captivate audiences. From his strategic captaincy decisions to game-changing contributions with the bat and behind the stumps, Dhoni embodies the spirit of excellence. Similarly, RockyBook's commitment to the best cricket id provider in India mirrors Dhoni's dedication to perfection.",
+        "body4": "The synergy between Dhoni's legendary legacy and RockyBook's innovative betting solutions creates an unbeatable combination. Whether backing your favourite team or predicting player performances, RockyBook empowers you to make informed decisions and amplify your IPL experience.",
+        "body5": "As you follow Dhoni's journey in IPL 2024, let RockyBook be your trusted companion in the thrilling world of cricket betting. With the best online cricket ID at your fingertips and RockyBook's unrivalled support, every match becomes a chance to win big and enjoy the excitement of IPL like never before. Join the winning team with RockyBook and experience the thrill of IPL betting at its finest!",
       },
 
     ]

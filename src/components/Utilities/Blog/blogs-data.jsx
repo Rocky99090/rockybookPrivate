@@ -21,6 +21,7 @@ import img18 from '../../../assets/img/blog/new-blog15.jpg'
 import img19 from '../../../assets/img/blog/new-blog16.jpg'
 import img20 from '../../../assets/img/blog/new-blog17.jpg'
 import img21 from '../../../assets/img/blog/new-blog18.jpg'
+import img22 from '../../../assets/img/blog/new-blog19.jpg'
 
 export const Blogs = 
 [
@@ -571,7 +572,28 @@ export const Blogs =
         "body2": "The thrilling finish significantly impacted the IPL 2024 standings. With the Royals' unbeaten streak coming to an end, there was a shift in the leaderboard. The Titans, with their mid-table position, are now looking ahead to future matches with optimism and determination, especially with key players like Miller and Omarzai set to return from injury.",
         "body3": "As the cricketing action unfolds on the field, the excitement extends beyond the boundaries of the world of online betting. Trusted cricket betting sites in India, like RockyBook, offer a secure and best legal betting site for enthusiasts to place their bets with confidence. RockyBook stands out as India's No. 1 betting site, with a commitment to excellence, fairness, and transparency in its betting environment.",
         "conclusion": "Joining the excitement at RockyBook means experiencing a seamless interface, diverse betting options, and top-notch security measures. Whether you're a seasoned bettor or new to online betting, RockyBook enhances your IPL betting experience and ensures that every match becomes an opportunity to win big and enjoy the thrill of cricket betting like never before. Bet confidently with RockyBook, the trusted destination for online cricket betting in India.",
+      },
 
+      {   
+        "handle":"The-Best-Cricket-ID-Provider-RockyBook-Has-The-Winning-Formula-for-IPL-2024",
+        "id":22,
+        "heading":"The Best Cricket ID Provider",
+        "title": "The Best Cricket ID Provider: RockyBook Has The Winning Formula for IPL 2024",
+        "imageUrl": img22,
+        "totalHeads": 6,
+        "head0" : "RCB vs. KKR at Eden Gardens and RockyBook's Guidance",
+        "head1" : "Fan Sentiment and RockyBook's Support",
+        "head2" : "Learning from Mistakes with RockyBook's Guidance",
+        "head3" : "RCB vs. Sunrisers Hyderabad",
+        "head4" : "RockyBook: Your Winning Companion in IPL 2024",
+        "head5" : "Find Success with RockyBook in IPL 2024",
+        "excerpt": "As RCB battles through IPL 2024's challenges, RockyBook, the best online cricket ID provider in India, stands as the beacon of hope for cricket enthusiasts. Despite RCB's recent setback against KKR at the Eden Gardens, RockyBook offers valuable insights and strategies to navigate the unpredictable world of cricket betting.",
+        "body0": "In the nail-biting match against KKR, where RCB missed victory by a mere run, RockyBook's expertise in analyzing match dynamics and player performances shines through. As fans dissect every play, RockyBook's data-driven analysis and expert tips, making it the best cricket ID provider in India, become invaluable resources for making informed betting decisions.",
+        "body1": "On social media platforms like X (formerly Twitter), emotions run high as fans react to RCB's performance. Amidst the highs and lows, RockyBook, the best online cricket ID provider, remains a trusted companion, offering not just betting opportunities but also a community where fans share insights, strategies, and experiences.",
+        "body2": "RCB's journey in IPL 2024 mirrors the ups and downs of cricket betting. While they strive for victories, RockyBook empowers bettors with knowledge and strategies to avoid pitfalls and capitalize on opportunities, establishing itself as the best cricket ID provider in India. Every match becomes a learning experience, enhancing the thrill and engagement of cricket betting.",
+        "body3": "As RCB gears up to face Sunrisers Hyderabad, RockyBook's analysis delves deep into team dynamics, player form, and match conditions. With RockyBook's guidance, bettors can approach the game with confidence, leveraging strategic insights to make calculated bets and maximize their chances of success. RockyBook proves to be the best online cricket ID provider in India once again.",
+        "body4": "In the fast-paced world of IPL betting, RockyBook emerges as the undisputed leader, offering a comprehensive platform that caters to every betting need. From pre-match analysis to live betting options, RockyBook ensures a seamless and rewarding experience for cricket enthusiasts, establishing itself as the best cricket ID provider in India.",
+        "body5": "As RCB and other teams navigate the highs and lows of IPL 2024, RockyBook remains the constant companion for bettors, offering a blend of expertise, innovation, and reliability. With RockyBook, the best online cricket ID provider in India, every match becomes an opportunity to experience the excitement of cricket betting while aiming for significant wins. Join RockyBook today and elevate your IPL 2024 journey with unmatched insights and winning strategies!",
       },
 
     ]

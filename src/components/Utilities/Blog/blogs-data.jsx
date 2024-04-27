@@ -22,6 +22,7 @@ import img19 from '../../../assets/img/blog/new-blog16.jpg'
 import img20 from '../../../assets/img/blog/new-blog17.jpg'
 import img21 from '../../../assets/img/blog/new-blog18.jpg'
 import img22 from '../../../assets/img/blog/new-blog19.jpg'
+import img23 from '../../../assets/img/blog/new-blog20.jpg'
 
 export const Blogs = 
 [
@@ -594,6 +595,31 @@ export const Blogs =
         "body3": "As RCB gears up to face Sunrisers Hyderabad, RockyBook's analysis delves deep into team dynamics, player form, and match conditions. With RockyBook's guidance, bettors can approach the game with confidence, leveraging strategic insights to make calculated bets and maximize their chances of success. RockyBook proves to be the best online cricket ID provider in India once again.",
         "body4": "In the fast-paced world of IPL betting, RockyBook emerges as the undisputed leader, offering a comprehensive platform that caters to every betting need. From pre-match analysis to live betting options, RockyBook ensures a seamless and rewarding experience for cricket enthusiasts, establishing itself as the best cricket ID provider in India.",
         "body5": "As RCB and other teams navigate the highs and lows of IPL 2024, RockyBook remains the constant companion for bettors, offering a blend of expertise, innovation, and reliability. With RockyBook, the best online cricket ID provider in India, every match becomes an opportunity to experience the excitement of cricket betting while aiming for significant wins. Join RockyBook today and elevate your IPL 2024 journey with unmatched insights and winning strategies!",
+      },
+
+      {   
+        "handle":"Unravelling-the-IPL-2024-Orange-Cap-Race-With-RockyBook",
+        "id":23,
+        "heading":"IPL 2024 Orange Cap",
+        "title": "Unravelling the IPL 2024 Orange Cap Race With RockyBook",
+        "imageUrl": img23,
+        "totalHeads": 7,
+        "head0" : "Virat Kohli's Dominance:",
+        "head1" : "Sunil Narine's Explosive Rise:",
+        "head2" : "Ruturaj Gaikwad's Stellar Form:",
+        "head3" : "Rishabh Pant's Explosive Innings:",
+        "head4" : "Insights from Last Season:",
+        "head5" : "Cricket IPL Blogs at RockyBooks:",
+        "head6" : "Cricket Blog Tips & Tricks:",
+        "excerpt": "The Indian Premier League (IPL) 2024 season has been a roller coaster of thrilling performances, especially in the race for the coveted Orange Cap. Let's delve into the latest updates and insights from this electrifying cricket extravaganza.",
+        "body0": "The maestro of modern cricket, Virat Kohli, continues to reign supreme atop the Orange Cap leaderboard. With his third half-century of the season against Sunrisers Hyderabad, Kohli's stellar form and leadership qualities shine bright, making him a force to reckon with. ",
+        "body1": "Kolkata Knight Riders' dynamic all-rounder, Sunil Narine, has set the stage on fire with his blistering knocks. His recent 71 off 32 balls against Punjab Kings propelled him to the second spot in the Orange Cap race, showcasing his exceptional batting prowess and consistency.",
+        "body2": "Chennai Super Kings' young sensation, Ruturaj Gaikwad, has been a revelation this season. Placed third in the Orange Cap standings with 349 runs, Gaikwad's elegant stroke play and composure under pressure make him a rising star in the cricketing world.",
+        "body3": "Delhi Capitals' swashbuckling wicketkeeper-batsman, Rishabh Pant, showcased his fireworks with a sensational 88 off just 43 balls against Gujarat Titans. His aggressive yet calculated approach has earned him the fourth spot in the Orange Cap race, adding to the excitement of IPL 2024.",
+        "body4": "Reflecting on the past, we remember Shubman Gill's phenomenal performance as he clinched the Orange Cap with 890 runs. This serves as a reminder of the unpredictability and thrill that IPL brings to cricket enthusiasts worldwide.",
+        "body5": "At RockyBooks, we are passionate about cricket and bring you the latest updates, analyses, and insights through our Cricket IPL Blogs. Dive into a world of cricketing excellence, strategy discussions, player spotlights, and much more.",
+        "body6": "As you follow the IPL 2024 Orange Cap race, harness the knowledge and trends to enhance your cricket betting strategies. Stay informed, analyse player form, pitch conditions, and team dynamics to make informed betting decisions and maximise your winning potential.",
+        "conclusion": "In conclusion, the IPL 2024 Orange Cap race is a testament to the brilliance and competitive spirit of cricketing giants. Stay tuned to RockyBooks for more captivating cricket content and unleash your passion for the game like never before!"
       },
 
     ]

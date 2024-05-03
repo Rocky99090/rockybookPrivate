@@ -23,6 +23,7 @@ import img20 from '../../../assets/img/blog/new-blog17.jpg'
 import img21 from '../../../assets/img/blog/new-blog18.jpg'
 import img22 from '../../../assets/img/blog/new-blog19.jpg'
 import img23 from '../../../assets/img/blog/new-blog20.jpg'
+import img24 from '../../../assets/img/blog/new-blog21.jpg'
 
 export const Blogs = 
 [
@@ -620,6 +621,25 @@ export const Blogs =
         "body5": "At RockyBooks, we are passionate about cricket and bring you the latest updates, analyses, and insights through our Cricket IPL Blogs. Dive into a world of cricketing excellence, strategy discussions, player spotlights, and much more.",
         "body6": "As you follow the IPL 2024 Orange Cap race, harness the knowledge and trends to enhance your cricket betting strategies. Stay informed, analyse player form, pitch conditions, and team dynamics to make informed betting decisions and maximise your winning potential.",
         "conclusion": "In conclusion, the IPL 2024 Orange Cap race is a testament to the brilliance and competitive spirit of cricketing giants. Stay tuned to RockyBooks for more captivating cricket content and unleash your passion for the game like never before!"
+      },
+
+      {   
+        "handle":"Last-Minute-Magic-SRH-vs-RR-IPL-2024-Thriller-and-Winning-Big-with-RockyBook",
+        "id":24,
+        "heading":"Last-Minute Magic",
+        "title": "Last-Minute Magic: SRH vs RR IPL 2024 Thriller and Winning Big with RockyBook",
+        "imageUrl": img24,
+        "totalHeads": 4,
+        "head0" : "The Dramatic Showdown:",
+        "head1" : "Stellar Performances:",
+        "head2" : "The Role of RockyBook:",
+        "head3" : "Experience the Thrill with RockyBook:",
+        "excerpt": "The clash between Sunrisers Hyderabad (SRH) and Rajasthan Royals (RR) in IPL 2024 provided fans with a heart-stopping match filled with extraordinary moments. Bhuvneshwar Kumar's last-ball heroics secured a thrilling victory for SRH by just one run, highlighting the exhilarating nature of cricket.",
+        "body0": "The match unfolded as a gripping battle between bat and ball, with both teams displaying remarkable performances. Bhuvneshwar Kumar's crucial wickets on the final ball turned the tide in SRH's favour, showcasing the intensity and unpredictability of IPL cricket.",
+        "body1": "Players like Riyan Parag, Yashasvi Jaiswal, Travis Head, and Nitish Reddy shone brightly during the match. Parag and Jaiswal's fifties for RR added to the excitement, while Head and Reddy's explosive batting propelled SRH to a formidable total of 201/3, setting the stage for a thrilling finish.",
+        "body2": "Amidst the excitement of IPL 2024, RockyBook emerged as the go-to platform for cricket enthusiasts looking to enhance their experience and win big through online betting. RockyBook offers a user-friendly interface, competitive odds, and a secure environment for responsible betting, making it the best online cricket betting ID provider in India.",
+        "body3": "Whether you're a seasoned bettor or new to cricket betting, RockyBook provides a wide range of betting options to suit every preference. By obtaining your online cricket ID India from RockyBook, you gain access to an exciting world of cricket betting, where every match becomes an opportunity for thrilling wins and unforgettable moments.",
+        "conclusion": "Don't miss out on the excitement of IPL and other cricket tournaments. Join RockyBook today and experience the thrill of cricket betting like never before. With RockyBook, winning big is not just a possibility—it's a reality waiting to unfold with every match and every bet."
       },
 
     ]

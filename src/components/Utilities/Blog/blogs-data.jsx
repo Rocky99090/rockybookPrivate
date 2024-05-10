@@ -24,6 +24,7 @@ import img21 from '../../../assets/img/blog/new-blog18.jpg'
 import img22 from '../../../assets/img/blog/new-blog19.jpg'
 import img23 from '../../../assets/img/blog/new-blog20.jpg'
 import img24 from '../../../assets/img/blog/new-blog21.jpg'
+import img25 from '../../../assets/img/blog/new-blog22.jpg'
 
 export const Blogs = 
 [
@@ -640,6 +641,29 @@ export const Blogs =
         "body2": "Amidst the excitement of IPL 2024, RockyBook emerged as the go-to platform for cricket enthusiasts looking to enhance their experience and win big through online betting. RockyBook offers a user-friendly interface, competitive odds, and a secure environment for responsible betting, making it the best online cricket betting ID provider in India.",
         "body3": "Whether you're a seasoned bettor or new to cricket betting, RockyBook provides a wide range of betting options to suit every preference. By obtaining your online cricket ID India from RockyBook, you gain access to an exciting world of cricket betting, where every match becomes an opportunity for thrilling wins and unforgettable moments.",
         "conclusion": "Don't miss out on the excitement of IPL and other cricket tournaments. Join RockyBook today and experience the thrill of cricket betting like never before. With RockyBook, winning big is not just a possibility—it's a reality waiting to unfold with every match and every bet."
+      },
+
+      {   
+        "handle":"Delhi-Capitals-vs-Rajasthan-Royals-Match-Analysis-With-RockyBook",
+        "id":25,
+        "heading":"Delhi Capitals vs Rajasthan Royals",
+        "title": "Delhi Capitals vs Rajasthan Royals Match Analysis With RockyBook",
+        "imageUrl": img25,
+        "totalHeads": 6,
+        "head0" : "DC's Dominant Batting Display",
+        "head1" : "Kuldeep Yadav's Heroics",
+        "head2" : "Captain's Knock by Samson",
+        "head3" : "IPL 2024 Points Table Impact",
+        "head4" : "Looking Ahead",
+        "head5" : "Stay Updated with RockyBook",
+        "excerpt": "In a thrilling encounter between Delhi Capitals (DC) and Rajasthan Royals (RR) in IPL 2024, Jake Fraser-McGurk's explosive batting set the stage for an intense battle. Sanju Samson's decision to field after winning the toss led to a high-scoring affair at the Arun Jaitley Stadium.",
+        "body0": "DC's opener, Jake Fraser-McGurk, launched a fierce attack on the RR bowlers, achieving a blazing 19-ball half-century. Despite missing David Warner, DC posted an impressive 78-2 in the powerplay. However, RR fought back by claiming crucial wickets in the initial overs, showcasing their bowling prowess.",
+        "body1": "The turning point came with Kuldeep Yadav's exceptional bowling performance, earning him the Player of the Match title. His strategic bowling in the death overs, including a game-changing over, played a pivotal role in DC's 20-run victory over RR. Kuldeep's understanding of the batters' strategies and execution under pressure showcased his mastery in spin bowling",
+        "body2": "On the RR side, Sanju Samson led from the front with a brilliant knock of 86 off 46 balls. Despite his heroic efforts, RR fell short as they posted 201-8 in 20 overs, resulting in a 20-run defeat. Samson's captaincy and aggressive batting style were commendable, but DC's disciplined bowling at the crucial moments made the difference.",
+        "body3": "The victory for DC against RR reshuffled the IPL 2024 points table, with DC, SRH, and CSK now level on points. RR remains in a strong position, placed second with 16 points from 11 matches. The tight competition in IPL 2024 is evident, with every match contributing significantly to the teams' standings and playoff aspirations.",
+        "body4": "As the IPL season progresses, the intensity and excitement continue to rise. Fans can expect more thrilling encounters, strategic battles, and standout performances from players across teams. DC's win over RR is a testament to the unpredictable nature of cricket, keeping fans on the edge of their seats with each match.",
+        "body5": "For the latest IPL updates, match analysis, and cricket insights, visit RockyBook's Cricket Blog Updates. Get valuable Cricket Blog Tips and stay informed about the dynamic world of cricket. Whether you're a passionate fan or a betting enthusiast, RockyBook Blogs offer a comprehensive view of IPL 2024 and beyond.",
+        "conclusion": "Join the RockyBook community for an immersive cricket experience, filled with excitement, knowledge, and opportunities to enhance your cricketing journey. Keep up with the action-packed IPL season and explore the fascinating world of cricket with RockyBook Blogs."
       },
 
     ]

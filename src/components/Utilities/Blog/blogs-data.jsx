@@ -669,7 +669,7 @@ export const Blogs =
 
       {   
         "handle":"Virat-Kohlis-Spectacular-Performance-in-IPL-2024-A-Masterclass-in-Middle-Overs",
-        "id":25,
+        "id":26,
         "heading":"Virat Kohli's Spectacular Performance",
         "title": "Virat Kohli's Spectacular Performance in IPL 2024: A Masterclass in Middle Overs",
         "imageUrl": img26,

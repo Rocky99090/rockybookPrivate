@@ -25,6 +25,7 @@ import img22 from '../../../assets/img/blog/new-blog19.jpg'
 import img23 from '../../../assets/img/blog/new-blog20.jpg'
 import img24 from '../../../assets/img/blog/new-blog21.jpg'
 import img25 from '../../../assets/img/blog/new-blog22.jpg'
+import img26 from '../../../assets/img/blog/new-blog23.jpg'
 
 export const Blogs = 
 [
@@ -664,6 +665,25 @@ export const Blogs =
         "body4": "As the IPL season progresses, the intensity and excitement continue to rise. Fans can expect more thrilling encounters, strategic battles, and standout performances from players across teams. DC's win over RR is a testament to the unpredictable nature of cricket, keeping fans on the edge of their seats with each match.",
         "body5": "For the latest IPL updates, match analysis, and cricket insights, visit RockyBook's Cricket Blog Updates. Get valuable Cricket Blog Tips and stay informed about the dynamic world of cricket. Whether you're a passionate fan or a betting enthusiast, RockyBook Blogs offer a comprehensive view of IPL 2024 and beyond.",
         "conclusion": "Join the RockyBook community for an immersive cricket experience, filled with excitement, knowledge, and opportunities to enhance your cricketing journey. Keep up with the action-packed IPL season and explore the fascinating world of cricket with RockyBook Blogs."
+      },
+
+      {   
+        "handle":"Virat-Kohlis-Spectacular-Performance-in-IPL-2024-A-Masterclass-in-Middle-Overs",
+        "id":25,
+        "heading":"Virat Kohli's Spectacular Performance",
+        "title": "Virat Kohli's Spectacular Performance in IPL 2024: A Masterclass in Middle Overs",
+        "imageUrl": img26,
+        "totalHeads": 4,
+        "head0" : "Middle Overs Dominance",
+        "head1" : "Impactful Contributions",
+        "head2" : "Ever-Evolving Kohli",
+        "head3" : "Winning Big with RockyBook",
+        "excerpt": "Virat Kohli, the maestro of modern cricket, has once again showcased his exceptional batting prowess in IPL 2024 despite challenges faced by his team, Royal Challengers Bangalore (RCB). In a recent match against Punjab Kings (PBKS), Kohli's aggressive yet calculated approach propelled RCB to an impressive total, marking a significant milestone in his IPL journey.",
+        "body0": "Kohli's innings against PBKS exemplified his ability to dominate the middle overs, a phase where RCB has historically faced challenges. Scoring a remarkable 92 runs off just 47 balls, Kohli's attacking mindset and strategic shot selection were on full display. His partnership with Patidar added crucial runs, setting a solid foundation for RCB's innings.",
+        "body1": "Notably, Kohli's innings turned the tide for RCB, which is known for slowing down after the powerplay. His strike rate of 214.81 in the middle overs starkly contrasted with previous seasons, reflecting his evolving approach and willingness to take calculated risks. Kohli's ability to accelerate the scoring rate and maintain a high strike rate throughout the innings was instrumental in RCB's competitive performance.",
+        "body2": "Kohli's adaptability and continuous improvement have been critical highlights of his IPL 2024 journey. Embracing new challenges and refining his skills, Kohli's commitment to excellence is evident in every aspect of his game. His recent inclusion in India's squad for the T20 World Cup 2024 further underscores his consistent form and impact in the game's shortest format.",
+        "body3": "As cricket enthusiasts and betting lovers, witnessing Kohli's stellar performances is exhilarating. With RockyBook's Cricket Blog Updates, stay informed about the latest IPL insights, player analyses, and match predictions. Our Cricket Blog Tips provide valuable strategies and tips for maximizing your betting experience. At RockyBook, we offer a platform where cricket fans can immerse themselves in the excitement of IPL and other cricketing events. With comprehensive coverage, competitive odds, and a user-friendly interface, RockyBook ensures a seamless and rewarding betting experience. Join RockyBook Blogs for in-depth analyses, expert opinions, and opportunities to win big while enjoying the thrill of cricket. Kohli's remarkable innings in IPL 2024 exemplify his unmatched talent and determination. As RCB's campaign progresses and the T20 World Cup is on the horizon, Kohli's form and impact promise exciting prospects for cricket enthusiasts and betting enthusiasts alike.",
+        "conclusion": "Experience the thrill of IPL 2024 and cricket betting with RockyBook Blogs. Stay updated, informed, and engaged as the cricketing action unfolds, and witness moments of brilliance like Kohli's masterclass that redefine the game."
       },
 
     ]

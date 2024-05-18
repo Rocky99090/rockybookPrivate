@@ -26,6 +26,7 @@ import img23 from '../../../assets/img/blog/new-blog20.jpg'
 import img24 from '../../../assets/img/blog/new-blog21.jpg'
 import img25 from '../../../assets/img/blog/new-blog22.jpg'
 import img26 from '../../../assets/img/blog/new-blog23.jpg'
+import img27 from '../../../assets/img/blog/new-blog24.jpg'
 
 export const Blogs = 
 [
@@ -684,6 +685,25 @@ export const Blogs =
         "body2": "Kohli's adaptability and continuous improvement have been critical highlights of his IPL 2024 journey. Embracing new challenges and refining his skills, Kohli's commitment to excellence is evident in every aspect of his game. His recent inclusion in India's squad for the T20 World Cup 2024 further underscores his consistent form and impact in the game's shortest format.",
         "body3": "As cricket enthusiasts and betting lovers, witnessing Kohli's stellar performances is exhilarating. With RockyBook's Cricket Blog Updates, stay informed about the latest IPL insights, player analyses, and match predictions. Our Cricket Blog Tips provide valuable strategies and tips for maximizing your betting experience. At RockyBook, we offer a platform where cricket fans can immerse themselves in the excitement of IPL and other cricketing events. With comprehensive coverage, competitive odds, and a user-friendly interface, RockyBook ensures a seamless and rewarding betting experience. Join RockyBook Blogs for in-depth analyses, expert opinions, and opportunities to win big while enjoying the thrill of cricket. Kohli's remarkable innings in IPL 2024 exemplify his unmatched talent and determination. As RCB's campaign progresses and the T20 World Cup is on the horizon, Kohli's form and impact promise exciting prospects for cricket enthusiasts and betting enthusiasts alike.",
         "conclusion": "Experience the thrill of IPL 2024 and cricket betting with RockyBook Blogs. Stay updated, informed, and engaged as the cricketing action unfolds, and witness moments of brilliance like Kohli's masterclass that redefine the game."
+      },
+
+      {   
+        "handle":"The-Ultimate-Showdown-MS-Dhoni-vs-Virat-Kohli-in-IPL-2024-s-Decisive Match",
+        "id":27,
+        "heading":"The Ultimate Showdown:",
+        "title": "The Ultimate Showdown: MS Dhoni vs Virat Kohli in IPL 2024's Decisive Match",
+        "imageUrl": img27,
+        "totalHeads": 4,
+        "head0" : "The Stakes",
+        "head1" : "Scenarios to Watch",
+        "head2" : "Betting Insights",
+        "head3" : "Why Choose RockyBook?",
+        "excerpt": "As the IPL 2024 season reaches its climax, cricket fans are gearing up for an electrifying encounter between two of India’s greatest cricket legends: MS Dhoni and Virat Kohli. This decisive match, set for May 18th at M. Chinnaswamy Stadium, will determine which team secures a coveted spot in the playoffs. With everything on the line, Royal Challengers Bangalore (RCB) and Chennai Super Kings (CSK) are ready to battle it out in what promises to be an unforgettable clash.",
+        "body0": "RCB, led by the formidable Virat Kohli, are riding high on a wave of five consecutive wins. To keep their playoff dreams alive, they must not only defeat CSK but also satisfy specific match conditions. Should RCB bat second and CSK put up a score of 200, Kohli’s squad will need to chase down the target in 18.1 overs. The chase becomes more challenging if the match is shortened due to rain, with various scenarios demanding RCB to perform under immense pressure. On the other hand, CSK, captained by the legendary MS Dhoni, only need a win to secure their playoff spot, as they already have 14 points on the board. However, a defeat could see them crashing out of the tournament. The anticipation is heightened by the possibility of rain, which could significantly alter the match dynamics.",
+        "body1": "For a full 20-over match: RCB must chase 200 in 18.1 overs if batting second. 19-over match: The target remains 200, but they must achieve it in 17.1 overs. 10-over match: A target of 131 must be chased in 8.1 overs. 5-over match: RCB need to score 81 runs in just 19 balls. If RCB bats first, their bowling unit must restrict CSK to specific targets depending on the match length. For instance, if RCB scores 200 in a full match, they need to limit CSK to 182. In a five-over match, restricting CSK to 62 or fewer runs is crucial if RCB posts 80 on the board..",
+        "body2": "For those looking to place bets on this high-stakes match, it’s essential to choose the top betting sites in India. Platforms like RockyBook offer a seamless betting experience, making it India’s No.1 Book for all your betting needs. As one of the top sports websites in India, RockyBook provides detailed insights, real-time updates, and a secure environment to enhance your betting experience.",
+        "body3": "Opt for RockyBook for your betting in this match and the exciting IPL season. With its user-friendly interface, instant deposits and withdrawals, and 24/7 customer support, RockyBook ensures you have the best betting experience. Additionally, RockyBook offers a referral bonus, enhancing the excitement of betting on crucial matches like RCB vs CSK.",
+        "conclusion": "The RCB vs CSK match on May 18th is more than just a game; it’s a battle of titans that will decide the fate of these two legendary teams. Whether you are rooting for Dhoni’s experience or Kohli’s aggression, this match promises to be a nail-biter. Make your predictions and place your bets on RockyBook, the best platform to bet responsibly and win big this IPL season."
       },
 
     ]

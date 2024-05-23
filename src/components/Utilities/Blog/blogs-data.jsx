@@ -27,6 +27,7 @@ import img24 from '../../../assets/img/blog/new-blog21.jpg'
 import img25 from '../../../assets/img/blog/new-blog22.jpg'
 import img26 from '../../../assets/img/blog/new-blog23.jpg'
 import img27 from '../../../assets/img/blog/new-blog24.jpg'
+import img28 from '../../../assets/img/blog/new-blog25.jpg'
 
 export const Blogs = 
 [
@@ -704,6 +705,32 @@ export const Blogs =
         "body2": "For those looking to place bets on this high-stakes match, it’s essential to choose the top betting sites in India. Platforms like RockyBook offer a seamless betting experience, making it India’s No.1 Book for all your betting needs. As one of the top sports websites in India, RockyBook provides detailed insights, real-time updates, and a secure environment to enhance your betting experience.",
         "body3": "Opt for RockyBook for your betting in this match and the exciting IPL season. With its user-friendly interface, instant deposits and withdrawals, and 24/7 customer support, RockyBook ensures you have the best betting experience. Additionally, RockyBook offers a referral bonus, enhancing the excitement of betting on crucial matches like RCB vs CSK.",
         "conclusion": "The RCB vs CSK match on May 18th is more than just a game; it’s a battle of titans that will decide the fate of these two legendary teams. Whether you are rooting for Dhoni’s experience or Kohli’s aggression, this match promises to be a nail-biter. Make your predictions and place your bets on RockyBook, the best platform to bet responsibly and win big this IPL season."
+      },
+
+      {   
+        "handle":"IPL-2024-Thrilling-Playoffs-and-Betting-Opportunities-with-RockyBook",
+        "id":28,
+        "heading":"IPL 2024:",
+        "title": "IPL 2024: Thrilling Playoffs and Betting Opportunities with RockyBook",
+        "imageUrl": img28,
+        "totalHeads": 4,
+        "head0" : "KKR’s Commanding Performance",
+        "head1" : "The Road Ahead: Key Matches to Watch and Bet On",
+        "head2" : "RCB vs. RR: The Battle for Survival",
+        "head3" : "Bet on the Excitement with RockyBook",
+        "head4" : "Why Choose RockyBook?",
+        "head5" : "How to Get Started",
+        "head6" : "Bet Big, Win Big",
+        "head7" : "Final Thoughts",
+        "excerpt": "The IPL 2024 season has been an absolute rollercoaster, and the excitement is far from over! The Kolkata Knight Riders (KKxfy8R) have already secured their spot in the final after a stunning victory against Sunrisers Hyderabad (SRH) at the Narendra Modi Stadium in Ahmedabad on Tuesday, May 21. Now, all eyes are on the remaining matches as SRH prepares to face the winner between Rajasthan Royals (RR) and Royal Challengers Bangalore (RCB) to determine who will join KKR in the grand finale.",
+        "body0": "KKR showcased a dominant performance in the Qualifier 1, excelling in all departments to clinch the win against SRH. SRH opted to bat first, but their plans were quickly disrupted by Mitchell Starc’s phenomenal spell. Starc’s brilliant delivery dismissed Travis Head, and Vaibhav Arora soon sent Abhishek Sharma packing. Starc returned to claim two more crucial wickets, putting SRH on the back foot. Despite efforts from Rahul Tripathi and Heinrich Klaasen to stabilize the innings, KKR’s bowlers continued to dominate. A late cameo from Pat Cummins helped SRH reach a total of 159, but it wasn’t enough to challenge the determined KKR side.",
+        "body1": "As we approach the final stages of IPL 2024, the tournament remains wide open with several important matches left. SRH will now face the winner of the RR vs. RCB clash, adding more drama to this thrilling season.",
+        "body2": "RCB, led by Faf du Plessis, are no strangers to playoff pressure. After a remarkable turnaround, winning six consecutive matches following a string of losses, they’ve shown incredible resilience. Their upcoming match against Sanju Samson’s Rajasthan Royals is crucial, as RCB seeks to avenge their past playoff heartbreaks and make it to the final.",
+        "body3": "As the excitement builds, so do the opportunities for cricket betting enthusiasts. RockyBook is your trusted partner for all your IPL betting needs. Whether you're a seasoned bettor or a newbie, RockyBook offers the best online cricket ID and a seamless betting experience.",
+        "body4": "Online Cricket ID Provider in India: RockyBook is known for being a reliable and secure online cricket ID provider in India. With us, you can enjoy a hassle-free betting experience. Best Online Cricket ID: Our platform ensures that you get the best online cricket ID, providing you with top-notch security and ease of use. Cricket Betting Sites: As one of the leading cricket betting sites, RockyBook offers a wide range of betting options, competitive odds, and exciting promotions. Trusted Cricket Betting Site in India: We pride ourselves on being a trusted cricket betting site in India. Our commitment to responsible gaming and customer satisfaction sets us apart from the rest.",
+        "body5": "Getting started with RockyBook is simple. Sign up on our website, get your online cricket ID, and start placing your bets on the remaining IPL matches. With RockyBook, you can bet on your favorite teams and players, making the IPL 2024 even more thrilling.",
+        "body6": "Don’t miss out on the chance to win big with RockyBook. The upcoming matches promise high-octane action, and with our platform, you can turn your cricket knowledge into impressive winnings. Whether it’s predicting the match-winner, top scorer, or the number of sixes hit, there are plenty of opportunities to bet and win.",
+        "body7": "The IPL 2024 season is reaching its climax, and the stakes are higher than ever. KKR is already in the final, and the battle for the remaining spot is heating up. With RockyBook by your side, you can enjoy the thrill of the game and the excitement of betting. Join us now, place your bets, and be part of the IPL 2024 action!",
       },
 
     ]

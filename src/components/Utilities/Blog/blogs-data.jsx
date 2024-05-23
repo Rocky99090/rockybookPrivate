@@ -713,7 +713,7 @@ export const Blogs =
         "heading":"IPL 2024:",
         "title": "IPL 2024: Thrilling Playoffs and Betting Opportunities with RockyBook",
         "imageUrl": img28,
-        "totalHeads": 4,
+        "totalHeads": 8,
         "head0" : "KKR’s Commanding Performance",
         "head1" : "The Road Ahead: Key Matches to Watch and Bet On",
         "head2" : "RCB vs. RR: The Battle for Survival",

@@ -28,6 +28,7 @@ import img25 from '../../../assets/img/blog/new-blog22.jpg'
 import img26 from '../../../assets/img/blog/new-blog23.jpg'
 import img27 from '../../../assets/img/blog/new-blog24.jpg'
 import img28 from '../../../assets/img/blog/new-blog25.jpg'
+import img29 from '../../../assets/img/blog/new-blog26.jpg'
 
 export const Blogs = 
 [
@@ -731,6 +732,27 @@ export const Blogs =
         "body5": "Getting started with RockyBook is simple. Sign up on our website, get your online cricket ID, and start placing your bets on the remaining IPL matches. With RockyBook, you can bet on your favorite teams and players, making the IPL 2024 even more thrilling.",
         "body6": "Don’t miss out on the chance to win big with RockyBook. The upcoming matches promise high-octane action, and with our platform, you can turn your cricket knowledge into impressive winnings. Whether it’s predicting the match-winner, top scorer, or the number of sixes hit, there are plenty of opportunities to bet and win.",
         "body7": "The IPL 2024 season is reaching its climax, and the stakes are higher than ever. KKR is already in the final, and the battle for the remaining spot is heating up. With RockyBook by your side, you can enjoy the thrill of the game and the excitement of betting. Join us now, place your bets, and be part of the IPL 2024 action!",
+      },
+
+      {   
+        "handle":"KKR-Wins-IPL-2024-Title-in-a-Thrilling-Finale-Against-SRH",
+        "id":29,
+        "heading":"KKR Wins IPL 2024",
+        "title": "KKR Wins IPL 2024 Title in a Thrilling Finale Against SRH",
+        "imageUrl": img29,
+        "totalHeads": 5,
+        "head0" : "A Season to Remember",
+        "head1" : "Success for Bettors",
+        "head2" : "The Game Has Just Begun",
+        "head3" : "Why Choose RockyBook?",
+        "head4" : "Stay Tuned",
+        "excerpt": "The IPL 2024 season concluded in spectacular fashion yesterday as Kolkata Knight Riders (KKR) conquered Sunrisers Hyderabad (SRH) in a thrilling final. This season will be remembered not just for the high pace cricket but also for the excitement it brought to the betting community, especially those who placed their bets with RockyBook, one of the top betting sites in India.",
+        "body0": "From nail-biting finishes to breathtaking performances, IPL 2024 delivered non-stop entertainment. The final match was the summary of this excitement, with KKR putting up an amazing performance to claim the trophy. This victory marks KKR's third IPL title, solidifying their place as one of the most successful franchises in the league's history.",
+        "body1": "For many bettors on RockyBook, this season has been immensely rewarding. With a wide range of betting options, real-time updates, and expert predictions, RockyBook has proven to be one of the top sports websites in India. The platform's user-friendly interface and secure transactions have made it the preferred choice for both seasoned and new bettors.",
+        "body2": "While IPL 2024 has come to an end, the excitement for sports enthusiasts is far from over. The T20 World Cup is just around the corner, promising another round of thrilling cricket action. At RockyBook, we believe that the winning streak has just begun. The end of IPL is simply a new beginning for more opportunities to win big.",
+        "body3": "As one of the leading fantasy sports sites in India, RockyBook offers an unparalleled betting experience. Here are some reasons why RockyBook stands out: Diverse Betting Options: From pre-match bets to live betting, RockyBook covers all aspects of the game. Expert Insights: Get access to in-depth analysis and expert predictions to make informed betting decisions. Secure Transactions: Enjoy hassle-free deposits and withdrawals with our secure payment gateways. 24/7 Customer Support: Our dedicated support team is always ready to assist you with any queries.",
+        "body4": "The journey of thrilling cricket continues with the T20 World Cup on 2nd June in Canada. Stay tuned to RockyBook for the latest updates, betting tips, and opportunities to turn your cricket knowledge into big wins. Remember, the game has just begun, and the best is yet to come!",
+        "conclusion": "The IPL 2024 final was a fitting end to an unforgettable season, with KKR emerging victorious in a hard-fought battle against SRH. For the betting community, especially those on RockyBook, it was a season of remarkable successes. As we gear up for the T20 World Cup, keep your spirits high and your bets strategic. RockyBook is here to ensure that your winning journey continues."
       },
 
     ]

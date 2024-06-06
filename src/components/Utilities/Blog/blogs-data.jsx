@@ -29,6 +29,7 @@ import img26 from '../../../assets/img/blog/new-blog23.jpg'
 import img27 from '../../../assets/img/blog/new-blog24.jpg'
 import img28 from '../../../assets/img/blog/new-blog25.jpg'
 import img29 from '../../../assets/img/blog/new-blog26.jpg'
+import img30 from '../../../assets/img/blog/new-blog27.jpg'
 
 export const Blogs = 
 [
@@ -753,6 +754,29 @@ export const Blogs =
         "body3": "As one of the leading fantasy sports sites in India, RockyBook offers an unparalleled betting experience. Here are some reasons why RockyBook stands out: Diverse Betting Options: From pre-match bets to live betting, RockyBook covers all aspects of the game. Expert Insights: Get access to in-depth analysis and expert predictions to make informed betting decisions. Secure Transactions: Enjoy hassle-free deposits and withdrawals with our secure payment gateways. 24/7 Customer Support: Our dedicated support team is always ready to assist you with any queries.",
         "body4": "The journey of thrilling cricket continues with the T20 World Cup on 2nd June in Canada. Stay tuned to RockyBook for the latest updates, betting tips, and opportunities to turn your cricket knowledge into big wins. Remember, the game has just begun, and the best is yet to come!",
         "conclusion": "The IPL 2024 final was a fitting end to an unforgettable season, with KKR emerging victorious in a hard-fought battle against SRH. For the betting community, especially those on RockyBook, it was a season of remarkable successes. As we gear up for the T20 World Cup, keep your spirits high and your bets strategic. RockyBook is here to ensure that your winning journey continues."
+      },
+
+      {   
+        "handle":"India-vs-Ireland-T20-World-Cup-2024-Pre-Match-Analysis-with-RockyBook",
+        "id":30,
+        "heading":"India vs Ireland T20 World Cup 2024",
+        "title": "India vs Ireland T20 World Cup 2024 Pre-Match Analysis with RockyBook",
+        "imageUrl": img30,
+        "totalHeads": 6,
+        "head0" : "India’s Dominant Lineup",
+        "head1" : "Key Players to Watch:",
+        "head2" : "Ireland’s Resilient Squad",
+        "head3" : "Key Players to Watch:",
+        "head4" : "Betting Predictions and Tips with RockyBook",
+        "head5" : "Why Choose RockyBook?",
+        "excerpt": "As the T20 World Cup 2024 kicks off, all eyes are on the Indian cricket team, which is meticulously preparing for its opener against Ireland. Head coach Rahul Dravid emphasizes a focused approach, treating every match with the same intensity, regardless of the opponent. This match, scheduled for June 5th at the Nassau County International Cricket Stadium in New York, promises to be an exhilarating contest. Let's dive into the match predictions and see how you can leverage RockyBook, India's No.1 book, to make the most of this game.",
+        "body0": "Led by the charismatic Rohit Sharma, the Indian team is a powerhouse. The explosive opening duo of Sharma and Virat Kohli, followed by the aggressive middle-order batsmen like Suryakumar Yadav and Rishabh Pant, promises a formidable batting performance. The bowling department, spearheaded by the lethal Jasprit Bumrah, and supported by Kuldeep Yadav, Arshdeep Singh, and Ravindra Jadeja, adds depth and variety to India’s gameplay.",
+        "body1": "Virat Kohli: Known for his consistency and leadership, Kohli’s aggressive batting style and tactical acumen make him a force in world cricket. Rohit Sharma: The Hitman is renowned for his ability to score big runs and dominate bowlers. His track record of multiple double centuries in ODIs highlights his key role at the top of India’s batting order. Jasprit Bumrah: With an unorthodox bowling action and pinpoint accuracy, Bumrah’s yorkers and pace make him one of the best fast bowlers globally. Ravindra Jadeja: A dynamic all-rounder, Jadeja’s exceptional fielding, accurate left-arm spin, and handy batting skills make him invaluable across all formats.",
+        "body2": "Under the leadership of Paul Stirling, Ireland's team is no pushover. Relying heavily on Stirling and Andrew Balbirnie to provide solid starts, the middle-order, including Lorcan Tucker, Harry Tector, George Dockrell, and Curtis Campher, aims to capitalize on these starts. The bowling attack, led by Joshua Little and supported by Craig Young, Mark Adair, Barry McCarthy, and others, will look to pick up crucial wickets.",
+        "body3": "Paul Stirling: Leading Ireland for the first time in a T20 World Cup, Stirling’s experience and anchoring abilities make him a vital part of Ireland’s batting lineup. Andrew Balbirnie: The former skipper’s consistent performances in T20 World Cup history add stability to Ireland’s middle order. Joshua Little: As Ireland’s leading wicket-taker in T20 World Cup history, Little’s knack for taking crucial wickets, especially in the powerplay, poses a significant threat to opposition batsmen.",
+        "body4": "As you gear up for this exciting match, RockyBook, one of the top betting sites in India, provides an excellent platform for cricket enthusiasts to place their bets. With a user-friendly interface, instant withdrawals and deposits, and 24/7 customer service, RockyBook stands out as India's No.1 book. Whether you are betting on India’s explosive batting lineup or Ireland’s resilient bowling attack, RockyBook offers comprehensive options and competitive odds.",
+        "body5": "Instant Withdrawal & Deposit: Seamless transactions ensure you can access your winnings quickly. 24/7 Customer Service: Dedicated support to assist you with any queries or issues. Comprehensive Betting Options: From sportsbooks to live cards and live casinos, RockyBook covers it all. By using RockyBook, you can not only enjoy the thrill of the game but also maximize your chances of winning. So, don’t just watch the game—be a part of it and win with RockyBook.",
+        "conclusion": "The India vs Ireland match in the 2024 ICC Men’s T20 World Cup is set to be a thrilling encounter. With top-tier players and strategic gameplay, both teams are ready to showcase their best. Utilize RockyBook to make informed bets and enhance your viewing experience. Remember, with RockyBook, you’re not just playing; you’re playing to win."
       },
 
     ]

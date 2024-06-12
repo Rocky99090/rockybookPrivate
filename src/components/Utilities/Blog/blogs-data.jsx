@@ -30,6 +30,7 @@ import img27 from '../../../assets/img/blog/new-blog24.jpg'
 import img28 from '../../../assets/img/blog/new-blog25.jpg'
 import img29 from '../../../assets/img/blog/new-blog26.jpg'
 import img30 from '../../../assets/img/blog/new-blog27.jpg'
+import img31 from '../../../assets/img/blog/new-blog28.jpg'
 
 export const Blogs = 
 [
@@ -777,6 +778,29 @@ export const Blogs =
         "body4": "As you gear up for this exciting match, RockyBook, one of the top betting sites in India, provides an excellent platform for cricket enthusiasts to place their bets. With a user-friendly interface, instant withdrawals and deposits, and 24/7 customer service, RockyBook stands out as India's No.1 book. Whether you are betting on India’s explosive batting lineup or Ireland’s resilient bowling attack, RockyBook offers comprehensive options and competitive odds.",
         "body5": "Instant Withdrawal & Deposit: Seamless transactions ensure you can access your winnings quickly. 24/7 Customer Service: Dedicated support to assist you with any queries or issues. Comprehensive Betting Options: From sportsbooks to live cards and live casinos, RockyBook covers it all. By using RockyBook, you can not only enjoy the thrill of the game but also maximize your chances of winning. So, don’t just watch the game—be a part of it and win with RockyBook.",
         "conclusion": "The India vs Ireland match in the 2024 ICC Men’s T20 World Cup is set to be a thrilling encounter. With top-tier players and strategic gameplay, both teams are ready to showcase their best. Utilize RockyBook to make informed bets and enhance your viewing experience. Remember, with RockyBook, you’re not just playing; you’re playing to win."
+      },
+
+      {   
+        "handle":"Jasprit-Bumrahs-Masterclass-A-Game-Changer-in-the-ICC-T20-World-Cup",
+        "id":31,
+        "heading":"Jasprit Bumrah's Masterclass",
+        "title": "Jasprit Bumrah's Masterclass: A Game-Changer in the ICC T20 World Cup",
+        "imageUrl": img31,
+        "totalHeads": 6,
+        "head0" : "The Turning Point",
+        "head1" : "The Final Over Drama",
+        "head2" : "Celebrating the Genius",
+        "head3" : "Boom Boom Bumrah to Rock Rock RockyBook",
+        "head4" : "Why Choose RockyBook?",
+        "head5" : "Join the Winning Team",
+        "excerpt": "One team had Jasprit Bumrah. The other didn't. And that was that. This statement contains the essence of a thrilling encounter in the ICC T20 World Cup, where India, defending a modest total of 119, edged out Pakistan by six runs. The victory was nothing short of a cricketing miracle, orchestrated by the sheer brilliance of Bumrah. Bumrah's legend has many spectacular performances, but this one stands out. Not only because it came in a high-stakes World Cup match against arch-rivals Pakistan but also because, without his intervention, the game would have taken a very different turn. Pakistan, after cruising at 80 for 3, seemed to have the match in their grasp. But then came Bumrah, and the tide turned dramatically.",
+        "body0": "Skipper Rohit Sharma, in a desperate situation, handed the ball to his ace bowler. The atmosphere at Long Island’s Nassau County International Cricket Stadium was electric, with Indian fans outnumbering their Pakistani counterparts. The anticipation was palpable as Bumrah began his spell. Pakistan needed 40 runs off 36 balls with seven wickets in hand. The odds were heavily in their favor. But Bumrah’s bowling, especially in the death overs, is renowned for its precision and unpredictability. He started by dismissing Pakistan’s top-scorer Mohammad Rizwan, a crucial wicket that tilted the balance. Bumrah then returned to remove Iftikhar Ahmed, leaving Pakistan needing 18 off the final over.",
+        "body1": "India turned to Arshdeep Singh for the last six balls. The tension was at its peak. Pakistan's hopes rested on Naseem Shah and Shaheen Shah Afridi. However, the pressure created by Bumrah’s earlier spell had already done the damage. Pakistan managed just two boundaries in the last 36 deliveries, falling short of the target.",
+        "body2": "Bumrah’s final figures of 3 for 14 in four overs were a testament to his skill and temperament. Bumrah is going from strength to strength, Rohit Sharma remarked after the match. He’s a genius with the ball. This performance not only secured a crucial win for India but also highlighted Bumrah’s importance in the team’s World Cup campaign.",
+        "body3": "Just as Bumrah proved to be the difference-maker for India, RockyBook is your go-to platform for making the difference in your online cricket betting experience. As the best online cricket ID provider in India, RockyBook ensures you have access to the most trusted and user-friendly betting environment. With RockyBook, you can place your bets on your favorite players and matches with confidence, knowing you are using a trusted cricket betting site in India.",
+        "body4": "Secure Betting: RockyBook offers a secure and reliable platform for all your cricket betting needs. Whether you are looking for live betting options or pre-match odds, RockyBook ensures a seamless experience. User-Friendly Interface: The platform is designed to be intuitive, making it easy for both novice and experienced bettors to navigate. From placing bets to withdrawing winnings, every process is straightforward. 24/7 Customer Support: RockyBook provides round-the-clock customer support to assist you with any queries or issues you might face. This ensures a hassle-free betting experience. Exciting Promotions and Bonuses: To enhance your betting experience, RockyBook offers various promotions and bonuses. These offers are designed to provide added value and increase your chances of winning. Live Updates and Insights: Stay updated with live scores, expert analyses, and betting tips. RockyBook keeps you informed, helping you make well-informed betting decisions.",
+        "body5": "Just as Bumrah’s brilliance turned the game in India’s favor, RockyBook can enhance your betting experience, turning it into a winning venture. If you’re passionate about cricket and enjoy the thrill of betting, then RockyBook is the platform for you. It’s time to make smart moves and celebrate victories like Bumrah did on that unforgettable day. Join RockyBook today and be a part of the winning team. Visit our website and get your best online cricket ID. Place your bets, watch the matches, and witness the magic unfold like in the ICC T20 World Cup.",
+        "conclusion": "While Bumrah’s performance in the ICC T20 World Cup was a game-changer for India, RockyBook can be a game-changer for you in cricket betting. Trust the best, trust RockyBook – your ultimate destination for cricket betting sites in India."
       },
 
     ]

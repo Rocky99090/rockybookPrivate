@@ -806,7 +806,7 @@ export const Blogs =
 
       {   
         "handle":"West-Indies-Dominates-Afghanistan-A-Thrilling-Match-and-Betting-Opportunities",
-        "id":31,
+        "id":32,
         "heading":"West-Indies-Dominates-Afghanistan",
         "title": "West Indies Dominates Afghanistan: A Thrilling Match and Betting Opportunities",
         "imageUrl": img32,

@@ -32,6 +32,7 @@ import img29 from '../../../assets/img/blog/new-blog26.jpg'
 import img30 from '../../../assets/img/blog/new-blog27.jpg'
 import img31 from '../../../assets/img/blog/new-blog28.jpg'
 import img32 from '../../../assets/img/blog/new-blog29.jpg'
+import img33 from '../../../assets/img/blog/new-blog30.jpg'
 
 export const Blogs = 
 [
@@ -819,6 +820,25 @@ export const Blogs =
         "body1": "For those who follow top sports websites in India and are passionate about betting, this match was a goldmine of opportunities. Betting on such high-stakes games can be thrilling and rewarding, especially when utilizing top betting sites in India. These platforms offer a range of betting options, from predicting the highest run-scorer to the best bowler, and even in-play betting that adds to the excitement as the match unfolds. Fantasy sports enthusiasts also had a field day with this match. Fantasy sports sites in India provide a platform for fans to create their dream teams and compete against others. Selecting players like Nicholas Pooran, who delivered an exceptional performance, would have significantly boosted fantasy points, making the experience even more engaging.",
         "body2": "RockyBook stands out among the top betting sites in India for its user-friendly interface, comprehensive coverage of sporting events, and attractive odds. Whether you are a seasoned bettor or new to the game, RockyBook provides the tools and information you need to make informed decisions. Our platform also integrates fantasy sports, allowing you to enjoy the best of both worlds in one place. Betting on cricket, especially in high-profile tournaments like the T20 World Cup, requires a reliable and secure platform. RockyBook ensures your betting experience is smooth, secure, and packed with features that enhance your enjoyment. From live scores and updates to expert analysis and betting tips, RockyBook is your ultimate companion for sports betting.",
         "conclusion": "The West Indies vs Afghanistan match was a spectacular showcase of cricketing talent and strategy. For bettors and fantasy sports enthusiasts, it was an event filled with opportunities. As the tournament progresses, the West Indies have established themselves as strong contenders, making them a team to watch closely. Stay tuned to RockyBook, one of the top sports websites in India, for all your betting needs. Whether it’s live updates, fantasy sports, or betting insights, RockyBook has you covered. Join us and elevate your sports betting experience to the next level."
+      },
+
+      {   
+        "handle":"India-Afghanistan-A-Dominant-Victory-for-Team-India-in-the-ICC-T20-World-Cup",
+        "id":32,
+        "heading":"India vs Afghanistan",
+        "title": "India vs Afghanistan: A Dominant Victory for Team India in the ICC T20 World Cup",
+        "imageUrl": img33,
+        "totalHeads": 4,
+        "head0" : "India's Commanding Batting Display",
+        "head1" : "Afghanistan's Struggle in Chasing",
+        "head2" : "Key Moments in Afghanistan's Innings",
+        "head3" : "Player of the Match",
+        "excerpt": "Welcome to Rocky Book Blogs, we present to you a dominating performance from team India against Afghanistan. On June 20, 2024, at the Kensington Oval in Barbados, India showcased a dominant performance against Afghanistan, securing a 47-run victory in their first Super 8 match of the ongoing ICC Men's T20 World Cup. This victory continues India's unbeaten streak against Afghanistan in the T20 World Cup, reinforcing their status as a formidable team in the tournament.",
+        "body0": "After winning the toss, India elected to bat first. The decision proved fruitful as they put up a competitive total of 181/8 in their allotted 20 overs. The batting highlight was Suryakumar Yadav, who smashed his second half-century of the tournament, scoring a swift 53 off 28 balls. His aggressive batting laid a solid foundation for India. Hardik Pandya also contributed significantly with a crucial 32 off 24 deliveries. Other notable contributions came from Virat Kohli (24) and Rishabh Pant (20), who ensured that India had a formidable score to defend. Afghanistan's bowlers had their moments, with Rashid Khan and Fazalhaq Farooqi each picking up three wickets. Naveen-ul-Haq managed to take one wicket, but their efforts were not enough to restrict the Indian batting lineup effectively.",
+        "body1": "Chasing a target of 182 runs, Afghanistan's innings never gained momentum. They were bowled out for 134 runs, falling short by 47 runs. Azmatullah Omarzai was the only Afghan batsman who put up a fight, scoring 26 runs. Unfortunately, none of the other batsmen could cross the 20-run mark, which made the chase even more challenging. India's bowlers were relentless. Arshdeep Singh and Jasprit Bumrah were the pick of the bowlers, each claiming three wickets. Kuldeep Yadav also made a significant impact with two wickets, while Axar Patel and Ravindra Jadeja chipped in with one wicket each. The collective effort from the Indian bowlers ensured that Afghanistan could never settle into a rhythm.",
+        "body2": "Early Setbacks: Afghanistan's chase started on a shaky note, with Rahmanullah Gurbaz getting out early. Jasprit Bumrah struck in the second over, removing Gurbaz with a sharp delivery. Middle Order Collapse: Afghanistan's middle order failed to build any significant partnerships. The dismissals of Hazratullah Zazai and Ibrahim Zadran in quick succession put them on the back foot. Wickets at Crucial Intervals: India's bowlers consistently took wickets at critical moments. Arshdeep Singh's double blow in the 18th over, removing Rashid Khan and Naveen-ul-Haq, sealed Afghanistan's fate.",
+        "body3": "Suryakumar Yadav's outstanding performance with the bat earned him the Player of the Match award. His aggressive innings not only set up a strong total for India but also demoralized the Afghan bowlers.",
+        "conclusion": "As cricket fans, the thrill of the game extends beyond the boundaries of the field. With RockyBook’s Cricket Blog Updates, you can experience the excitement of every match with live betting opportunities. Stay updated with live score updates, make informed bets, and enjoy the game like never before. Whether you're cheering for India or any other team, RockyBook and its Cricket Blog Tips provides a seamless betting experience, ensuring you never miss a moment of the action. Join RockyBook today and be a part of the excitement. Play smart, play safe, and remember, with RockyBook, you're always in the game."
       },
 
     ]

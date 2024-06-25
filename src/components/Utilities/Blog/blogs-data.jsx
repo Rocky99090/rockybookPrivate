@@ -824,7 +824,7 @@ export const Blogs =
 
       {   
         "handle":"India-Afghanistan-A-Dominant-Victory-for-Team-India-in-the-ICC-T20-World-Cup",
-        "id":32,
+        "id":33,
         "heading":"India vs Afghanistan",
         "title": "India vs Afghanistan: A Dominant Victory for Team India in the ICC T20 World Cup",
         "imageUrl": img33,

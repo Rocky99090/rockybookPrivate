@@ -33,6 +33,7 @@ import img30 from '../../../assets/img/blog/new-blog27.jpg'
 import img31 from '../../../assets/img/blog/new-blog28.jpg'
 import img32 from '../../../assets/img/blog/new-blog29.jpg'
 import img33 from '../../../assets/img/blog/new-blog30.jpg'
+import img34 from '../../../assets/img/blog/new-blog31.jpg'
 
 export const Blogs = 
 [
@@ -840,5 +841,23 @@ export const Blogs =
         "body3": "Suryakumar Yadav's outstanding performance with the bat earned him the Player of the Match award. His aggressive innings not only set up a strong total for India but also demoralized the Afghan bowlers.",
         "conclusion": "As cricket fans, the thrill of the game extends beyond the boundaries of the field. With RockyBook’s Cricket Blog Updates, you can experience the excitement of every match with live betting opportunities. Stay updated with live score updates, make informed bets, and enjoy the game like never before. Whether you're cheering for India or any other team, RockyBook and its Cricket Blog Tips provides a seamless betting experience, ensuring you never miss a moment of the action. Join RockyBook today and be a part of the excitement. Play smart, play safe, and remember, with RockyBook, you're always in the game."
       },
+
+      {   
+        "handle":"India-Stun-Australia-Afghanistan-Knock-Out-World-Champions-in-Thrilling-T20-World-Cup",
+        "id":34,
+        "heading":"India Stun Australia",
+        "title": "India Stun Australia, Afghanistan Knock Out World Champions in Thrilling T20 World Cup",
+        "imageUrl": img34,
+        "totalHeads": 3,
+        "head0" : "India Dominate Australia in Crucial Super 8 Clash",
+        "head1" : "Afghanistan Stun Bangladesh, Knock Out World Champions Australia",
+        "head2" : "T20 World Cup with RockyBook",
+        "excerpt": "The highly anticipated clash between cricketing giants India and Australia in the ICC T20 World Cup 2024 Super 8 stage lived up to the hype, with Rohit Sharma's men emerging victorious by a comfortable margin of 24 runs. Opting to bat first, India got off to a flying start thanks to a blistering knock from captain Rohit Sharma. The 'Hitman' was in ominous form, smashing 92 runs off just 41 deliveries, including 8 towering sixes and 7 boundaries. His onslaught put the Australian bowlers on the backfoot early on, and despite the loss of Virat Kohli for a duck, India managed to post a mammoth total of 205/5 in their 20 overs.",
+        "body0": "In the chase, Australia made a decent start with Travis Head (76 off 43) and Mitchell Marsh (37 off 28) keeping them in the hunt. However, once the duo were dismissed, the Indian bowlers, led by Arshdeep Singh (3/37), Axar Patel (1/21), and Kuldeep Yadav (2/24), strangled the Australian batting lineup, restricting them to 181/7 and sealing a comfortable victory for the Men in Blue. This win not only secured India's place in the semi-finals of the tournament but also dealt a massive blow to the defending champions Australia's chances of progressing further. The result means that Australia's fate now hangs in the balance, with their hopes of reaching the final four now dependent on the outcome of the Bangladesh vs Afghanistan match.",
+        "body1": "In a stunning turn of events, Afghanistan pulled off a remarkable upset against Bangladesh in their final Super 8 match, winning by 5 wickets and knocking out the reigning World Test and ODI champions Australia in the process. Batting first, Bangladesh posted a competitive total of 178/6, thanks to a brilliant 87-run knock from Litton Das. However, the Afghan batters, led by Ibrahim Zadran (67 off 42) and Najibullah Zadran (42 off 25), chased down the target with 2 balls to spare, sending shockwaves through the cricketing world. This result means that Afghanistan have now qualified for the semi-finals of the T20 World Cup, while the mighty Australia, who were tipped as one of the favorites to lift the trophy, have been eliminated from the tournament. It's a testament to the growing strength of the Afghan cricket team, who have continued to defy the odds and make their mark on the international stage.",
+        "body2": "As the T20 World Cup reaches its climactic stages, cricket fans and bettors alike are eagerly following the action. If you're looking to get in on the excitement and potentially win big, RockyBook is the perfect platform for you. RockyBook is a leading online cricket betting website that offers a wide range of markets and competitive odds for the T20 World Cup. Whether you're a seasoned bettor or a newcomer to the world of online cricket betting, RockyBook has something for everyone. With a user-friendly interface and a wide range of payment options, RockyBook makes it easy to place your bets and track your winnings. Plus, with a dedicated customer support team available 24/7, you can rest assured that your betting experience will be smooth and hassle-free.",
+        "conclusion": "So, what are you waiting for? Head over to RockyBook and get your online cricket ID today. With the T20 World Cup in full swing, there's never been a better time to get in on the action and potentially win big!"
+      },
+
 
     ]

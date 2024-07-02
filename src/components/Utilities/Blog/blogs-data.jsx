@@ -34,6 +34,7 @@ import img31 from '../../../assets/img/blog/new-blog28.jpg'
 import img32 from '../../../assets/img/blog/new-blog29.jpg'
 import img33 from '../../../assets/img/blog/new-blog30.jpg'
 import img34 from '../../../assets/img/blog/new-blog31.jpg'
+import img35 from '../../../assets/img/blog/new-blog32.jpg'
 
 export const Blogs = 
 [
@@ -859,5 +860,21 @@ export const Blogs =
         "conclusion": "So, what are you waiting for? Head over to RockyBook and get your online cricket ID today. With the T20 World Cup in full swing, there's never been a better time to get in on the action and potentially win big!"
       },
 
+      {   
+        "handle":"Congratulations-Team-India-ICC-T20-World-Cup-Champions-2024",
+        "id":35,
+        "heading":"Congratulations Team India",
+        "title": "Congratulations Team India ICC T20 World Cup Champions 2024",
+        "imageUrl": img35,
+        "totalHeads": 3,
+        "head0" : "Chakde India",
+        "head1" : "RockyBook The No. 1 Betting Platform",
+        "head2" : "Khelo Dumpar Jeeto Dumpar",
+        "excerpt": "The cricketing world was captivated by the thrilling finale of the ICC T20 World Cup 2024, where the mighty Indian team emerged victorious against their formidable opponents, South Africa. This historic win not only cemented India's status as a dominant force in the shortest format of the game but also sent shockwaves of excitement through the RockyBook community. As a leading online betting platform, RockyBook Informative blogs has always been at the forefront of providing its users with the ultimate gaming knowledge. And what better way to celebrate this momentous occasion than by delving into the details of the captivating final that unfolded before our very eyes.",
+        "body0": "The match was a true testament to the resilience and skill of the Indian team. Facing a challenging target of 177 runs, the Proteas seemed to be in control, with Heinrich Klaasen and David Miller leading the charge. However, the Indian bowlers, led by the ever-reliable Jasprit Bumrah, refused to give up, delivering a masterclass in pressure-packed bowling. The turning point came in the 17th over, when Hardik Pandya's delivery led to the dismissal of Klaasen, shifting the momentum in India's favor. Bumrah's return in the final over proved to be the decisive blow, as he dismantled the South African batting lineup, leaving them short by a mere 7 runs. The celebrations that followed were nothing short of euphoric. The Indian players, led by the inimitable Virat Kohli, danced and embraced each other, reveling in the glory of their hard-earned triumph. The RockyBook community, too, erupted in a frenzy of joy, as they witnessed their beloved team clinch the coveted trophy.",
+        "body1": "But the story doesn't end there. For the RockyBook faithful, this victory holds a deeper significance. It serves as a testament to the power of strategic betting and the thrill of gaming. After all, what better way to experience the excitement of the game than by placing a wager on your favorite team?",
+        "body2": "At RockyBook, we believe in the mantra of Khelo Dumpar, Jeeto Dumpar - a philosophy that encapsulates the essence of our platform. With a wide range of thrilling games and seamless betting experience, RockyBook offers its users the opportunity to not only enjoy the game but also potentially reap the rewards of their astute predictions.",
+        "conclusion": "As we bask in the glory of India's triumphant T20 World Cup victory, let us raise a toast to the RockyBook community – the true champions who have always stood by their team, and who continue to find joy in the perfect blend of cricket and betting. After all, when it comes to the world of sports and gaming, RockyBook is the ultimate destination for the true enthusiasts."
+      },
 
     ]

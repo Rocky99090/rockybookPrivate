@@ -35,6 +35,7 @@ import img32 from '../../../assets/img/blog/new-blog29.jpg'
 import img33 from '../../../assets/img/blog/new-blog30.jpg'
 import img34 from '../../../assets/img/blog/new-blog31.jpg'
 import img35 from '../../../assets/img/blog/new-blog32.jpg'
+import img36 from '../../../assets/img/blog/new-blog33.jpg'
 
 export const Blogs = 
 [
@@ -875,6 +876,31 @@ export const Blogs =
         "body1": "But the story doesn't end there. For the RockyBook faithful, this victory holds a deeper significance. It serves as a testament to the power of strategic betting and the thrill of gaming. After all, what better way to experience the excitement of the game than by placing a wager on your favorite team?",
         "body2": "At RockyBook, we believe in the mantra of Khelo Dumpar, Jeeto Dumpar - a philosophy that encapsulates the essence of our platform. With a wide range of thrilling games and seamless betting experience, RockyBook offers its users the opportunity to not only enjoy the game but also potentially reap the rewards of their astute predictions.",
         "conclusion": "As we bask in the glory of India's triumphant T20 World Cup victory, let us raise a toast to the RockyBook community – the true champions who have always stood by their team, and who continue to find joy in the perfect blend of cricket and betting. After all, when it comes to the world of sports and gaming, RockyBook is the ultimate destination for the true enthusiasts."
+      },
+
+{   
+        "handle":"Winning-Continues-at-RockyBook-Indias-Premier-Betting-Platform",
+        "id":36,
+        "heading":"Winning Continues at RockyBook:",
+        "title": "Winning Continues at RockyBook: India's Premier Betting Platform",
+        "imageUrl": img36,
+        "totalHeads": 7,
+        "head0" : "Leveraging Cricket Betting Statistics",
+        "head1" : "Match Odds:",
+        "head2" : "Match/Series Top Batsman:",
+        "head3" : "Player Statistics:",
+        "head4" : "Over/Under Bet:",
+        "head5" : "Total Runs:",
+        "head6" : "Match Bet:",
+        "excerpt": "At RockyBook, the excitement never stops! As the number one betting platform in India, we continue to deliver thrilling experiences and winning opportunities for our users. With more games on the horizon for Team India, now is the perfect time to dive into the top sports websites in India with the best tools and insights available.",
+        "body0": "Whether you’re a die-hard cricket fan or simply enjoy betting on sporting events, utilizing cricket betting statistics is key to making informed decisions. At RockyBook as the top betting sites in India, we provide access to invaluable data through our partners. By analyzing these statistics, you can identify the most promising betting opportunities across various markets. Following are the crucial statistics to be considered:",
+        "body1": "Improve the odds for specific matchups to gauge potential outcomes. Explore different betting lines for each game to find the most favorable bets. Top Batsman Bet. One of the most popular bets in cricket betting is the Top Batsman bet, which predicts which player will score the most runs in a particular innings.",
+        "body2": "Bet on the top scorer in a single match. Predict the leading run-scorer over a series of games. Championship Top Batsman: Identify the highest scorer throughout a tournament. Top Batsman bets are similar to Top Bowler bets but can be more challenging to predict.",
+        "body3": "Study each player’s average runs scored, strike rate, and performance against different types of bowlers. Consider the match conditions, such as pitch type and weather, which can impact player performance.",
+        "body4": "The Over/Under bet is another popular form of cricket betting. This type of wager allows you to predict whether the total runs scored by a team or player will be over or under a specified amount.",
+        "body5": "Bet on whether a team will score more or less than the total runs set by the bookmaker. Predict when a wicket will fall, such as whether the first wicket will fall before or after a certain number of overs.",
+        "body6": "The Match Bet is the simplest form of cricket betting and a great starting point for new gamblers. This bet involves predicting the winner of a match. While straightforward, it’s essential to note that bets may be void in the event of a tie. Additionally, some sportsbooks have minimum score requirements before accepting bets.",
+        "conclusion": "At RockyBook, we are dedicated to enhancing your cricket betting experience by providing the best tools and insights. With a wide range of betting markets and detailed statistics at your fingertips, you can make more informed decisions and increase your chances of winning. Join us today and continue the winning streak with RockyBook, best fantasy sports sites in India!"
       },
 
     ]

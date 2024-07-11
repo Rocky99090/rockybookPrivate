@@ -36,6 +36,7 @@ import img33 from '../../../assets/img/blog/new-blog30.jpg'
 import img34 from '../../../assets/img/blog/new-blog31.jpg'
 import img35 from '../../../assets/img/blog/new-blog32.jpg'
 import img36 from '../../../assets/img/blog/new-blog33.jpg'
+import img37 from '../../../assets/img/blog/new-blog34.jpg'
 
 export const Blogs = 
 [
@@ -901,6 +902,31 @@ export const Blogs =
         "body5": "Bet on whether a team will score more or less than the total runs set by the bookmaker. Predict when a wicket will fall, such as whether the first wicket will fall before or after a certain number of overs.",
         "body6": "The Match Bet is the simplest form of cricket betting and a great starting point for new gamblers. This bet involves predicting the winner of a match. While straightforward, it’s essential to note that bets may be void in the event of a tie. Additionally, some sportsbooks have minimum score requirements before accepting bets.",
         "conclusion": "At RockyBook, we are dedicated to enhancing your cricket betting experience by providing the best tools and insights. With a wide range of betting markets and detailed statistics at your fingertips, you can make more informed decisions and increase your chances of winning. Join us today and continue the winning streak with RockyBook, best fantasy sports sites in India!"
+      },
+
+      {   
+        "handle":"IND-Vs-ZIM-2nd-T20I-Indian-Youngsters-Thrash-Zimbabwe-by-100-Runs-to-Level-Series",
+        "id":37,
+        "heading":"IND Vs ZIM, 2nd T20I:",
+        "title": "IND Vs ZIM, 2nd T20I: Indian Youngsters Thrash Zimbabwe by 100 Runs to Level Series",
+        "imageUrl": img37,
+        "totalHeads": 7,
+        "head0" : "A Record-Breaking Performance by Abhishek Sharma",
+        "head1" : "Contributions from Ruturaj Gaikwad and Rinku Singh",
+        "head2" : "Zimbabwe's Struggle",
+        "head3" : "India's Bowling Excellence",
+        "head4" : "A Promising Future for Indian Cricket",
+        "head5" : "Key Takeaways:",
+        "head6" : "Betting on Cricket Made Easy",
+        "excerpt": "In a thrilling display of cricketing prowess, the Indian cricket team roared back to life with a commanding victory over Zimbabwe in the second T20I, leveling the series 1-1. The Men in Blue, driven by the exuberance of youth, dominated the match from start to finish, showcasing their immense potential and leaving fans and critics alike in awe.",
+        "body0": "The star of the show was undoubtedly Abhishek Sharma, who announced his arrival on the international stage with a stunning maiden T20I century. The young left-hander played with poise and aggression, crafting a remarkable 100-run innings that set the foundation for India's imposing total. Abhishek's performance was a masterclass in clean hitting and intelligent shot selection, proving he is a name to watch in the future.",
+        "body1": "Supporting Abhishek at the other end were Ruturaj Gaikwad and Rinku Singh, both of whom delivered under pressure to propel India's score to a formidable 235 runs. Gaikwad's fluent 76 off 45 balls and Rinku's explosive 55 off 25 balls provided the perfect foil to Abhishek's brilliance, ensuring that Zimbabwe faced a mountain of runs to chase.",
+        "body2": "Chasing a mammoth target of 235, Zimbabwe's innings never gained the momentum needed to pose a serious threat. Despite a valiant effort from their star batsman Sikandar Raza, who scored a brisk 48, the hosts crumbled under the pressure applied by the Indian bowlers. The Zimbabwean batsmen were unable to cope with the disciplined bowling attack and sharp fielding, ultimately being bowled out for 134 in just 18.4 overs.",
+        "body3": "India's bowlers, led by the fiery pace of Arshdeep Singh and the cunning variations of Ravi Bishnoi, made life difficult for the Zimbabwean batsmen. Arshdeep's early breakthroughs and Bishnoi's clever spin ensured that the hosts never settled into their innings. The bowlers maintained a tight line and length, capitalizing on the scoreboard pressure and wrapping up the match with 8 wickets between them.",
+        "body4": "This resounding victory is a testament to the depth and talent in Indian cricket. The youngsters stepped up when it mattered the most, displaying a blend of aggression, skill, and composure that bodes well for the future. With the series now leveled, the upcoming third T20I promises to be a thrilling decider, and fans are eagerly anticipating another stellar performance from the Men in Blue.",
+        "body5": "Abhishek Sharma's Maiden Century: A brilliant innings that laid the foundation for India's total. Solid Support from Gaikwad and Singh: Crucial contributions that built on Sharma's century. Disciplined Bowling Attack: A combined effort from the bowlers that dismantled Zimbabwe's chase. Future Stars: The youngsters showcased their potential, hinting at a bright future for Indian cricket.",
+        "body6": "For those looking to add some excitement to their cricket viewing experience, finding the best online cricket ID is essential. As cricket betting gains popularity, having a reliable online cricket ID provider in India ensures that you can participate in the action safely and conveniently. RockyBook is your go-to source for the best cricket ID provider in India, offering secure and easy-to-use services that enhance your betting experience.",
+        "conclusion": "As India gears up for the series decider, the confidence gained from this comprehensive victory will undoubtedly serve them well. The young guns have proven their mettle, and the stage is set for an exciting finale. Stay tuned to RockyBook for all the latest updates and insights into the world of cricket betting, as we witness the rise of the next generation of cricketing stars."
       },
 
     ]

@@ -37,6 +37,7 @@ import img34 from '../../../assets/img/blog/new-blog31.jpg'
 import img35 from '../../../assets/img/blog/new-blog32.jpg'
 import img36 from '../../../assets/img/blog/new-blog33.jpg'
 import img37 from '../../../assets/img/blog/new-blog34.jpg'
+import img38 from '../../../assets/img/blog/new-blog35.jpg'
 
 export const Blogs = 
 [
@@ -927,6 +928,31 @@ export const Blogs =
         "body5": "Abhishek Sharma's Maiden Century: A brilliant innings that laid the foundation for India's total. Solid Support from Gaikwad and Singh: Crucial contributions that built on Sharma's century. Disciplined Bowling Attack: A combined effort from the bowlers that dismantled Zimbabwe's chase. Future Stars: The youngsters showcased their potential, hinting at a bright future for Indian cricket.",
         "body6": "For those looking to add some excitement to their cricket viewing experience, finding the best online cricket ID is essential. As cricket betting gains popularity, having a reliable online cricket ID provider in India ensures that you can participate in the action safely and conveniently. RockyBook is your go-to source for the best cricket ID provider in India, offering secure and easy-to-use services that enhance your betting experience.",
         "conclusion": "As India gears up for the series decider, the confidence gained from this comprehensive victory will undoubtedly serve them well. The young guns have proven their mettle, and the stage is set for an exciting finale. Stay tuned to RockyBook for all the latest updates and insights into the world of cricket betting, as we witness the rise of the next generation of cricketing stars."
+      },
+
+      {   
+        "handle":"Your-Winning-Streak-Never-Ends-at-RockyBook",
+        "id":38,
+        "heading":"Your Winning Streak",
+        "title": "Your Winning Streak Never Ends at RockyBook",
+        "imageUrl": img38,
+        "totalHeads": 7,
+        "head0" : "The Best Online Cricket ID Provider",
+        "head1" : "Your Trusted Online Cricket ID Provider in India",
+        "head2" : "Why RockyBook is the Best Cricket ID Provider in India",
+        "head3" : "Exciting Matches Ahead",
+        "head4" : "The Reality of International Fixtures",
+        "head5" : "The Hybrid Model Solution",
+        "head6" : "World Cricket Needs Collaboration",
+        "excerpt": "When it comes to online cricket betting, one name stands out above the rest: RockyBook. Whether you're a seasoned bettor or just starting, RockyBook ensures that your winnings continue, no matter what happens.",
+        "body0": "RockyBook has established itself as the best online cricket ID provider in India. With a user-friendly platform, excellent customer service, and unbeatable odds, RockyBook offers an unparalleled experience for cricket enthusiasts.",
+        "body1": "Choosing the right platform can be daunting, but with RockyBook, you're in safe hands. We are known for being the most reliable online cricket ID provider in India, offering secure and hassle-free services. Our commitment to your satisfaction sets us apart from the competition.",
+        "body2": "What makes RockyBook the best cricket ID provider in India? It’s our dedication to providing a seamless betting experience, our prompt support, and our transparent operations. We ensure that every user has access to the best features and the most exciting betting opportunities.",
+        "body3": "A few days ago, one of our viewers shared an exciting itinerary: India playing Pakistan in Lahore on March 1, 2025. This fixture has gone viral in Pakistan, sparking conversations and excitement among cricket fans. However, the final decision lies with the Government of India, considering the ongoing security concerns.",
+        "body4": "Traveling to Pakistan for matches isn't a decision made by the BCCI but requires clearance from the Government of India. Security is a paramount concern, and no international body can override these considerations. Therefore, the chances of this match happening in Lahore are slim.",
+        "body5": "Given the geopolitical tensions, a hybrid model, similar to the 2023 Asia Cup, might be the best solution for hosting such high-stakes matches. This approach ensures that the games go on while addressing security concerns. Dubai could emerge as a strong alternative venue due to favorable conditions in February 2025.",
+        "body6": "World cricket thrives on the participation of both India and Pakistan. While tensions may run high, finding a middle ground, like the hybrid model, ensures that the sport continues to flourish. Economic considerations also play a significant role, making it essential for all parties to compromise and collaborate.",
+        "conclusion": "At RockyBook, we understand the pulse of cricket fans and bettors alike. No matter the outcome of international fixtures, our platform ensures that your winning streak continues. Join us at RockyBook and experience the thrill of cricket betting like never before."
       },
 
     ]

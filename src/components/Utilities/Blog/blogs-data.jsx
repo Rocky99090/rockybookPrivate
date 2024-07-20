@@ -38,6 +38,7 @@ import img35 from '../../../assets/img/blog/new-blog32.jpg'
 import img36 from '../../../assets/img/blog/new-blog33.jpg'
 import img37 from '../../../assets/img/blog/new-blog34.jpg'
 import img38 from '../../../assets/img/blog/new-blog35.jpg'
+import img39 from '../../../assets/img/blog/new-blog36.jpg'
 
 export const Blogs = 
 [
@@ -954,5 +955,25 @@ export const Blogs =
         "body6": "World cricket thrives on the participation of both India and Pakistan. While tensions may run high, finding a middle ground, like the hybrid model, ensures that the sport continues to flourish. Economic considerations also play a significant role, making it essential for all parties to compromise and collaborate.",
         "conclusion": "At RockyBook, we understand the pulse of cricket fans and bettors alike. No matter the outcome of international fixtures, our platform ensures that your winning streak continues. Join us at RockyBook and experience the thrill of cricket betting like never before."
       },
+
+      {   
+        "handle":"Mukesh-Kumar-The-New-Shining-Star-India-vs-Zimbabwe-5th-T20I-Updates-From-RockyBook",
+        "id":39,
+        "heading":"Mukesh Kumar The New Shining Star",
+        "title": "Mukesh Kumar The New Shining Star India vs Zimbabwe 5th T20I Updates From RockyBook",
+        "imageUrl": img39,
+        "totalHeads": 4,
+        "head0" : "Match Overview:",
+        "head1" : "Key Performances:",
+        "head2" : "Series Recap:",
+        "head3" : "Next Steps:",
+        "excerpt": "The young Indian cricket team showcased resilience and determination as they clinched the T20I series against Zimbabwe with a convincing 42-run victory in the fifth and final match. This win marks a significant achievement for the squad, wrapping up the series with a 4-1 scoreline.",
+        "body0": "India's Innings: After being asked to bat first, India posted a competitive total of 167/6. Sanju Samson starred with the bat, scoring a crucial 58 runs off 45 balls, supported by Riyan Parag's steady 22 and Shivam Dube's quickfire 26 off 12 balls. Despite a rocky start, with India at 40/3 in the first five overs, the middle-order contributions ensured a defendable target​​. Zimbabwe's Response: Mukesh Kumar was the standout bowler for India, recording his career-best figures of 4/22. Zimbabwe's innings never really took off, with early wickets stifling their chase. Significant partnerships were hard to come by, and despite a few resistance efforts from the middle order, Zimbabwe was bowled out for 125 in 18.3 overs​.",
+        "body1": "Sanju Samson: His knock of 58 included four sixes and one boundary, stabilizing the Indian innings after early losses. Mukesh Kumar: His brilliant spell with the ball dismantled Zimbabwe's batting lineup, earning him career-best figures. Shivam Dube: Contributing both with the bat and the ball, Dube was instrumental in securing the win, bagging two crucial wickets​​.",
+        "body2": "After a disappointing start in the first T20I, where India faced criticism for their performance, the team bounced back remarkably. Led by Shubman Gill, the young squad adapted and improved with each game. The inclusion of experienced T20 World Cup squad members like Samson and Dube added much-needed stability and firepower​​.",
+        "body3": "With this series wrapped up, the Indian team will look forward to their upcoming tour of Sri Lanka. The performances in Zimbabwe will give the selectors and the new head coach, Gautam Gambhir, plenty to consider as they build a squad for future challenges​.",
+        "conclusion": "Stay tuned to RockyBook Informative Blogs for more gaming updates and in-depth analyses of your favorite cricket matches along with cricket betting blogs. As the T20 World Cup approaches, we’ll bring you the latest news and tips to keep your betting strategies sharp. Keep playing with RockyBook, where the game never ends!"
+      },
+
 
     ]

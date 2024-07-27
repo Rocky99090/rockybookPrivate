@@ -39,6 +39,7 @@ import img36 from '../../../assets/img/blog/new-blog33.jpg'
 import img37 from '../../../assets/img/blog/new-blog34.jpg'
 import img38 from '../../../assets/img/blog/new-blog35.jpg'
 import img39 from '../../../assets/img/blog/new-blog36.jpg'
+import img40 from '../../../assets/img/blog/new-blog37.jpg'
 
 export const Blogs = 
 [
@@ -975,5 +976,27 @@ export const Blogs =
         "conclusion": "Stay tuned to RockyBook Informative Blogs for more gaming updates and in-depth analyses of your favorite cricket matches along with cricket betting blogs. As the T20 World Cup approaches, we’ll bring you the latest news and tips to keep your betting strategies sharp. Keep playing with RockyBook, where the game never ends!"
       },
 
+      {   
+        "handle":"Sachin-or-Dravid-A-Battle-of-the-Greats-At-RockyBook",
+        "id":40,
+        "heading":"Sachin or Dravid?",
+        "title": "Sachin or Dravid? A Battle of the Greats At RockyBook",
+        "imageUrl": img40,
+        "totalHeads": 6,
+        "head0" : "Overview",
+        "head1" : "Home and Away Matches",
+        "head2" : "Performances Against the Best Bowling Attacks",
+        "head3" : "4th Innings Performance",
+        "head4" : "World XI and Opponents’ Nightmare",
+        "head5" : "Betting on the Legends with RockyBook",
+        "excerpt": "A few weeks back, Wisden India released the results of a poll conducted on their official Facebook page, declaring Rahul Dravid as the best Test batsman of India. This result was like a vicious bouncer that caught many cricket fans by surprise. Despite being a huge fan of Dravid, I wasn’t entirely convinced by the verdict. Was he indeed a better batsman than Sunil Gavaskar and Sachin Tendulkar? To explore this further, I decided to delve into the numbers of both Rahul and Sachin since they played in the same era against the same bowlers. Here are some interesting stats that help shed light on this debate, and like they say, “Numbers don’t lie. Both Sachin and Rahul have been fabulous players on the field and great role models off the field. They have tremendous mutual respect and have not missed a single opportunity to voice it.",
+        "body0": "To begin with, Sachin played 43 Test innings more than Rahul (329 vs. 286 innings) yet ended with a higher average (53.78 vs. 52.31). One could argue that if Rahul had played those additional 43 innings, his average might have surpassed Sachin’s. In terms of centuries, Sachin smashed 51 Test centuries and 68 half-centuries compared to Rahul’s 36 and 63. Clearly, Sachin had a knack for converting half-centuries into centuries better than Rahul. With these elementary numbers in place, let's dig deeper to get a better understanding of their performances.",
+        "body1": "Great players are judged by their performance both at home and in alien conditions. Both Sachin and Rahul had superior averages in away Test matches compared to home matches. Sachin averaged 54.75 in away matches and 52.67 at home, while Dravid averaged 53.03 abroad and 51.36 in India. There’s very little to choose between the two legends here, but Sachin edges out Rahul slightly.",
+        "body2": "From the mid-90s to 2010, the three best bowling sides were Australia, South Africa, and Pakistan. Scoring runs against these teams was a tall order, and batsmen received lavish accolades when they performed well. Sachin outshone Rahul against Australia and South Africa but Dravid was superior against Pakistan. When India played Australia, Sachin averaged 55.00 compared to Rahul’s 38.67. Against South Africa, Rahul struggled more with an average of 33.84, while Sachin averaged 42.46. However, Dravid averaged 53.73 against Pakistan, compared to Sachin’s 42.28. By dominating two of the three fearsome bowling attacks of that era, Sachin scores over Dravid in this aspect as well.",
+        "body3": "Scoring runs on a worn-out track is the biggest challenge for a batsman. In the 4th innings, Sachin leads with 1625 runs in 60 innings at an average of 36.93, while Dravid stands 5th with 1552 runs in 56 innings at 40.84. Sachin also scored more centuries in the 4th innings (three centuries) compared to Rahul’s one.",
+        "body4": "Many current and ex-players have selected their dream team for a Test match, and Sachin invariably features in every team. He was the No. 4 in the Wisden all-time Test World XI. If Sachin made it to this elite team, it makes little sense for Wisden India to declare the best Test batsman of India through a Facebook poll. Top bowlers like McGrath, Waqar, Lee, Warne, and Murali have all stated that Sachin was the best and the most difficult batsman they bowled to in their careers. Opposing captains have also opined that the master blaster was their major worry when playing against India. With all these greats submitting their admiration for Sachin, it’s fair to say he was the best Test batsman of the last 50 years.",
+        "body5": "While debates about the best cricketer can be endless, one thing that's certain is the excitement cricket brings. And when it comes to enhancing that excitement, RockyBook is your trusted cricket betting site in India. As a premier online betting platform, RockyBook offers an unparalleled experience for cricket enthusiasts. Whether you're backing Sachin's records or Dravid's resilience, you can place your bets on various cricket events and win big. RockyBook provides instant withdrawals and deposits, 24/7 customer service, and a referral bonus to keep the thrill alive.",
+        "conclusion": "Cricket is more than just a game; it’s a passion that unites millions. And with RockyBook, you can take your passion to the next level. Whether it's the IPL, World Cup, or any Test series, you can trust RockyBook, India's no.1 book to be your betting partner, providing you with the best odds and a seamless betting experience. So, while you admire the legends on the field, let RockyBook help you turn that admiration into rewarding wins."
+      },
 
     ]

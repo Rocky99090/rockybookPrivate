@@ -49,6 +49,7 @@ const AboutData = () => {
                         <p>{data.body2About}</p>
                         <p>{data.body3About}</p>
                         <p>{data.body4About}</p>
+                        <p>{data.body5About}</p>
                         <SectionTitle titlefirst={data.title2}  className="text-center" />
                       
                         <h5>{data.excerptMission}</h5>

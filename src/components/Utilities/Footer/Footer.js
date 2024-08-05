@@ -63,7 +63,7 @@ const Footer = () => {
                 <div className="container">
                     <div className="row align-items-center">
                         <div className="col-lg-6">
-                            {'Copyright © 2023'} <span>{'Rocky Book'}</span> {'All Rights Reserved RockyBook.'}
+                            {'Copyright © 2024'} <span>{'Rocky Book'}</span> {'All Rights Reserved RockyBook.'}
                         </div>
                         <div className="col-lg-6 text-right text-xl-right"></div>
                     </div>

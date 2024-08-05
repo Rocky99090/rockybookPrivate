@@ -41,6 +41,8 @@ const About = () => {
                             />
                             <p><b>KHELO DUM PAR, JEETO BUMPER </b></p>
                             <p>Welcome to Rocky Book - the best betting site in India. At Rocky Book, we provide a diverse array of betting options, including sportsbooks, live cards, and live casinos.</p>
+                            <p>The best online betting sites India, it is designed to meet the needs of every bettor, from beginners to experienced players. Whether you're passionate about sports betting, enjoy the strategy of live card games, or seek the excitement of live casino action, we have it all. </p>
+
                             <div className="about-content3 mt-30">
                                 <div className="row">
                                     <div className="col-md-12">

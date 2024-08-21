@@ -43,6 +43,7 @@ import img40 from '../../../assets/img/blog/new-blog37.jpg'
 import img41 from '../../../assets/img/blog/new-blog38.jpg'
 import img42 from '../../../assets/img/blog/new-blog39.jpg'
 import img43 from '../../../assets/img/blog/new-blog40.jpg'
+import img44 from '../../../assets/img/blog/new-blog41.jpg'
 
 export const Blogs = 
 [
@@ -1065,5 +1066,21 @@ export const Blogs =
         "conclusion": "Cricket betting is not just about luck; it’s about making informed decisions based on reliable statistics and insights. Whether you prefer Top Batsman bets, Over/Under bets, or Match Bets, understanding the game and using the right platform is key to success. At RockyBook, we’re committed to being the best online cricket ID provider in India, offering you everything you need for a seamless and rewarding betting experience."
       },
 
+      {   
+        "handle":"RockBook-Cricket-Legends-Comparison-The-Debate-of-the-century-Sachin-Tendulkar-vs-Virat-Kohli",
+        "id":44,
+        "heading":"RockBook Cricket Legends Comparison",
+        "title": "RockBook Cricket Legends Comparison: The Debate of the century - Sachin Tendulkar vs. Virat Kohli",
+        "imageUrl": img44,
+        "totalHeads": 3,
+        "head0" : "",
+        "head1" : "",
+        "head2" : "",
+        "excerpt": "The debate over whether Virat Kohli or Sachin Tendulkar stands as India’s greatest cricket icon is one that will endure for generations, much like comparisons between sports legends such as LeBron James and Michael Jordan or Lionel Messi and Diego Maradona. Each cricketer represents a different era, with unique challenges and triumphs. While a straightforward statistical comparison might seem like the easiest method to settle the debate, it overlooks the intangible qualities that each brought to the game, such as their influence on Indian cricket, the pressure of their eras, and the quality of opposition they faced.",
+        "body0": "In Test cricket, Tendulkar holds a slight edge, with a career average of 53.78 compared to Kohli’s 49.15 as of March 2024. Tendulkar’s 200 matches and over 15,000 runs make him the all-time leading Test run-scorer, an achievement that places him among the greatest of all time. Kohli, on the other hand, has been a force in all three formats of the game, especially in One Day Internationals (ODIs), where his strike rate of 93.63 outshines Tendulkar’s 86.23. Kohli's prowess in white-ball cricket, particularly his unmatched ability to chase down targets, sets him apart. His dominance in T20 cricket further solidifies his legacy, making the comparison between the two legends more complex than mere numbers.",
+        "body1": "RockyBook, one of the top betting sites in India, is where fans can immerse themselves in the excitement of cricket while making informed bets on matches featuring these legends. As one of the top sports websites in India, RockyBook provides detailed stats, expert insights, and a user-friendly interface, making it the ultimate destination for cricket enthusiasts. Whether you're looking to place bets on current games or delve into the nostalgia of matches gone by, RockyBook stands out as one of the premier fantasy sports sites in India, offering fans the best platform to engage with the sport at a deeper level.",
+        "body2": "While the debate over who is the greater cricketer may never be fully settled, it is clear that both Tendulkar and Kohli have left indelible marks on Indian cricket. Tendulkar’s longevity and consistency have set the benchmark for future generations, while Kohli’s adaptability and dominance across formats have redefined what it means to be a modern-day cricketing superstar. For fans and bettors alike, platforms like RockyBook provide the perfect avenue to celebrate and engage with these legends, keeping the spirit of the game alive.",
+        "conclusion": ""
+      },
 
     ]

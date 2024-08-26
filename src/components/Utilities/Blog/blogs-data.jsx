@@ -44,6 +44,7 @@ import img41 from '../../../assets/img/blog/new-blog38.jpg'
 import img42 from '../../../assets/img/blog/new-blog39.jpg'
 import img43 from '../../../assets/img/blog/new-blog40.jpg'
 import img44 from '../../../assets/img/blog/new-blog41.jpg'
+import img45 from '../../../assets/img/blog/new-blog42.jpg'
 
 export const Blogs = 
 [
@@ -1080,6 +1081,27 @@ export const Blogs =
         "body0": "In Test cricket, Tendulkar holds a slight edge, with a career average of 53.78 compared to Kohli’s 49.15 as of March 2024. Tendulkar’s 200 matches and over 15,000 runs make him the all-time leading Test run-scorer, an achievement that places him among the greatest of all time. Kohli, on the other hand, has been a force in all three formats of the game, especially in One Day Internationals (ODIs), where his strike rate of 93.63 outshines Tendulkar’s 86.23. Kohli's prowess in white-ball cricket, particularly his unmatched ability to chase down targets, sets him apart. His dominance in T20 cricket further solidifies his legacy, making the comparison between the two legends more complex than mere numbers.",
         "body1": "RockyBook, one of the top betting sites in India, is where fans can immerse themselves in the excitement of cricket while making informed bets on matches featuring these legends. As one of the top sports websites in India, RockyBook provides detailed stats, expert insights, and a user-friendly interface, making it the ultimate destination for cricket enthusiasts. Whether you're looking to place bets on current games or delve into the nostalgia of matches gone by, RockyBook stands out as one of the premier fantasy sports sites in India, offering fans the best platform to engage with the sport at a deeper level.",
         "body2": "While the debate over who is the greater cricketer may never be fully settled, it is clear that both Tendulkar and Kohli have left indelible marks on Indian cricket. Tendulkar’s longevity and consistency have set the benchmark for future generations, while Kohli’s adaptability and dominance across formats have redefined what it means to be a modern-day cricketing superstar. For fans and bettors alike, platforms like RockyBook provide the perfect avenue to celebrate and engage with these legends, keeping the spirit of the game alive.",
+      },
+
+      {   
+        "handle":"Perfect-Your-Cricket-Betting-Experience-with-Rocky-Book",
+        "id":45,
+        "heading":"Perfect Your Cricket Betting Experience",
+        "title": "Perfect Your Cricket Betting Experience with Rocky Book",
+        "imageUrl": img45,
+        "totalHeads": 5,
+        "head0" : "Wide Range of Betting Markets:",
+        "head1" : "Live Streaming and Real-Time Updates: ",
+        "head2" : "Competitive Odds and Lucrative Offers:",
+        "head3" : "User-Friendly Interface and Mobile Compatibility:",
+        "head4" : "Secure Transactions and Reliable Support:",
+        "excerpt": "Cricket enthusiasts know that the thrill of the game doesn't stop at watching; the excitement reaches new heights with the right betting platform. Rocky Book, one of India’s No.1 sports betting sites, offers an unparalleled betting experience by combining a wide range of markets, competitive odds, and innovative features. Here’s how Rocky Book stands out among the top betting sites in India.",
+        "body0": "Rocky Book caters to all kinds of cricket fans by offering a diverse array of betting markets. Whether you're interested in predicting the match outcome, toss results, or the performance of individual players, Rocky Book has you covered. With options like in-play betting and line markets, you can dive into a more engaging and strategic betting experience. This versatility makes Rocky Book one of the top sports websites in India, ensuring every bettor finds their preferred market.",
+        "body1": "One of the standout features of Rocky Book is its live streaming service. Not only can you place your bets, but you can also watch the action unfold in real-time. This feature is crucial for making informed decisions as it provides immediate access to game updates, helping you calculate risks and adjust your bets accordingly. The convenience of watching live games while betting makes Rocky Book a go-to platform for cricket fans.",
+        "body2": "Rocky Book constantly updates its odds to stay competitive, ensuring that you get the best possible value for your bets. Moreover, the platform is known for its generous promotions, including welcome bonuses, cashback, and loyalty rewards. These special offers enhance your betting experience by increasing your potential winnings and keeping the excitement alive throughout the Cricket season.",
+        "body3": "Rocky Book's seamless interface makes it easy to navigate through various betting options, whether you’re on a desktop or mobile device. The platform is optimized for mobile use, allowing you to place bets, watch live games, and access customer support with ease, no matter where you are. This user-centric design ensures that your betting experience is smooth and enjoyable from start to finish.",
+        "body4": "Security is a top priority at Rocky Book, with a range of secure payment options including net banking, e-wallets, and more. These features, combined with top-notch customer support available around the clock, ensure a hassle-free and secure betting experience. Whether you need assistance with transactions or have questions about your bets, Rocky Book’s dedicated support team is always ready to help.",
+        "conclusion": "Rocky Book stands out among the top Cricket betting sites for its comprehensive offerings, including diverse betting markets, live streaming, competitive odds, user-friendly design, and secure transactions. If you’re looking to elevate your Cricket betting experience, Rocky Book is your ultimate destination. Explore all that this top sports website in India has to offer and make the most of your cricket betting journey."
       },
 
     ]

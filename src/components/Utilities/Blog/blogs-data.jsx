@@ -45,6 +45,7 @@ import img42 from '../../../assets/img/blog/new-blog39.jpg'
 import img43 from '../../../assets/img/blog/new-blog40.jpg'
 import img44 from '../../../assets/img/blog/new-blog41.jpg'
 import img45 from '../../../assets/img/blog/new-blog42.jpg'
+import img46 from '../../../assets/img/blog/new-blog43.jpg'
 
 export const Blogs = 
 [
@@ -1102,6 +1103,29 @@ export const Blogs =
         "body3": "Rocky Book's seamless interface makes it easy to navigate through various betting options, whether you’re on a desktop or mobile device. The platform is optimized for mobile use, allowing you to place bets, watch live games, and access customer support with ease, no matter where you are. This user-centric design ensures that your betting experience is smooth and enjoyable from start to finish.",
         "body4": "Security is a top priority at Rocky Book, with a range of secure payment options including net banking, e-wallets, and more. These features, combined with top-notch customer support available around the clock, ensure a hassle-free and secure betting experience. Whether you need assistance with transactions or have questions about your bets, Rocky Book’s dedicated support team is always ready to help.",
         "conclusion": "Rocky Book stands out among the top Cricket betting sites for its comprehensive offerings, including diverse betting markets, live streaming, competitive odds, user-friendly design, and secure transactions. If you’re looking to elevate your Cricket betting experience, Rocky Book is your ultimate destination. Explore all that this top sports website in India has to offer and make the most of your cricket betting journey."
+      },
+
+      {   
+        "handle":"The-Journey-of-a-Cricket-Ball-From-Pitch-to-Cricket-Blog-Updates",
+        "id":46,
+        "heading":"The Journey of a Cricket Ball:",
+        "title": "The Journey of a Cricket Ball: From Pitch to Cricket Blog Updates",
+        "imageUrl": img46,
+        "totalHeads": 6,
+        "head0" : "The Ball: The Heart of Cricket",
+        "head1" : "Size Matters",
+        "head2" : "Weight: The Game Changer",
+        "head3" : "Craftsmanship: Inside the Cricket Ball",
+        "head4" : "Types of Cricket Balls: A Betting Insight",
+        "head5" : "From Ball to Bet: Cricket Blog Tips",
+        "excerpt": "Cricket is a sport that captivates tens of millions worldwide, with its intense focus on the ball, a small object that holds significant sway over the outcome of a match. Whether you're a passionate player, an avid follower, or someone who enjoys placing a bet on your favorite team, understanding the intricacies of the cricket ball can enhance your experience. In this blog, we'll explore how the cricket ball's characteristics impact the game and how this knowledge can be leveraged in betting, blending cricket insights with useful tips for our readers at Rocky Book.",
+        "body0": "Unlike other sports, where the ball is merely an instrument of play, cricket places enormous emphasis on the condition, size, weight, and materials of the ball. These factors not only influence how the game unfolds but also play a pivotal role in the betting landscape. When broadcasters dive deep into discussions about the ball, they're not just filling time—they're offering vital clues for making informed betting decisions.",
+        "body1": "Cricket balls vary in size depending on the players' age and gender. For men and boys over 13, the ball has a circumference of 8.81 to 9 inches, while for women and girls, it's slightly smaller, ranging from 8.25 to 8.88 inches. Children under 13 use even smaller balls, typically between 8.06 and 8.69 inches in circumference. This difference in size is more than a technical detail; it’s a subtle factor that can influence the dynamics of the game—and by extension, your betting strategy.",
+        "body2": "The weight of the cricket ball is another critical factor. For men and boys over 13, it ranges from 5.5 to 5.75 ounces. Women and girls over 13 use a ball weighing between 4.94 and 5.31 ounces, with children under 13 using balls between 4.69 and 5.06 ounces. The ball's weight affects how it moves through the air, how it bounces off the pitch, and how it behaves over the course of a match. For instance, bowlers often prefer a slightly lighter ball, which might seem like a minor detail but can significantly impact the game's outcome.",
+        "body3": "A cricket ball is a work of art, with a core made of cork, wrapped tightly with string, and encased in a leather cover with a sewn seam. The seam's height and the materials used can vary depending on the manufacturer, impacting how the ball behaves during play. Kookaburra, one of the leading manufacturers, has even developed a ball specifically for Twenty20 cricket, designed to withstand the intense, explosive nature of the format, contrasting with the gradual deterioration expected in Test cricket.",
+        "body4": "Traditionally, cricket balls are red, used primarily in Test and first-class cricket. However, with the evolution of limited-overs cricket, white balls have become the standard for ODIs and T20s. These balls are easier to see under lights but deteriorate faster, influencing everything from swing to bounce. Pink balls, introduced for day-night Tests, are another variant, designed to be visible in various lighting conditions. Understanding these nuances can provide valuable insights for betting enthusiasts. Three major manufacturers—Dukes, Kookaburra, and SG—dominate the cricket ball market. Each brand has its characteristics: Dukes balls are known for providing more lateral movement, while Kookaburra balls tend to deteriorate faster. These differences can influence a team's performance and, consequently, betting odds.",
+        "body5": "As you delve deeper into the world of cricket, you'll realize that the condition and type of ball used in a match can significantly affect the game's outcome. This is where cricket betting tips come into play. Whether you're new to the game or a seasoned bettor, keeping an eye on these details can give you an edge. At Rocky Book Blogs, we provide cricket blog updates that offer insights into how these factors influence matches, helping you make informed decisions when placing your bets.",
+        "conclusion": "In conclusion, understanding the intricacies of the cricket ball is not just for enthusiasts but also for those looking to make smart bets. By following the latest cricket blog updates on Rocky Book, you can stay ahead of the curve, using this knowledge to enhance your betting strategy and enjoy the game even more. Happy betting!"
       },
 
     ]

@@ -46,6 +46,7 @@ import img43 from '../../../assets/img/blog/new-blog40.jpg'
 import img44 from '../../../assets/img/blog/new-blog41.jpg'
 import img45 from '../../../assets/img/blog/new-blog42.jpg'
 import img46 from '../../../assets/img/blog/new-blog43.jpg'
+import img47 from '../../../assets/img/blog/new-blog44.jpg'
 
 export const Blogs = 
 [
@@ -1126,6 +1127,27 @@ export const Blogs =
         "body4": "Traditionally, cricket balls are red, used primarily in Test and first-class cricket. However, with the evolution of limited-overs cricket, white balls have become the standard for ODIs and T20s. These balls are easier to see under lights but deteriorate faster, influencing everything from swing to bounce. Pink balls, introduced for day-night Tests, are another variant, designed to be visible in various lighting conditions. Understanding these nuances can provide valuable insights for betting enthusiasts. Three major manufacturers—Dukes, Kookaburra, and SG—dominate the cricket ball market. Each brand has its characteristics: Dukes balls are known for providing more lateral movement, while Kookaburra balls tend to deteriorate faster. These differences can influence a team's performance and, consequently, betting odds.",
         "body5": "As you delve deeper into the world of cricket, you'll realize that the condition and type of ball used in a match can significantly affect the game's outcome. This is where cricket betting tips come into play. Whether you're new to the game or a seasoned bettor, keeping an eye on these details can give you an edge. At Rocky Book Blogs, we provide cricket blog updates that offer insights into how these factors influence matches, helping you make informed decisions when placing your bets.",
         "conclusion": "In conclusion, understanding the intricacies of the cricket ball is not just for enthusiasts but also for those looking to make smart bets. By following the latest cricket blog updates on Rocky Book, you can stay ahead of the curve, using this knowledge to enhance your betting strategy and enjoy the game even more. Happy betting!"
+      },
+
+      {   
+        "handle":"Top-Cricket-All-Rounders-and-How-Rocky-Book-Elevates-Your-Betting-Experience",
+        "id":47,
+        "heading":"Top Cricket All-Rounders",
+        "title": "Top Cricket All-Rounders and How Rocky Book Elevates Your Betting Experience",
+        "imageUrl": img47,
+        "totalHeads": 5,
+        "head0" : "5. Andrew Flintoff",
+        "head1" : "4. Kapil Dev",
+        "head2" : "3. Ian Botham",
+        "head3" : "2. Jacques Kallis",
+        "head4" : "1. Garfield Sobers",
+        "excerpt": "Cricket has always been a game of bat versus ball, where players often excel in either batting or bowling. However, the sport has also seen some incredible all-rounders who have mastered both aspects of the game. These legends have left an indelible mark on cricket history, and their contributions have made them icons. In this blog, we pay tribute to some of the best all-rounders cricket has ever seen, while also highlighting how Rocky Book stands as the best betting partner for enthusiasts looking to get online cricket IDs in India.",
+        "body0": "Andrew Flintoff, affectionately known as ‘Freddy,’ became a hero during England’s 2005 Ashes triumph. A fast bowler capable of delivering speeds over 140 km/h, Flintoff took 226 wickets at an average of 32.78. His batting was equally formidable, with five centuries and 26 half-centuries to his name. Despite a short peak in the 2000s, Flintoff's influence on the game was profound, making him a beloved figure in cricket. For fans who admire such cricketing prowess, Rocky Book offers the best online cricket betting ID provider services, ensuring an unmatched betting experience.",
+        "body1": "Kapil Dev, India’s greatest all-rounder, enjoyed a 16-year career that solidified his place in cricket history. As a bowler, Dev took 434 wickets at an average of 29.64, and his hard-hitting batting style saw him score eight centuries and 27 half-centuries. His most memorable performance came during the 1983 World Cup, where he led India to a historic victory. Rocky Book, your trusted cricket ID online provider, celebrates such legendary performances by offering a platform that enhances your betting journey with ease and reliability.",
+        "body2": "Ian Botham, or ‘Beefy’ as he is fondly known, is another Ashes legend whose cricketing achievements are etched in history. Botham's career saw him score 14 centuries and take 383 wickets, but it was his charismatic presence both on and off the field that made him a household name. Rocky Book understands the passion cricket fans have for the game and offers the best online cricket ID in India, allowing you to be part of the action in every match.",
+        "body3": "Jacques Kallis, the greatest all-rounder of the modern era, boasts staggering statistics with both bat and ball. His batting average of 57.02, coupled with 41 centuries, makes him one of the finest batsmen ever. Additionally, Kallis’s bowling prowess, with 274 wickets at an average of 32.51, cements his place as an all-round legend. For those who admire such excellence, Rocky Book provides the best online cricket betting ID, ensuring you never miss a moment of the excitement.",
+        "body4": "Sir Garfield Sobers is widely regarded as the greatest all-rounder in cricket history. His ability to bowl both fast-medium and spin, along with his breathtaking batting skills, set him apart. Sobers's 365 not out against Pakistan in 1958 remains one of the highest individual scores in Test cricket. Just as Sobers dominated the cricketing world, Rocky Book dominates the betting world, offering you the best platform to get an online cricket ID in India and enjoy a seamless betting experience.",
+        "conclusion": "In conclusion, these cricketing legends have left an indelible legacy that continues to inspire fans around the world. If you’re looking to enhance your cricket-watching experience, Rocky Book is your go-to betting partner. With a reputation as the best online cricket betting ID provider, Rocky Book ensures you stay connected to the game you love, with the best odds and a user-friendly platform."
       },
 
     ]

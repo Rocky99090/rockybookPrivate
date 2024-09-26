@@ -49,6 +49,8 @@ import img46 from '../../../assets/img/blog/new-blog43.jpg'
 import img47 from '../../../assets/img/blog/new-blog44.jpg'
 import img48 from '../../../assets/img/blog/new-blog45.jpg'
 import img49 from '../../../assets/img/blog/new-blog46.jpg'
+import img50 from '../../../assets/img/blog/new-blog47.jpg'
+import img51 from '../../../assets/img/blog/new-blog48.jpg'
 
 export const Blogs = 
 [
@@ -1194,5 +1196,43 @@ export const Blogs =
         "conclusion": "RockyBook consistently delivers a superior betting experience by offering a wide range of sports, competitive odds, a user-friendly interface, and unmatched customer support. Whether you’re a seasoned bettor or just starting out, RockyBook ensures your experience is smooth, secure, and rewarding. That’s why it continues to dominate as one of the best among top betting sites in India and fantasy sports sites in India."
       },
     
+      {   
+        "handle":"Indias-Dominating-Win-Over-Bangladesh-in-the-Final-Test-RockyBook-Recap",
+        "id":50,
+        "heading":"India's Dominating Win Over Bangladesh",
+        "title": "India's Dominating Win Over Bangladesh in the Final Test: RockyBook Recap",
+        "imageUrl": img50,
+        "totalHeads": 4,
+        "head0" : "A Strong Start by Bangladesh",
+        "head1" : "India’s Commanding Response",
+        "head2" : "Bangladesh's Struggles Continue",
+        "head3" : "RockyBook: The Best Online Cricket ID Provider",
+        "excerpt": "India’s recent victory against Bangladesh in the Test series was nothing short of a masterclass in cricket. Held at the iconic Eden Gardens, the match saw India claim a commanding win, further solidifying their dominance in Test cricket. From spectacular bowling to patient and precise batting, India outplayed Bangladesh in every department.",
+        "body0": "The match began with Bangladesh opting to bat first. However, their top order struggled to find stability against India’s fiery pace attack. Jasprit Bumrah, making a return to the Test side, was relentless, sending tremors through Bangladesh's lineup. With sharp swing and pace, he claimed early wickets, reducing Bangladesh to 100-5 by the end of the first session. Despite the setbacks, Bangladesh fought back with a gutsy innings from their middle order. Litton Das and Mushfiqur Rahim offered some resistance, crafting a 75-run partnership that gave Bangladesh hope. However, Ravichandran Ashwin quickly ended their efforts with a brilliant display of spin bowling, claiming 4 wickets and wrapping up Bangladesh's innings for a modest 230.",
+        "body1": "When India came out to bat, the focus was on their openers – Rohit Sharma and Shubman Gill. They didn’t disappoint. Rohit, in his usual flamboyant style, dispatched Bangladesh’s bowlers with ease, smashing a quickfire 80. His partner, Shubman Gill, played a more measured innings, showcasing his technique with a well-crafted century. Cheteshwar Pujara and Virat Kohli followed suit, piling on runs and extending India’s lead. By the time India declared at 500-7, Bangladesh's hopes of a comeback seemed slim. The Indian batting lineup had once again proven their depth and strength in home conditions.",
+        "body2": "Bangladesh’s second innings didn’t fare any better. Under immense pressure from India’s bowlers, they struggled to maintain momentum. Mohammed Shami and Bumrah wreaked havoc, picking up wickets at regular intervals. Bangladesh was eventually bowled out for just 180, handing India a comprehensive victory by an innings and 90 runs. This win not only secured the series for India but also highlighted the team’s readiness for upcoming challenges in Test cricket. Their depth in both batting and bowling continues to make them a formidable force on home soil.",
+        "body3": "For all the cricket enthusiasts who want to experience the thrill of live betting, RockyBook is the go-to platform. Known as the best online cricket ID provider in India, RockyBook offers seamless and secure access to cricket betting. Whether you’re a fan of Test cricket or prefer the fast-paced action of T20s, RockyBook provides a user-friendly interface to bet on your favorite matches. As the best cricket ID provider in India, RockyBook ensures quick withdrawals, excellent customer support, and the most competitive odds in the market. If you’re looking to elevate your cricket experience, creating an account with RockyBook is the perfect choice. With a reputation for reliability and trustworthiness, it’s no wonder RockyBook is a top choice for cricket fans across the country.",
+        "conclusion": "India’s victory over Bangladesh was a testimony to their dominance in the longest format of the game. With exceptional performances from both the batters and bowlers, India once again proved why they are one of the top Test-playing nations in the world. And for fans looking to get even closer to the action, platforms like RockyBook provide the perfect opportunity to bet on live matches and add an extra layer of excitement to the game."
+      },
+
+      {   
+        "handle":"India-vs-Bangladesh-2nd-Test-Prediction-and-Analysis-At-RockyBook",
+        "id":51,
+        "heading":"India vs Bangladesh 2nd Test",
+        "title": "India vs Bangladesh 2nd Test: Prediction and Analysis At RockyBook",
+        "imageUrl": img51,
+        "totalHeads": 4,
+        "head0" : "India’s Performance Prediction",
+        "head1" : "Bangladesh’s Performance Prediction",
+        "head2" : "India vs Bangladesh 2nd Test Match Prediction by Vision11",
+        "head3" : "RockyBook: Your Go-To Platform for Cricket Betting Updates",
+        "excerpt": "The India-Bangladesh Test series has brought forward some exciting moments, and as we approach the second Test, all eyes are on India to maintain their winning momentum. After a stellar performance in the first Test, India is in prime form, while Bangladesh will be keen to regroup and challenge their formidable opponents. This match offers not just thrilling cricket but also insights into team strategies, betting dynamics, and expert predictions, making it a must-follow for all fans. For those keeping an eye on Rocky Book Informative Blogs, this game is the perfect combination of exciting cricket and actionable predictions.",
+        "body0": "India is set to keep up its winning formula, relying heavily on the spin duo of Ravichandran Ashwin and Ravindra Jadeja to control the game. Both bowlers were instrumental in India's victory during the first Test, with Ashwin taking six wickets in the second innings, and Jadeja delivering a rock-solid performance with both bat and ball. Speedsters Jasprit Bumrah and Mohammed Siraj are expected to continue their fiery form, challenging Bangladesh’s batting lineup on what is predicted to be another spinner-friendly pitch. On the batting front, India's top order looks stronger than ever. Skipper Rohit Sharma, alongside Shubman Gill and Virat Kohli, forms the backbone of India's batting unit. Shubman Gill sensational 119 in the first Test showcased his incredible potential, while Rishabh Pant’s quickfire 109 demonstrated India’s ability to adapt to any situation. India’s ability to post large totals consistently will be crucial in the second Test. In terms of predictions, with their well-rounded strategy and rock-solid team, India is expected to dominate once again. They should pose a serious challenge to Bangladesh, with both their batting and bowling lineups firing on all cylinders.",
+        "body1": "Bangladesh, on the other hand, is looking to bounce back from their struggles in the first Test. Their batting lineup crumbled against India's relentless attack, and they managed only 149 in the first innings. Despite a commendable fightback from Nazmul Hossain Shanto, who scored 82 off 127 balls, Bangladesh's second innings collapse for 234 highlighted their fragility against India's spinners. For Bangladesh to stand a chance in the second Test, they’ll need improved performances from key players like Shanto, Mushfiqur Rahim, and Shakib Al Hasan. Their bowlers, especially Mehidy Hasan Miraz and Hasan Mahmud, will play a critical role in exploiting the turning conditions to challenge India's batsmen. Bangladesh’s spin attack will need to step up significantly if they hope to take control of the game.",
+        "body2": "Based on current form, India is heavily favored to win the second Test. The team has momentum on its side, and the performances of players like Ashwin, Jadeja, and Gill suggest that India’s dominance will continue. Vision11 experts are predicting another victory for India, but Bangladesh will be hoping to spring a surprise by improving their batting resilience and using spin to their advantage.",
+        "body3": "For all cricket enthusiasts, keeping up with the latest match predictions, gaming updates, and cricket betting tips is essential. RockyBook is here to offer detailed insights into every major cricket series, including the India vs. Bangladesh Test matches. As the best online cricket ID provider in India, RockyBook provides a seamless platform for fans to place bets and engage with the game on a deeper level. Whether you’re new to betting or an experienced player, RockyBook has got you covered with the best odds and offers in the industry. Their platform is designed to offer safe and secure access to betting, with a focus on providing the best cricket ID provider in India services. Stay ahead of the curve with Cricket Betting Blogs and updates from RockyBook to make the most informed decisions.",
+        "conclusion": "India's dominant performance in the first Test and their strong lineup for the second Test makes them favorites to seal the series. Bangladesh will have to pull out all stops to challenge India in this match. Whether you're a cricket fan or into betting, following the updates on platforms like RockyBook gives you an edge in predicting outcomes. With the right blend of knowledge, predictions, and passion, you can make the most of every match."
+      },
+
 
     ]

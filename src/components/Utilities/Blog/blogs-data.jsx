@@ -51,6 +51,7 @@ import img48 from '../../../assets/img/blog/new-blog45.jpg'
 import img49 from '../../../assets/img/blog/new-blog46.jpg'
 import img50 from '../../../assets/img/blog/new-blog47.jpg'
 import img51 from '../../../assets/img/blog/new-blog48.jpg'
+import img52 from '../../../assets/img/blog/new-blog49.jpg'
 
 export const Blogs = 
 [
@@ -1232,6 +1233,29 @@ export const Blogs =
         "body2": "Based on current form, India is heavily favored to win the second Test. The team has momentum on its side, and the performances of players like Ashwin, Jadeja, and Gill suggest that India’s dominance will continue. Vision11 experts are predicting another victory for India, but Bangladesh will be hoping to spring a surprise by improving their batting resilience and using spin to their advantage.",
         "body3": "For all cricket enthusiasts, keeping up with the latest match predictions, gaming updates, and cricket betting tips is essential. RockyBook is here to offer detailed insights into every major cricket series, including the India vs. Bangladesh Test matches. As the best online cricket ID provider in India, RockyBook provides a seamless platform for fans to place bets and engage with the game on a deeper level. Whether you’re new to betting or an experienced player, RockyBook has got you covered with the best odds and offers in the industry. Their platform is designed to offer safe and secure access to betting, with a focus on providing the best cricket ID provider in India services. Stay ahead of the curve with Cricket Betting Blogs and updates from RockyBook to make the most informed decisions.",
         "conclusion": "India's dominant performance in the first Test and their strong lineup for the second Test makes them favorites to seal the series. Bangladesh will have to pull out all stops to challenge India in this match. Whether you're a cricket fan or into betting, following the updates on platforms like RockyBook gives you an edge in predicting outcomes. With the right blend of knowledge, predictions, and passion, you can make the most of every match."
+      },
+
+      {   
+        "handle":"Indias-Thrilling-Victory-Against-Bangladesh-A-Historic-Test-Match",
+        "id":52,
+        "heading":"India’s Thrilling Victory Against Bangladesh",
+        "title": "India’s Thrilling Victory Against Bangladesh: A Historic Test Match",
+        "imageUrl": img52,
+        "totalHeads": 6,
+        "head0" : "India’s Record-Breaking Batting Performance",
+        "head1" : "Bangladesh Struggles to Match India’s Firepower",
+        "head2" : "Yashasvi Jaiswal: The Star of the Show",
+        "head3" : "India’s Dominance in Test Cricket",
+        "head4" : "Betting Enthusiasts Reap Benefits",
+        "head5" : "A Memorable Victory for India",
+        "excerpt": "On October 1, 2024, India achieved a stunning victory against Bangladesh in the second Test match of the series. This win, powered by remarkable batting performances and strategic bowling, not only sealed the series for India but also set multiple cricketing records, etching the match into the annals of Test history.",
+        "body0": "India’s batsmen were unstoppable as they displayed their explosive form. Led by Yashasvi Jaiswal and Rohit Sharma, India dominated Bangladesh from the start. Jaiswal’s blistering 50, studded with 10 fours and a six, helped India reach 50 runs in just three overs, breaking the previous record held by England. Rohit Sharma’s quickfire contribution, including three sixes and a four in just 11 balls, further bolstered India’s innings. The batting lineup continued to excel as Shubman Gill made a vital contribution, leading India to surpass 100 runs within 11 overs, another record achievement. By the end of the match, India had also smashed an astounding 96 sixes in a single calendar year, a first in Test cricket’s long history since 1877",
+        "body1": "Bangladesh’s response to India’s onslaught was less than ideal. India’s bowlers, particularly spinners Ravindra Jadeja and Ravichandran Ashwin, capitalized on the pitch’s conditions and quickly dismantled Bangladesh’s batting lineup. Ashwin's 5-wicket haul in the first innings was pivotal in putting Bangladesh on the back foot. The second innings saw much of the same with Ashwin and Jadeja again dominating with tight spells, ensuring that Bangladesh had no chance to mount a comeback.",
+        "body2": "Yashasvi Jaiswal’s performance was a standout. His aggressive 50 was not just quick but perfectly timed, setting the tone for India’s innings. He displayed a combination of calculated aggression and tactical prowess, helping India maintain their record-breaking pace. Jaiswal’s form throughout the match was crucial to India’s success, as he consistently pressured the Bangladeshi bowlers, forcing errors that allowed India to maintain control.",
+        "body3": "This victory against Bangladesh is a testament to India’s recent dominance in Test cricket. The team has set records not just in this match but throughout the past few years. With their latest achievement of hitting 96 sixes in a single calendar year, India has once again shown that they are a force to be reckoned with in all formats of the game.",
+        "body4": "For cricket fans, this match was a goldmine for real-time action, especially for those who had access to the best online cricket ID platforms. These platforms, such as Rocky Book, a leading online cricket ID provider in India, offered fans the perfect opportunity to experience the thrill of betting during live action. As the best cricket ID provider in India, platforms like these provide users with the chance to place informed bets on matches like this one, where India’s dominance was clear from the outset.",
+        "body5": "This match will be remembered as a monumental win for India, not just for the victory itself but for the records broken and the brilliant individual performances on display. India’s ability to dominate both with the bat and ball reflects the team’s strength and depth. As India continues to build on these successes, fans and cricket betting enthusiasts can look forward to more memorable moments in the near future.",
+        "conclusion": "In conclusion, India’s victory over Bangladesh on October 1, 2024, is not only a testament to the team’s brilliance but also an exciting reminder of why Indian cricket continues to thrill millions across the world. For cricket fans looking to engage more with the sport, platforms like Rocky Book offer an incredible way to stay connected and involved with every match."
       },
 
 

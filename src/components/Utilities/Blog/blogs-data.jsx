@@ -54,6 +54,7 @@ import img51 from '../../../assets/img/blog/new-blog48.jpg'
 import img52 from '../../../assets/img/blog/new-blog49.jpg'
 import img53 from '../../../assets/img/blog/new-blog50.jpg'
 import img54 from '../../../assets/img/blog/new-blog51.jpg'
+import img55 from '../../../assets/img/blog/new-blog52.jpg'
 
 export const Blogs = 
 [
@@ -1298,6 +1299,27 @@ export const Blogs =
         "body2": "At RockyBook, we prioritize your security and satisfaction, making us the go-to choice for many cricket fans. Here’s why RockyBook stands out among the top betting sites in India: With cutting-edge encryption technology, your personal information and transactions remain secure. Our payment gateways are designed for maximum confidentiality. Whether you're a beginner or an experienced bettor, our user-friendly interface makes it easy to navigate the site and manage your betting activities seamlessly. From live betting to pre-match predictions, RockyBook offers a wide range of betting formats, catering to all types of cricket fans. Our support team is available around the clock to assist with any queries or transactions, ensuring a smooth experience. Known for integrity and superior service, RockyBook has established itself as one of the top sports websites in India.",
         "body3": "When you choose RockyBook as your cricket ID provider, you’re choosing reliability, security, and a world-class betting experience. We understand that cricket betting is more than just placing bets—it's about enhancing your passion for the game and making every match even more exciting.",
         "conclusion": "In the fast-paced world of cricket betting, having a reliable online cricket ID provider is essential. With RockyBook, you not only get the best cricket ID but also enjoy a secure and exciting betting experience. As one of the best fantasy sports sites in India, we’re dedicated to providing a platform that lets you bet with confidence and passion. So why wait? Join RockyBook today and take your cricket betting to the next level!"
+      },
+
+      {   
+        "handle":"RockyBook-Indias-No1-Betting-Partner-for-IPL-2025",
+        "id":55,
+        "heading":"India's No.1 Betting Partner",
+        "title": "RockyBook: India’s No.1 Betting Partner for IPL 2025",
+        "imageUrl": img55,
+        "totalHeads": 5,
+        "head0" : "Record Wins Await with RockyBook",
+        "head1" : "Betting Masterclass by RockyBook",
+        "head2" : "Gear Up for the IPL 2025 Finals",
+        "head3" : "Stay Tuned for More Action",
+        "head4" : "Join the RockyBook Community",
+        "excerpt": "As the much-anticipated IPL 2025 season approaches, RockyBook is ready to cement its position as the best online cricket ID provider in India. After a successful IPL 2024, where cricket enthusiasts across the country enjoyed thrilling betting experiences, RockyBook is all set to deliver even more excitement for the upcoming season. Known for its user-friendly platform, competitive odds, and top-notch customer support, RockyBook stands tall as the best cricket ID provider in India and the go-to destination for sports bettors.",
+        "body0": "IPL 2025 promises to bring not only exhilarating matches but also immense winning opportunities for RockyBook users. Last year, bettors turned small investments into big profits, thanks to the accurate odds and insightful tips provided by RockyBook. Stories of success were common, with users experiencing firsthand why RockyBook is trusted by many as India’s No.1 betting partner.",
+        "body1": "Building on the success of last year, RockyBook is bringing back its popular Betting Masterclass series for IPL 2025. This initiative, designed for both new and experienced bettors, will cover essential betting strategies, how to interpret odds, and maximizing the potential of in-play betting. With expert insights and practical tips, the masterclass aims to enhance every bettor’s experience and knowledge. Understanding Betting Odds: Learn to read and interpret odds to make smarter bets. In-Play Betting Strategies: Cricket’s dynamic nature makes in-play betting thrilling. The masterclass will guide bettors on how to capitalize on live game situations. Bankroll Management: Managing your betting budget effectively to ensure long-term success. By participating, you not only improve your betting skills but also join a community of passionate cricket fans.",
+        "body2": "As the IPL 2025 unfolds, the excitement is already building for the finals. Whether you're a seasoned bettor or trying your hand at sports betting for the first time, RockyBook is ready to provide endless opportunities for you to win big. From predicting match outcomes to betting on individual player performances, you’ll find a variety of betting options for the finals. RockyBook is your ultimate companion for IPL 2025, offering a thrilling experience for all cricket fans. With the best online cricket ID and easy-to-use platform, you’re only a few clicks away from becoming a winner.",
+        "body3": "IPL 2025 is just the beginning. RockyBook remains your trusted partner for all upcoming cricket events, ensuring that the excitement continues long after the IPL is over. Stay tuned for more masterclasses, betting opportunities, and, of course, more chances to win. Apart from cricket, RockyBook offers betting options across various sports, further establishing itself as one of the top sports websites in India. Whether you’re into football, tennis, or other sports, RockyBook has something for everyone.",
+        "body4": "Join the RockyBook family today and discover why it’s considered the best cricket ID provider in India. With expert insights, cutting-edge features, and a commitment to responsible gaming, RockyBook provides a seamless and enjoyable betting experience. Sign up now, take part in the IPL 2025 Betting Masterclass, and get ready to place your bets on the most exciting cricket season yet. With RockyBook, the world of cricket betting is just a click away.",
+        "conclusion": "As IPL 2025 approaches, RockyBook continues to set the bar high as India’s No.1 betting partner. With record wins, expert guidance, and a passionate community of bettors, RockyBook has revolutionized the online betting experience. Don’t miss out—join today and get ready for a season full of thrills, strategies, and winnings!"
       },
 
     ]

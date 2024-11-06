@@ -55,6 +55,7 @@ import img52 from '../../../assets/img/blog/new-blog49.jpg'
 import img53 from '../../../assets/img/blog/new-blog50.jpg'
 import img54 from '../../../assets/img/blog/new-blog51.jpg'
 import img55 from '../../../assets/img/blog/new-blog52.jpg'
+import img56 from '../../../assets/img/blog/new-blog53.jpg'
 
 export const Blogs = 
 [
@@ -1321,5 +1322,35 @@ export const Blogs =
         "body4": "Join the RockyBook family today and discover why it’s considered the best cricket ID provider in India. With expert insights, cutting-edge features, and a commitment to responsible gaming, RockyBook provides a seamless and enjoyable betting experience. Sign up now, take part in the IPL 2025 Betting Masterclass, and get ready to place your bets on the most exciting cricket season yet. With RockyBook, the world of cricket betting is just a click away.",
         "conclusion": "As IPL 2025 approaches, RockyBook continues to set the bar high as India’s No.1 betting partner. With record wins, expert guidance, and a passionate community of bettors, RockyBook has revolutionized the online betting experience. Don’t miss out—join today and get ready for a season full of thrills, strategies, and winnings!"
       },
+
+      {   
+        "handle":"Key-Players-to-Watch-in-IPL-2025-to-Boost-Your-Betting-Odds-on-Indias-No1-Book",
+        "id":56,
+        "heading":"Key Players to Watch in IPL 2025",
+        "title": "Key Players to Watch in IPL 2025 to Boost Your Betting Odds on India’s No.1 Book",
+        "imageUrl": img56,
+        "totalHeads": 9,
+        "head0" : "Why Tracking Key Players Matters",
+        "head1" : "Shubman Gill (Batsman) – Gujarat Titans",
+        "head2" : "Jasprit Bumrah (Bowler) – Mumbai Indians",
+        "head3" : "Ben Stokes (All-Rounder) – Chennai Super Kings",
+        "head4" : "Yashasvi Jaiswal (Batsman) – Rajasthan Royals",
+        "head5" : "Rashid Khan (Bowler) – Gujarat Titans",
+        "head6" : "Hardik Pandya (All-Rounder) – Gujarat Titans",
+        "head7" : "Virat Kohli (Batsman) – Royal Challengers Bangalore",
+        "head8" : "Sam Curran (Bowler) – Punjab Kings",
+        "excerpt": "The Indian Premier League (IPL) 2025 is fast approaching, and fans across the globe are ready for yet another exciting season. With a lineup of stellar players and new talent joining the squads, this season promises thrilling action, powerful performances, and countless betting opportunities. For those looking to make the most out of their bets, focusing on key players can make all the difference. RockyBook, India’s No.1 betting site, is here to guide you through the players to watch this season for a better chance at successful wagers.",
+        "body0": "Whether you're a seasoned bettor or new to the world of online cricket betting, keeping an eye on top players is essential. Performance patterns, form consistency, and historical impact in the IPL can give you insights that boost your chances of winning. Betting on India’s most trusted cricket betting site, RockyBook, means you have access to live updates and stats to support every wager you make.",
+        "body1": "The Orange Cap winner of the previous season, Shubman Gill has established himself as one of the most reliable openers in the IPL. His solid form and batting consistency make him a valuable asset for betting. With a knack for scoring big runs, Shubman is a top choice for bettors on India’s No.1 book, especially in games with high-scoring potential.",
+        "body2": "After making a remarkable comeback last season, Bumrah remains a top player to watch. Known for his deadly yorkers and brilliant death-overs bowling, Bumrah’s performance can be game-changing. Betting on his ability to take early or late wickets can increase your odds significantly, especially with live betting options available on RockyBook.",
+        "body3": "Stokes brings versatility and match-winning experience to the table. As an all-rounder, he can deliver with both bat and ball, adding value in any situation. Stokes' ability to turn matches around makes him a perfect choice for bettors looking to place high-reward bets on trusted cricket betting sites in India like RockyBook.",
+        "body4": "Known for his explosive opening partnerships, Yashasvi Jaiswal was a standout player last season and is expected to continue his streak in IPL 2025. His aggressive style makes him ideal for placing bets on boundary counts and high-scoring partnerships, which are always exciting and lucrative options on RockyBook.",
+        "body5": "A fan-favorite spinner, Rashid Khan’s track record speaks for itself. His wicket-taking abilities, especially in the middle overs, make him a go-to player for betting. Consider placing bets on his wicket count or economy rate for higher payouts on India’s most trusted betting site, RockyBook.",
+        "body6": "Pandya’s leadership and all-round performance are sure to attract attention this season. His flexibility in batting and aggressive bowling style make him a top pick for in-play bets, where you can make predictions on his performance in both innings, ensuring excitement and higher chances of winning on India’s No.1 betting site.",
+        "body7": "The cricket icon himself, Virat Kohli, is always a strong choice. Known for his consistency and adaptability, Kohli is a prime player for high-stakes bets. Whether betting on his run totals or innings boundaries, Kohli’s performance is something every bettor on trusted cricket betting sites in India should keep an eye on.",
+        "body8": "The young, rising talent, Sam Curran, made a splash in previous IPL seasons with his dynamic bowling and sharp cricketing mind. Curran’s skill in bowling at crucial moments can be valuable for bet types like wickets-per-innings and runs-per-over, available on RockyBook.",
+        "conclusion": "The IPL 2025 season is shaping up to be one of the most thrilling yet, with key players ready to make a significant impact. By focusing on these players and leveraging the tools on RockyBook, India’s No.1 betting site, you can enhance your betting chances and enjoy the thrill of the game like never before. So, gear up for IPL 2025 and make the most of your cricket knowledge by joining RockyBook. Your favorite players and RockyBook’s secure, reliable betting options await to make this season unforgettable!"
+      },
+
 
     ]

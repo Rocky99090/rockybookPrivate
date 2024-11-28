@@ -1355,7 +1355,7 @@ export const Blogs =
 
       {   
         "handle":"Rishabh-Pant-Sets-IPL-Auction-Record-with-₹27-Crore-Bid-A-Historic-Moment-for-Cricket-Fans-and-Bettors",
-        "id":56,
+        "id":57,
         "heading":"Rishabh Pant Sets IPL Auction Record",
         "title": "Rishabh Pant Sets IPL Auction Record with ₹27 Crore Bid: A Historic Moment for Cricket Fans and Bettors",
         "imageUrl": img57,
@@ -1369,5 +1369,6 @@ export const Blogs =
         "body2": "The IPL has revolutionized cricket, blending sports and entertainment. Platforms like Rocky Book, India no 1 betting site have capitalized on this by becoming the go-to destination for trusted cricket betting in India. From pre-match analysis to live betting options, bettors can enjoy a seamless and secure experience.",
         "conclusion": "As Rishabh Pant gears up to don the LSG jersey, fans and bettors alike are set for an electrifying season. The 2025 IPL promises action, drama, and unforgettable moments – a dream come true for cricket lovers and betting enthusiasts!"
       },
+    
 
     ]

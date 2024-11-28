@@ -56,6 +56,7 @@ import img53 from '../../../assets/img/blog/new-blog50.jpg'
 import img54 from '../../../assets/img/blog/new-blog51.jpg'
 import img55 from '../../../assets/img/blog/new-blog52.jpg'
 import img56 from '../../../assets/img/blog/new-blog53.jpg'
+import img57 from '../../../assets/img/blog/new-blog54.jpg'
 
 export const Blogs = 
 [
@@ -1352,5 +1353,21 @@ export const Blogs =
         "conclusion": "The IPL 2025 season is shaping up to be one of the most thrilling yet, with key players ready to make a significant impact. By focusing on these players and leveraging the tools on RockyBook, India’s No.1 betting site, you can enhance your betting chances and enjoy the thrill of the game like never before. So, gear up for IPL 2025 and make the most of your cricket knowledge by joining RockyBook. Your favorite players and RockyBook’s secure, reliable betting options await to make this season unforgettable!"
       },
 
+      {   
+        "handle":"Rishabh-Pant-Sets-IPL-Auction-Record-with-₹27-Crore-Bid-A-Historic-Moment-for-Cricket-Fans-and-Bettors",
+        "id":56,
+        "heading":"Rishabh Pant Sets IPL Auction Record",
+        "title": "Rishabh Pant Sets IPL Auction Record with ₹27 Crore Bid: A Historic Moment for Cricket Fans and Bettors",
+        "imageUrl": img57,
+        "totalHeads": 4,
+        "head0" : "A Game-Changer for IPL and Betting Enthusiasts",
+        "head1" : "Why Rishabh Pant's Comeback Matters",
+        "head2" : "IPL’s Impact on Cricket Betting",
+        "excerpt": "Indian Premier League (IPL) auctions have always been a spectacle, but the 2025 edition took excitement to a new level. Rishabh Pant, the dynamic Indian wicketkeeper-batsman, made history by becoming the most expensive player in IPL history. Lucknow Super Giants (LSG) secured Pant’s services for a jaw-dropping ₹27 crore during the auction held in Jeddah. This staggering bid not only eclipsed but also shattered the record of ₹26.75 crore set moments earlier by Shreyas Iyer, who was bought by Punjab Kings. Pant’s return to IPL after a 14-month absence due to injuries sustained in a car accident fueled intense anticipation among fans and franchises alike. The bidding war for Pant was fierce, with his former team, Delhi Capitals, going toe-to-toe with LSG before ultimately withdrawing. His resilience, coupled with his ability to turn games around single-handedly, made him the crown jewel of the auction.",
+        "body0": "For cricket enthusiasts and bettors, this landmark auction is a pivotal moment. The IPL's ever-expanding financial landscape continues to redefine the value of players, making the tournament a thrilling spectacle for fans and a lucrative avenue for bettors. Trusted cricket betting sites in India, like Rocky Book, India's no.1 book, have been buzzing with predictions and odds surrounding the 2025 IPL. As India’s No. 1 betting site, Rocky Book provides bettors with real-time updates, competitive odds, and expert insights to enhance the betting experience. With big names like Pant and Iyer fetching record-breaking sums, the IPL 2025 season is expected to see skyrocketing betting activity.",
+        "body1": "Pant’s journey back to cricket is nothing short of inspirational. After a life-threatening accident, his dedication to recovery and determination to return stronger have made him a role model. LSG’s investment in him underscores their confidence in his ability to lead them to glory. Bettors, too, are keeping a close eye on his performance, as Pant’s presence is likely to influence match outcomes and betting trends significantly.",
+        "body2": "The IPL has revolutionized cricket, blending sports and entertainment. Platforms like Rocky Book, India no 1 betting site have capitalized on this by becoming the go-to destination for trusted cricket betting in India. From pre-match analysis to live betting options, bettors can enjoy a seamless and secure experience.",
+        "conclusion": "As Rishabh Pant gears up to don the LSG jersey, fans and bettors alike are set for an electrifying season. The 2025 IPL promises action, drama, and unforgettable moments – a dream come true for cricket lovers and betting enthusiasts!"
+      },
 
     ]

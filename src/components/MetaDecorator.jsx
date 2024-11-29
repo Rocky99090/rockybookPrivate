@@ -10,11 +10,11 @@ const MetaDecorator = ({ title, description, keywords, pathname }) => (
         <meta name="description" content={description} />
           <meta property="og:title" content={title} />
         <meta property="og:description" content={description} />
-        <meta property="og:image" content='https://therockybook.com/m/static/media/rocky1.c4ed97156855ba1661ba.jpeg' />
-        <meta property="og:url" content={`https://therockybook.com/m/${pathname}`} />
+        <meta property="og:image" content='https://therockybook.com/static/media/rocky1.c4ed97156855ba1661ba.jpeg' />
+        <meta property="og:url" content={`https://therockybook.com/${pathname}`} />
   </Helmet>
 );
-// console.log(`https://therockybook.com/m/${pathname}`)
+// console.log(`https://therockybook.com/${pathname}`)
 MetaDecorator.propTypes = {
   title: PropTypes.string.isRequired,
   description: PropTypes.string.isRequired,

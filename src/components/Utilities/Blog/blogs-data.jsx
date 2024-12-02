@@ -57,6 +57,7 @@ import img54 from '../../../assets/img/blog/new-blog51.jpg'
 import img55 from '../../../assets/img/blog/new-blog52.jpg'
 import img56 from '../../../assets/img/blog/new-blog53.jpg'
 import img57 from '../../../assets/img/blog/new-blog54.jpg'
+import img58 from '../../../assets/img/blog/new-blog55.jpg'
 
 export const Blogs = 
 [
@@ -1359,7 +1360,7 @@ export const Blogs =
         "heading":"Rishabh Pant Sets IPL Auction Record",
         "title": "Rishabh Pant Sets IPL Auction Record with ₹27 Crore Bid: A Historic Moment for Cricket Fans and Bettors",
         "imageUrl": img57,
-        "totalHeads": 4,
+        "totalHeads": 3,
         "head0" : "A Game-Changer for IPL and Betting Enthusiasts",
         "head1" : "Why Rishabh Pant's Comeback Matters",
         "head2" : "IPL’s Impact on Cricket Betting",
@@ -1368,6 +1369,25 @@ export const Blogs =
         "body1": "Pant’s journey back to cricket is nothing short of inspirational. After a life-threatening accident, his dedication to recovery and determination to return stronger have made him a role model. LSG’s investment in him underscores their confidence in his ability to lead them to glory. Bettors, too, are keeping a close eye on his performance, as Pant’s presence is likely to influence match outcomes and betting trends significantly.",
         "body2": "The IPL has revolutionized cricket, blending sports and entertainment. Platforms like Rocky Book, India no 1 betting site have capitalized on this by becoming the go-to destination for trusted cricket betting in India. From pre-match analysis to live betting options, bettors can enjoy a seamless and secure experience.",
         "conclusion": "As Rishabh Pant gears up to don the LSG jersey, fans and bettors alike are set for an electrifying season. The 2025 IPL promises action, drama, and unforgettable moments – a dream come true for cricket lovers and betting enthusiasts!"
+      },
+
+      {   
+        "handle":"Seven-West-Indies-Players-Set-to-Join-CSK-Academy-for-Training-from-December-1",
+        "id":58,
+        "heading":"Seven West Indies Players",
+        "title": "Seven West Indies Players Set to Join CSK Academy for Training from December 1",
+        "imageUrl": img58,
+        "totalHeads": 4,
+        "head0" : "Why the CSK Academy?",
+        "head1" : "Who Are the Players?",
+        "head2" : "How This Affects Cricket Betting",
+        "head3" : "Why Choose RockyBook?",
+        "excerpt": "Cricket fans are in for a treat as seven promising players from the West Indies are set to train at the prestigious Chennai Super Kings (CSK) Academy starting December 1. This collaboration underscores the growing global impact of Indian cricket and highlights the role of top-tier academies like CSK in nurturing talent from around the world. For those passionate about cricket betting, this development also brings exciting opportunities on platforms like RockyBook, the best online cricket ID provider in India.",
+        "body0": "The CSK Academy is renowned for its state-of-the-art facilities and world-class coaching staff. Players who train here gain exposure to cutting-edge techniques, rigorous training regimens, and invaluable insights from some of the biggest names in cricket. The decision by the West Indies Cricket Board to send seven of its players to this academy reflects their commitment to enhancing the skill sets of their rising stars. For cricket enthusiasts, following these players’ progress can add a new layer of excitement to the game. With platforms like RockyBook, you can track their performances and make informed bets. If you’re looking to get started, RockyBook makes it easy to get an online cricket ID in India, ensuring you don’t miss a single moment of the action.",
+        "body1": "While the names of the players have yet to be officially announced, the selection is expected to include a mix of young talents and experienced players. These individuals will benefit from the expertise of the CSK Academy’s seasoned coaching staff, including specialized training in batting, bowling, and fielding. For bettors, this training stint is significant. Monitoring their performance during and after their time at the academy can provide valuable insights. Platforms like RockyBook, the best cricket ID provider in India, allow users to make well-informed predictions based on player performance and current form.",
+        "body2": "The partnership between the West Indies players and CSK Academy adds another layer of intrigue to the cricketing landscape. As these players sharpen their skills, their impact in upcoming leagues and international matches could be substantial. This is where RockyBook comes in, offering a seamless and secure betting experience. As the best online cricket ID provider in India, RockyBook provides users with real-time updates, expert tips, and competitive odds. Whether you’re new to betting or a seasoned player, RockyBook ensures a hassle-free process to get an online cricket ID and start placing bets on your favorite games and players.",
+        "body3": "When it comes to cricket betting, accuracy and reliability are essential, and RockyBook excels in both. As the best cricket ID provider in India, RockyBook offers a seamless experience with quick and easy ID registration, a user-friendly interface, and secure transactions. The platform also provides 24/7 customer support, ensuring you always have assistance when needed. Additionally, RockyBook offers expert tips and detailed match analysis to help enhance your betting experience. With the West Indies players heading to the CSK Academy for training, now is the perfect time to get involved in cricket betting. Keep track of their progress and use the insights provided by RockyBook to make well-informed bets, ensuring you stay ahead of the game.",
+        "conclusion": "The collaboration between the West Indies Cricket Board and CSK Academy marks an exciting chapter in international cricket. For fans and bettors alike, platforms like RockyBook ensure you’re always in the loop. Sign up today, get your online cricket ID in India, and join the thrilling world of cricket betting with the best online cricket ID provider!"
       },
     
 

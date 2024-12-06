@@ -58,6 +58,7 @@ import img55 from '../../../assets/img/blog/new-blog52.jpg'
 import img56 from '../../../assets/img/blog/new-blog53.jpg'
 import img57 from '../../../assets/img/blog/new-blog54.jpg'
 import img58 from '../../../assets/img/blog/new-blog55.jpg'
+import img59 from '../../../assets/img/blog/new-blog56.jpg'
 
 export const Blogs = 
 [
@@ -1388,6 +1389,25 @@ export const Blogs =
         "body2": "The partnership between the West Indies players and CSK Academy adds another layer of intrigue to the cricketing landscape. As these players sharpen their skills, their impact in upcoming leagues and international matches could be substantial. This is where RockyBook comes in, offering a seamless and secure betting experience. As the best online cricket ID provider in India, RockyBook provides users with real-time updates, expert tips, and competitive odds. Whether you’re new to betting or a seasoned player, RockyBook ensures a hassle-free process to get an online cricket ID and start placing bets on your favorite games and players.",
         "body3": "When it comes to cricket betting, accuracy and reliability are essential, and RockyBook excels in both. As the best cricket ID provider in India, RockyBook offers a seamless experience with quick and easy ID registration, a user-friendly interface, and secure transactions. The platform also provides 24/7 customer support, ensuring you always have assistance when needed. Additionally, RockyBook offers expert tips and detailed match analysis to help enhance your betting experience. With the West Indies players heading to the CSK Academy for training, now is the perfect time to get involved in cricket betting. Keep track of their progress and use the insights provided by RockyBook to make well-informed bets, ensuring you stay ahead of the game.",
         "conclusion": "The collaboration between the West Indies Cricket Board and CSK Academy marks an exciting chapter in international cricket. For fans and bettors alike, platforms like RockyBook ensure you’re always in the loop. Sign up today, get your online cricket ID in India, and join the thrilling world of cricket betting with the best online cricket ID provider!"
+      },
+
+      {   
+        "handle":"Crafting-a-Cricketer-Mentorships-Influence-on-Yashasvi-Jaiswal",
+        "id":59,
+        "heading":"Crafting a Cricketer:",
+        "title": "Crafting a Cricketer: Mentorship’s Influence on Yashasvi Jaiswal",
+        "imageUrl": img59,
+        "totalHeads": 4,
+        "head0" : "The Role of Early Mentorship",
+        "head1" : "Mentorship Beyond Technique",
+        "head2" : "A Journey of Perseverance and Growth",
+        "head3" : "The Legacy of Mentorship",
+        "excerpt": "Yashasvi Jaiswal’s journey from the streets of Mumbai to international cricket stardom is not just a testament to his raw talent but also to the unseen force that shaped his career—mentorship. His inspiring story has become a frequent highlight in Rocky Book Informative Blogs and serves as an inspiration for those following Cricket Betting Blogs and Gaming Updates, showcasing the significance of guidance in achieving greatness. Born into a modest family in Mumbai, Yashasvi’s cricketing dreams were ignited at a young age. Despite living in a small tent at the Azad Maidan cricket ground and training tirelessly under harsh conditions, his unyielding passion for cricket propelled him forward. Early mentorship played a pivotal role in transforming his challenges into stepping stones.",
+        "body0": "During his formative years, Jaiswal’s talent was identified by coach Jwala Singh, who became a cornerstone in his life. Singh not only nurtured Jaiswal’s raw talent but also provided the structure and discipline necessary to develop his game. This mentor-student bond emphasized technical refinement, fitness, and mental toughness—qualities critical for professional cricket. This phase of Jaiswal’s career is a key example of the impact of mentorship, as often highlighted in Rocky Book Informative Blogs, where stories of young talent finding their footing through guidance are frequently explored.",
+        "body1": "Jaiswal’s time with the Mumbai Under-19 squad introduced him to the wisdom of senior cricketers, offering him valuable insights into the game. These experiences included advice from seasoned players, which helped him navigate the pressures of elite-level cricket. Such instances resonate with readers of Cricket Betting Blogs and Gaming Updates, who seek a deeper understanding of the journey behind the players they follow. Under the guidance of Rahul Dravid during his stint with India’s Under-19 team, Jaiswal’s game evolved further. Dravid’s holistic approach emphasized discipline, humility, and mental resilience, turning Jaiswal into a well-rounded cricketer ready for the challenges of professional cricket.",
+        "body2": "Yashasvi Jaiswal’s rise to the national team is a story of perseverance, where consistent mentorship played a vital role. His personal struggles, sharp cricketing mind, and the values instilled by his mentors made him the player he is today. Mentorship, in his case, extended beyond technical guidance, fostering the persistence, humility, and emotional intelligence that define his cricketing identity.",
+        "body3": "As Jaiswal continues to shine in the IPL and on the international stage, his story underscores the importance of mentorship in shaping future stars. Such stories enrich platforms like Rocky Book Informative Blogs, bridging the gap between cricket’s passionate fans and the inspiring journeys of its players.",
+        "conclusion": "In conclusion, Jaiswal’s story is not just about raw talent but about how the unseen hands of mentors can guide, shape, and inspire. This narrative aligns seamlessly with the ethos of Cricket Betting Blogs and Gaming Updates, capturing the journey behind every player's rise to success."
       },
     
 

@@ -59,6 +59,7 @@ import img56 from '../../../assets/img/blog/new-blog53.jpg'
 import img57 from '../../../assets/img/blog/new-blog54.jpg'
 import img58 from '../../../assets/img/blog/new-blog55.jpg'
 import img59 from '../../../assets/img/blog/new-blog56.jpg'
+import img60 from '../../../assets/img/blog/new-blog60.jpg'
 
 export const Blogs = 
 [
@@ -1408,6 +1409,27 @@ export const Blogs =
         "body2": "Yashasvi Jaiswal’s rise to the national team is a story of perseverance, where consistent mentorship played a vital role. His personal struggles, sharp cricketing mind, and the values instilled by his mentors made him the player he is today. Mentorship, in his case, extended beyond technical guidance, fostering the persistence, humility, and emotional intelligence that define his cricketing identity.",
         "body3": "As Jaiswal continues to shine in the IPL and on the international stage, his story underscores the importance of mentorship in shaping future stars. Such stories enrich platforms like Rocky Book Informative Blogs, bridging the gap between cricket’s passionate fans and the inspiring journeys of its players.",
         "conclusion": "In conclusion, Jaiswal’s story is not just about raw talent but about how the unseen hands of mentors can guide, shape, and inspire. This narrative aligns seamlessly with the ethos of Cricket Betting Blogs and Gaming Updates, capturing the journey behind every player's rise to success."
+      },
+
+      {   
+        "handle":"Best-Value-for-Money-Buys-in-IPL-2025-Mega-Auction-The-Biggest-Steals",
+        "id":60,
+        "heading":"Best Value-for-Money Buys in IPL 2025 ",
+        "title": "Best Value-for-Money Buys in IPL 2025 Mega Auction: The Biggest Steals",
+        "imageUrl": img60,
+        "totalHeads": 5,
+        "head0" : "Washington Sundar to Gujarat Titans: INR 3.2 crore (US$380k)",
+        "head1" : "Sam Curran to Chennai Super Kings: INR 2.4 crore (US$285k)",
+        "head2" : "Quinton de Kock to Kolkata Knight Riders: INR 3.6 crore (US$427k)",
+        "head3" : "Rahmanullah Gurbaz to Kolkata Knight Riders: INR 2 crore (US$237k)",
+        "head4" : "Glenn Maxwell to Punjab Kings: INR 4.2 crore (US$498k)",
+        "excerpt": "The IPL 2025 Mega Auction brought with it a wave of excitement, surprises, and smart investments. Teams strategized fiercely to build a squad capable of clinching the prestigious title, all while staying within the budget. Let’s look at some of the most value-for-money buys that turned heads and proved why the IPL is the ultimate cricketing extravaganza.",
+        "body0": "One of the most talked-about picks was Washington Sundar going to Gujarat Titans (GT) for just INR 3.2 crore. Known for his ability to control runs with an economy rate of just 7.54 per over in the IPL, Sundar brings immense value as a powerplay and middle-overs bowler. Though his batting stats (378 runs, avg. 13.50, SR 116.30) are not extraordinary, Sundar’s potential as a flexible batter who can step up when needed makes him a strategic asset for GT. Even the team’s assistant coach, Parthiv Patel, acknowledged this fantastic deal, expressing delight at securing Sundar at such a low price. Looking to bet on teams like Gujarat Titans or players like Sundar? Choose the best online cricket ID to make your predictions more exciting and rewarding.",
+        "body1": "The prodigal all-rounder, Sam Curran, returned to Chennai Super Kings (CSK) for an unbelievable INR 2.4 crore. Curran is a proven match-winner with both bat and ball. His recent performance in The Hundred 2024, where he scored 201 runs at a blistering strike rate of 164.75 and took 17 wickets at an economy of 7.40, showcases his all-round prowess. For fans who love watching CSK and betting on their matches, an online cricket ID provider in India like RockyBook is your gateway to an unforgettable IPL experience.",
+        "body2": "Defending champions Kolkata Knight Riders (KKR) grabbed Quinton de Kock at a steal of INR 3.6 crore. Known for his explosive batting, de Kock is expected to shine at Eden Gardens, a venue famous for high scores. His consistency and ability to perform under pressure make him one of the most valuable players in the league.",
+        "body3": "KKR’s shopping spree didn’t stop there. They also secured Rahmanullah Gurbaz for INR 2 crore. While he might serve as a backup for de Kock and Narine, Gurbaz’s stats—931 T20 runs in 2024 at a strike rate of 139.58—make him a dependable option in any match scenario.",
+        "body4": "Punjab Kings took a calculated risk with Glenn Maxwell, despite his forgettable IPL 2024. Known as one of the most explosive T20 players, Maxwell’s potential to change the game single-handedly makes him a valuable pick at just INR 4.2 crore. PBKS will count on his experience to finally break their playoff drought. For fans of Maxwell and PBKS, having access to the best cricket ID provider in India ensures you don’t miss out on betting opportunities in any game.",
+        "conclusion": "The IPL 2025 Mega Auction proved yet again that smart picks can win championships. With these incredible buys, teams are gearing up for a thrilling season. Whether you’re rooting for Gujarat Titans, Chennai Super Kings, or Kolkata Knight Riders, your excitement can reach new heights with the best online cricket ID. Get started with RockyBook, the best cricket ID provider in India, to stay ahead of the game and make your IPL season unforgettable!"
       },
     
 

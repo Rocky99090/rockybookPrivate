@@ -61,6 +61,7 @@ import img58 from '../../../assets/img/blog/new-blog55.jpg'
 import img59 from '../../../assets/img/blog/new-blog56.jpg'
 import img60 from '../../../assets/img/blog/new-blog60.jpg'
 import img61 from '../../../assets/img/blog/new-blog61.jpg'
+import img62 from '../../../assets/img/blog/new-blog62.jpg'
 
 export const Blogs = 
 [
@@ -1450,6 +1451,25 @@ export const Blogs =
         "body2": "These bowling legends not only etched their names in cricket’s history books but also served as inspirations for future generations. Their performances exemplify the rewards of hard work, dedication, and strategic thinking.",
         "body3": "The brilliance of these bowlers makes Test cricket an exciting spectacle for fans and bettors alike. With platforms like RockyBook, enthusiasts can engage with the sport in new and thrilling ways.",
         "conclusion": "As one of the top betting sites in India, RockyBook offers a comprehensive experience for cricket fans. Whether you're exploring fantasy sports sites in India or looking for the top sports websites in India, RockyBook ensures you stay connected to every ball and wicket while enhancing your passion for the game."
+      },
+
+      {   
+        "handle":"Aryaman-Birla-The-Worlds-Richest-Cricketer-Who-Retired-at-22",
+        "id":62,
+        "heading":"Aryaman Birla:",
+        "title": "Aryaman Birla: The World’s Richest Cricketer Who Retired at 22",
+        "imageUrl": img62,
+        "totalHeads": 4,
+        "head0" : "The Legacy of Wealth Meets Cricket",
+        "head1" : "The Sudden Exit",
+        "head2" : "Beyond Cricket",
+        "head3" : "A Name Synonymous with Excellence",
+        "excerpt": "When we think of cricket, we often imagine players with long, illustrious careers spanning decades. Aryaman Birla, however, rewrote the script in his own extraordinary way. Born into one of India’s wealthiest families, Aryaman’s journey in cricket was as unique as his decision to retire at just 22 years of age. While he may no longer feature on the field, his legacy continues to intrigue fans and bettors alike on the top betting sites in India and other platforms.",
+        "body0": "Aryaman Birla is the son of Kumar Mangalam Birla, one of India’s leading industrialists and the chairman of the Aditya Birla Group. Despite his privileged background, Aryaman chose to pursue cricket, a game that unites billions of fans worldwide. His determination to carve out his identity was evident when he played domestic cricket for Madhya Pradesh in the Ranji Trophy. Aryaman’s talent was undeniable, and his skills as an all-rounder quickly gained attention. He scored a match-winning 103 in the 2018–19 Ranji Trophy, which showcased his potential as a serious player. His dedication and discipline even earned him a spot in the Rajasthan Royals team during the Indian Premier League (IPL).",
+        "body1": "While his cricketing future seemed bright, Aryaman shocked the sports world by announcing his retirement at the young age of 22 in 2020. His reason? Mental health struggles. Aryaman’s decision highlighted the immense pressure modern athletes face, especially those who carry the weight of a famous family name. Though his cricketing career was brief, Aryaman remained a prominent figure in the world of sports. His wealth, estimated to be in billions, ensured his status as the world’s richest cricketer.",
+        "body2": "Aryaman’s retirement didn’t mean he disappeared from the spotlight. Fans of cricket and online betting continue to discuss his potential and what could have been on top sports websites in India. His journey also remains a topic of fascination for those browsing India's No. 1 book platforms for insights into sports and betting strategies. Today, Aryaman Birla’s story serves as a reminder that even in the glitzy world of cricket, mental health should never be sidelined. His decision to prioritize his well-being over fame and fortune has inspired many young athletes to view mental health as a cornerstone of success.",
+        "body3": "Whether it’s on the cricket pitch, in business, or on platforms like the top betting sites in India, Aryaman Birla’s name continues to resonate. His story intertwines cricket, privilege, and the pursuit of personal happiness, making it one of the most compelling narratives in Indian sports history.",
+        "conclusion": "As sports enthusiasts explore platforms like top sports websites in India or India’s No. 1 book for cricket insights and betting opportunities, Aryaman’s legacy reminds us that sometimes, stepping back can be the boldest step forward."
       },
     
 

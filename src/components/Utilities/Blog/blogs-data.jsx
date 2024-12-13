@@ -60,6 +60,7 @@ import img57 from '../../../assets/img/blog/new-blog54.jpg'
 import img58 from '../../../assets/img/blog/new-blog55.jpg'
 import img59 from '../../../assets/img/blog/new-blog56.jpg'
 import img60 from '../../../assets/img/blog/new-blog60.jpg'
+import img61 from '../../../assets/img/blog/new-blog61.jpg'
 
 export const Blogs = 
 [
@@ -1430,6 +1431,25 @@ export const Blogs =
         "body3": "KKR’s shopping spree didn’t stop there. They also secured Rahmanullah Gurbaz for INR 2 crore. While he might serve as a backup for de Kock and Narine, Gurbaz’s stats—931 T20 runs in 2024 at a strike rate of 139.58—make him a dependable option in any match scenario.",
         "body4": "Punjab Kings took a calculated risk with Glenn Maxwell, despite his forgettable IPL 2024. Known as one of the most explosive T20 players, Maxwell’s potential to change the game single-handedly makes him a valuable pick at just INR 4.2 crore. PBKS will count on his experience to finally break their playoff drought. For fans of Maxwell and PBKS, having access to the best cricket ID provider in India ensures you don’t miss out on betting opportunities in any game.",
         "conclusion": "The IPL 2025 Mega Auction proved yet again that smart picks can win championships. With these incredible buys, teams are gearing up for a thrilling season. Whether you’re rooting for Gujarat Titans, Chennai Super Kings, or Kolkata Knight Riders, your excitement can reach new heights with the best online cricket ID. Get started with RockyBook, the best cricket ID provider in India, to stay ahead of the game and make your IPL season unforgettable!"
+      },
+
+      {   
+        "handle":"RockyBook-Presents-Top-Test-Cricket-Bowling-Averages-in-History",
+        "id":61,
+        "heading":"RockyBook Presents",
+        "title": "RockyBook Presents: Top Test Cricket Bowling Averages in History",
+        "imageUrl": img61,
+        "totalHeads": 4,
+        "head0" : "The Art of Bowling and Its Significance",
+        "head1" : "The Best in Test Cricket History",
+        "head2" : "Bowling Legends and Their Legacy",
+        "head3" : "Cricket Betting with RockyBook",
+        "excerpt": "Test cricket is the pinnacle of the sport, and mastering it requires immense skill, endurance, and mental toughness. Among the many facets of the game, bowling holds a special place, with elite bowlers turning matches around with their mastery over swing, spin, and pace. Let’s delve into the top bowling averages in Test cricket history (minimum 150 wickets) and celebrate these icons of the game.",
+        "body0": "In cricket, a bowler’s average is a critical metric, representing the runs conceded per wicket taken. The lower the average, the better the bowler. A great bowling average signifies consistency, precision, and the ability to adapt to varying pitch conditions across the globe.",
+        "body1": "George Lohmann (England) – 10.75 George Lohmann’s bowling average of 10.75 remains unmatched. Representing England in the late 19th century, Lohmann’s mastery of line and length made him a nightmare for batsmen. Sydney Barnes (England) – 16.43 Often hailed as one of the greatest bowlers in cricket history, Sydney Barnes combined seam and swing with unmatched skill, maintaining a brilliant average of 16.43. Fred Spofforth (Australia) – 18.41 Known as “The Demon Bowler,” Spofforth was one of the earliest pioneers of pace bowling, leaving an indelible mark on cricket with his incisive performances. Malcolm Marshall (West Indies) – 20.94 Arguably the most feared pacer of the 1980s, Malcolm Marshall’s lethal combination of speed, bounce, and movement earned him a stellar average of 20.94. Joel Garner (West Indies) – 20.97 With his towering height and pinpoint accuracy, Joel Garner consistently terrorized batsmen, delivering match-winning performances for the West Indies.",
+        "body2": "These bowling legends not only etched their names in cricket’s history books but also served as inspirations for future generations. Their performances exemplify the rewards of hard work, dedication, and strategic thinking.",
+        "body3": "The brilliance of these bowlers makes Test cricket an exciting spectacle for fans and bettors alike. With platforms like RockyBook, enthusiasts can engage with the sport in new and thrilling ways.",
+        "conclusion": "As one of the top betting sites in India, RockyBook offers a comprehensive experience for cricket fans. Whether you're exploring fantasy sports sites in India or looking for the top sports websites in India, RockyBook ensures you stay connected to every ball and wicket while enhancing your passion for the game."
       },
     
 

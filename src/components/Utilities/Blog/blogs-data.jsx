@@ -1542,7 +1542,7 @@ export const Blogs =
         "id":66,
         "heading":"India’s Leading Cricket ID Provider",
         "title": "Step Up Your Game with India’s Leading Cricket ID Provider",
-        "imageUrl": img65,
+        "imageUrl": img66,
         "totalHeads": 3,
         "head0" : "A Seamless Platform for Cricket Enthusiasts",
         "head1" : "Transparency and Innovation at Its Core",

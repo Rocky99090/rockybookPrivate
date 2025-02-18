@@ -67,6 +67,8 @@ import img64 from '../../../assets/img/blog/new-blog64.jpg'
 import img65 from '../../../assets/img/blog/new-blog65.jpg'
 import img66 from '../../../assets/img/blog/new-blog66.jpg'
 import img67 from '../../../assets/img/blog/new-blog67.jpg'
+import img68 from '../../../assets/img/blog/new-blog68.jpg'
+import img69 from '../../../assets/img/blog/new-blog69.jpg'
 
 export const Blogs = 
 [
@@ -1580,5 +1582,47 @@ export const Blogs =
         "conclusion": "As this tournament unfolds, the thrill of betting and the attachment to action will continue until no fan is left behind in the excitement of watching."
       },
     
+      {   
+        "handle":"Strike-Big-The-Ultimate-Guide-to-Winning-Cricket-Bets",
+        "id":68,
+        "heading":"Strike Big: The Ultimate Guide",
+        "title": "Strike Big: The Ultimate Guide to Winning Cricket Bets",
+        "imageUrl": img68,
+        "totalHeads": 5,
+        "head0" : "Understanding Cricket Bets: The Basics",
+        "head1" : "Research is the Key to Winning",
+        "head2" : "Top Strategies to Strike Big",
+        "head3" : "The Role of Cricket Blog Tips in Smart Betting",
+        "head4" : "Why Rocky Book Blogs is Your Go-To Resource",
+        "excerpt": "Imagine watching your favorite cricket team hit a six. The excitement has almost doubled because the strategic bet went well with the outcome. Cricket betting is not chance alone; it's an art fusing passion and strategy with knowledge. Rocky Book Blogs offers important Cricket Blog Tips and updates to help you master the game. Now, with the help of Cricket Blog Updates and keeping yourself updated with expert advice, you are better placed today to make wiser, calculative decisions. Use all the pleasurable experiences associated with cricket in finding an opening for potentially higher gain through proper strategy and good understanding of the game.",
+        "body0": "Knowing the fundamentals of cricket betting before moving into more complex tactics is essential. It's possible to have various markets from match outcome and player performance, to total runs and wickets. Sites such as Cricket Blog Tips enlighten how all these markets operate so beginners will get started the right way. With the right understanding, every bet you place becomes an informed decision.",
+        "body1": "Luck alone can't win cricket betting. It takes research. Resources abound on sites like Rocky Book Blogs to provide you with the player's stats, team form, and even the weather that may affect the game. Being up to date with Cricket Blog Updates keeps you abreast of important happenings. Remember, the more information you have, the more you will be closer to a huge win.",
+        "body2": "Bankroll management is one of the most important aspects of successful cricket betting. It ensures that you never bet more than you can afford to lose, thus protecting your finances while enjoying the thrill of the game. One of the prominent strategies is seeking advice from an experienced bettor. Detailed websites on Cricket Blog Tips are precious in providing the best predictions based on a player's performance and the synergies within the team. Another game-changer is concentrating on key players. Monitoring on-form players and possible impact on any given match will only allow you to be a better-placed punter, whereas Cricket Blog Updates keeps updating real-time analyses and predictions during the match. Then comes responsible betting, which is critical to a pleasing long-term stay at the sport. While winning is thrilling, betting within limits and level-headed will ensure you enjoy the game without unnecessary risks.",
+        "body3": "Cricket Blog Tips is a gold mine of information for the bettors. Starting from predicting underdog wins to finding the next big star, blogs help you find some gems in the betting market. The platforms for bookmarking like Rocky Book Blogs keep you a step ahead by giving you access to the experts' view of the upcoming matches and tournaments.",
+        "body4": "Rocky Book Blogs stands out as the haven for cricket betting enthusiasts. Whether a seasoned bettor or a newcomer, their comprehensive Cricket Blog Tips and constant Cricket Blog Updates are here to hone your strategies and raise your chances of winning.",
+        "conclusion": "Cricket betting is a journey of passion, strategy, and knowledge. Master the art of cricket betting with the help of the Rocky Book Blogs and regular Cricket Blog Updates. The next time you place a bet, remember the tips, strategies, and expert advice shared here. Your ultimate tools are to bet responsibly and stay informed to strike big."
+      },
+
+      {   
+        "handle":"Gangulys-Golden-Pick-Indias-Best-Opener-After-Sunil-Gavaskar",
+        "id":69,
+        "heading":"Ganguly's Golden Pick:",
+        "title": "Ganguly's Golden Pick: India’s Best Opener After Sunil Gavaskar",
+        "imageUrl": img69,
+        "totalHeads": 6,
+        "head0" : "Sehwag’s Fearless Approach to Opening",
+        "head1" : "Sehwag’s Legacy in Indian Cricket",
+        "head2" : "The Growing Trend of Online Cricket",
+        "head3" : "Rocky Book: The Best Platform for Online Cricket Betting",
+        "head4" : "Embrace the Thrill of Cricket with Rocky Book",
+        "head5" : "Conclusion: Sehwag’s Legacy and the Online Cricket Revolution",
+        "excerpt": "In the Indian cricketing fraternity, few topics have been debated as hotly as the question of who the best Indian opener is. The former captain recently stirred this pot when he called Virender Sehwag the greatest Indian opener after Sunil Gavaskar. Names like Rohit Sharma and Sachin Tendulkar often pop up, but the choice of Ganguly has made waves in the cricketing fraternity. What makes Sehwag stand out, and how does this connect to the world of online cricket? If you’re looking to get online cricket ID in India, or searching for the best online cricket betting ID provider, now is the perfect time to engage with cricket like never before.",
+        "body0": "Sunil Gavaskar, the pioneer in Indian openers, set standards with his very methodical style of batting that was consistent as well. It was Sehwag who changed the energy factor at the crease with a fearless and aggressive batting style from the word go. Sehwag was somebody who attacked the opponent from ball one. And it was with this revolutionary batting approach that Sehwag gained recognition from the former Indian captain Sourav Ganguly as being the best after Gavaskar. His record speaks for itself, with two triple centuries in Tests and a double century in ODIs.",
+        "body1": "Sehwag's career was simply extraordinary. His aggressive batting style kept bowlers on edge; he could take on any opposition, and what a performer he became. He was an integral member of the team that won the T20 World Cup for India in 2007 and 2011 Cricket World Cup team. The fearless approach of Sehwag helped India stand out against many teams, making him a legend in cricketing history. With over 16,000 runs in international cricket, Sehwag would be a key figure in the rich history of Indian cricket. He was one of the most important opening-order figures who started the team from here.",
+        "body2": "The world of cricket enthusiasts is now becoming increasingly digital to experience the thrill of the game. Whether one wants to acquire an online cricket ID in India or is in search of the best online cricket betting ID provider, the cyber world has created a new enthusiasm for the sport. With cricket ID online, the action comes straight to you on platforms that give you live betting, exclusive content, and loads of bonuses, making the experience that much more exciting.",
+        "body3": "For those looking for online cricket betting, Rocky Book has to be one stop that offers customers the best online cricket betting ID provider experience. Given its reliability and simplicity, the book provides a flawless sign-up process and withdrawals for an always smooth entertainment experience in online cricket betting. Whether you’re placing bets on an IPL match or international cricket, Rocky Book offers competitive odds and a user-friendly interface.",
+        "body4": "Just like Sehwag's aggressive style of batting, Rocky Book provides fans the opportunity to be in the midst of action. Cricket ID online lets you place bets, track live matches, and follow all the action in cricket. The website is developed to provide an uninterrupted experience for people who wish to spice up their cricket journey.",
+        "body5": "The selection of Virender Sehwag as India's best opener after Sunil Gavaskar by Sourav Ganguly speaks about the change of face of Indian cricket. Sehwag's aggressive batting helped the country face new challenges. Likewise, online cricket platforms such as Rocky Book have also been given to the fans to view cricket freshly. Whether it is placing a bet with a Cricket ID online or just watching the game, cricket is changing the global scene. The future of online cricket betting looks great and promises to be much more exciting from here.",
+      },
 
     ]

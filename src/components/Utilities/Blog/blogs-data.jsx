@@ -72,6 +72,7 @@ import img69 from '../../../assets/img/blog/new-blog69.jpg'
 import img70 from '../../../assets/img/blog/new-blog70.jpg'
 import img71 from '../../../assets/img/blog/new-blog71.jpg'
 import img72 from '../../../assets/img/blog/new-blog72.jpg'
+import img73 from '../../../assets/img/blog/new-blog73.jpg'
 
 export const Blogs = 
 [
@@ -1690,6 +1691,28 @@ export const Blogs =
         "body3": "In search of a one-stop shop that caters to both sports betting and fantasy sports, your journey begins at RockyBook. Catering to the needs of bettors, not only does it offer the gamut of what an enthusiast looks for in their betting needs, but it also offers the thrills of fantasy sports leagues in which strategy rules the day, determining victory. Innovation is the core design of RockyBook, as every bet made is supported with transparency, fairness, and state-of-the-art technology. Their mobile application and website take the action directly to your fingertips, where you can bet and manage fantasy teams at any given time, any place. If you're keeping track of the live odds or analyzing player statistics, RockyBook makes sure that you are one step ahead.",
         "body4": "When searching through fantasy sports sites in India, it is best to look for a site that gives equal priority to the fun of the game and the security of its users. RockyBook stands out in this regard, offering a plethora of fantasy sports options and betting on sports in one place. It gives high importance to responsible gaming and being transparent in showing things so the experience stays pretty much balanced as fun for the newbie as well as the pro. RockyBook, owing to its exclusive customer support system and a protected platform, happens to be India's most in-demand destination for fans interested in Indian fantasy sports betting.",
         "body5": "As the boom of online betting and fantasy sports in India picks up more momentum, the leaders at the fore continue to be those who come with the most modern technology, innovation, and commitment to integrity. Whether it is the top sports betting site in India or the new fantasy sports site in India, RockyBook is your one-stop shop for an exciting, safe, and responsible betting experience. Join the winning team today and take your sports passion to the next level with RockyBook—integrity meets excitement, and your next big win is just a bet away.",
+      },
+
+      {   
+        "handle":"Strike-Big-The-Ultimate-Guide-to-Winning-Cricket-Bets",
+        "id":73,
+        "heading":"Strike Big:",
+        "title": "Strike Big: The Ultimate Guide to Winning Cricket Bets",
+        "imageUrl": img73,
+        "totalHeads": 6,
+        "head0" : "Understanding Cricket Bets: The Basics",
+        "head1" : "Research is the Key to Winning",
+        "head2" : "Top Strategies to Strike Big",
+        "head3" : "The Role of Cricket Blog Tips in Smart Betting",
+        "head4" : "Why Rocky Book Blogs is Your Go-To Resource",
+        "head5" : "The Conclusion: Master the Game",
+        "excerpt": "Imagine watching your favorite cricket team hit a six. The excitement has almost doubled because the strategic bet went well with the outcome. Cricket betting is not chance alone; it's an art fusing passion and strategy with knowledge. Rocky Book Blogs offers important Cricket Blog Tips and updates to help you master the game. Now, with the help of Cricket Blog Updates and keeping yourself updated with expert advice, you are better placed today to make wiser, calculative decisions. Use all the pleasurable experiences associated with cricket in finding an opening for potentially higher gain through proper strategy and good understanding of the game.",
+        "body0": "Knowing the fundamentals of cricket betting before moving into more complex tactics is essential. It's possible to have various markets from match outcome and player performance, to total runs and wickets. Sites such as Cricket Blog Tips enlighten how all these markets operate so beginners will get started the right way. With the right understanding, every bet you place becomes an informed decision.",
+        "body1": "Luck alone can't win cricket betting. It takes research. Resources abound on sites like Rocky Book Blogs to provide you with the player's stats, team form, and even the weather that may affect the game. Being up to date with Cricket Blog Updates keeps you abreast of important happenings. Remember, the more information you have, the more you will be closer to a huge win.",
+        "body2": "Bankroll management is one of the most important aspects of successful cricket betting. It ensures that you never bet more than you can afford to lose, thus protecting your finances while enjoying the thrill of the game. One of the prominent strategies is seeking advice from an experienced bettor. Detailed websites on Cricket Blog Tips are precious in providing the best predictions based on a player's performance and the synergies within the team. Another game-changer is concentrating on key players. Monitoring on-form players and possible impact on any given match will only allow you to be a better-placed punter, whereas Cricket Blog Updates keeps updating real-time analyses and predictions during the match. Then comes responsible betting, which is critical to a pleasing long-term stay at the sport. While winning is thrilling, betting within limits and level-headed will ensure you enjoy the game without unnecessary risks.",
+        "body3": "Cricket Blog Tips is a gold mine of information for the bettors. Starting from predicting underdog wins to finding the next big star, blogs help you find some gems in the betting market. The platforms for bookmarking like Rocky Book Blogs keep you a step ahead by giving you access to the experts' view of the upcoming matches and tournaments.",
+        "body4": "Rocky Book Blogs stands out as the haven for cricket betting enthusiasts. Whether a seasoned bettor or a newcomer, their comprehensive Cricket Blog Tips and constant Cricket Blog Updates are here to hone your strategies and raise your chances of winning.",
+        "body5": "Cricket betting is a journey of passion, strategy, and knowledge. Master the art of cricket betting with the help of the Rocky Book Blogs and regular Cricket Blog Updates. The next time you place a bet, remember the tips, strategies, and expert advice shared here. Your ultimate tools are to bet responsibly and stay informed to strike big.",
       },
 
 

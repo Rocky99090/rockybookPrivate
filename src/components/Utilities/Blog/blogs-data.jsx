@@ -1696,7 +1696,7 @@ export const Blogs =
       {   
         "handle":"Strike-Big-The-Ultimate-Guide-to-Winning-Cricket-Bets",
         "id":73,
-        "heading":"Strike Big:",
+        "heading":"The Ultimate Guide to Winning",
         "title": "Strike Big: The Ultimate Guide to Winning Cricket Bets",
         "imageUrl": img73,
         "totalHeads": 6,

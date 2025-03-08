@@ -73,11 +73,7 @@ import img70 from '../../../assets/img/blog/new-blog70.jpg'
 import img71 from '../../../assets/img/blog/new-blog71.jpg'
 import img72 from '../../../assets/img/blog/new-blog72.jpg'
 import img73 from '../../../assets/img/blog/new-blog73.jpg'
-<<<<<<< HEAD
 import img74 from '../../../assets/img/blog/new-blog74.jpg'
-=======
-import img73 from '../../../assets/img/blog/new-blog74.jpg'
->>>>>>> e9dfc192da4bcd6326c901d07032ee77cd5331ef
 
 export const Blogs = 
 [

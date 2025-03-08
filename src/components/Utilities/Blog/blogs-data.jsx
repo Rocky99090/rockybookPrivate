@@ -73,6 +73,7 @@ import img70 from '../../../assets/img/blog/new-blog70.jpg'
 import img71 from '../../../assets/img/blog/new-blog71.jpg'
 import img72 from '../../../assets/img/blog/new-blog72.jpg'
 import img73 from '../../../assets/img/blog/new-blog73.jpg'
+import img74 from '../../../assets/img/blog/new-blog74.jpg'
 
 export const Blogs = 
 [
@@ -1715,5 +1716,27 @@ export const Blogs =
         "body5": "Cricket betting is a journey of passion, strategy, and knowledge. Master the art of cricket betting with the help of the Rocky Book Blogs and regular Cricket Blog Updates. The next time you place a bet, remember the tips, strategies, and expert advice shared here. Your ultimate tools are to bet responsibly and stay informed to strike big.",
       },
 
+
+      {   
+        "handle":"ICC-Champions-Trophy-2025-Final-The-Ultimate-Cricket-War",
+        "id":74,
+        "heading":"ICC Champions Trophy 2025",
+        "title": "ICC Champions Trophy 2025 Final – The Ultimate Cricket War",
+        "imageUrl": img74,
+        "totalHeads": 6,
+        "head0" : "Road to the ICC Champions Trophy 2025 Final",
+        "head1" : "India vs New Zealand – A Rivalry Rekindled",
+        "head2" : "Key Players Who Can Define the Match",
+        "head3" : "Dubai International Cricket Stadium – The Perfect Champions Trophy 2025 Venue",
+        "head4" : "Get Online Cricket ID India – Rockybook Brings You the Best",
+        "head5" : "Conclusion – A Final to Remember",
+        "excerpt": "The excitement is palpable as India and New Zealand gear up for the tightly contested ICC Champions Trophy 2025 final on March 9 at the Dubai International Cricket Stadium. Both teams have displayed excellence, grit, and dominance in the tournament till date, and this final has been one of the most eagerly awaited matches in recent cricket history. The Champions Trophy 2025 venue will witness a fierce battle where each ball, each run, and each wicket will be crucial. With experience along with young talent on both sides, the audience can expect an unforgettable experience.",
+        "body0": "India and New Zealand have shown their class in this tournament, having overcome tough teams to make it to the final. India, captained by the great Virat Kohli, have been unstoppable all through their campaign. From a dominating group-stage performance to a thrilling semifinal victory over Australia, India have played attacking cricket. Under Rohit Sharma's leadership at the front and Jasprit Bumrah tearing through batting lineups, India has presented itself as a balanced outfit. New Zealand, however, has once again demonstrated why they are regarded as one of the most perennial teams in ICC tournaments. Their journey has been built on meticulous game planning, well-disciplined bowling, and clinical exhibition of batting. During the semifinal against South Africa, New Zealand demonstrated fantastic calmness in securing the semifinal by a margin of 50 runs. Kane Williamson's leadership, solidity at the crease by Devon Conway, and Trent Boult's lethal bowling have been decisive factors in attaining this success.",
+        "body1": "India and New Zealand have a long history of heated clashes in ICC tournaments. New Zealand has traditionally been the better side in important knockout games, winning the 2000 Champions Trophy final and the 2021 ICC World Test Championship. New Zealand did not have their way this time, though, as India pulled off the surprise by beating the Black Caps by 44 runs during the group stage of the tournament. The final provides a golden chance for India to re-write history and set themselves up as the supreme force in global cricket. New Zealand, on their part, will be keen to continue their superiority in ICC finals and win their first ICC Champions Trophy 2025 title. Both teams, having a point to prove, are all set to face a battle of nerves, skill, and determination.",
+        "body2": "The performances from the crucial players will determine the outcome of the final match and how it will turn out. India’s batting order has proven difference makers such as Virat Kohli and Rohit Sharma, who have been able to perform during high pressure situations. While Rohit has developed a good habit of scoring centuries during ICC events, Kohli has his own way of chasing targets while under pressure. These two have all worked India’s batting to perfection. In further support, Jasprit Bumrah’s skill and experience with death bowling is second to none.For New Zealand, Kane Williamson's expectable toughness in the middle order will encompass the challenge posed by India's bowlers. At the same time, Devon Conway's hard hitting at the outset and Trent Boult's timely in-swinging will pose a serious challenge to India. With both sides brimming with match-winners, it is already quite clear that the spectators are set for a final ebbing and flowing until the very last ball with no head or tail in sight.",
+        "body3": "The venue for the Champions Trophy 2025, Dubai International Cricket Stadium, is famous for its even conditions, and thus it is well-suited for batsmen and bowlers alike. The pitch historically provides some support to pacers in the initial stages, and spinners take over during the middle overs.Since the climate in Dubai is hot and humid, players' fitness levels and endurance will be put to test during the match. The teams that can adjust quickly to such an environment and execute their strategies accordingly will be at a significant benefit during this pressure-filled final phase.",
+        "body4": "For cricket fans who want to take their match-day thrill to the next level, get online cricket ID India through Rockybook. Being the best online cricket betting id provider, Rockybook makes betting smooth and secure. With expert analysis, real-time match updates, and unmatchable betting odds, Rocky Book is the ultimate destination for cricket fans. Catch the ICC Champions Trophy 2025 final or any future cricket match with Rockybook leading the way.",
+        "body5": "The ICC Champions Trophy 2025 India-New Zealand is a match beyond matches; it is a war for cricket domination. India would seek to reassert their dominance and assert ICC victory once again, while New Zealand would seek their first Champions Trophy victory. With both sides on top of their game, it would be a clash of big-hitting and rapid-fire action. Fans across the world are waiting impatiently for a record-breaking affair that guarantees some hair-raising moments, breath-taking cricket, and a befitting culmination of an edge-of-the-seat tournament. The countdown to the last cricket conflict has started!",
+      },
 
     ]

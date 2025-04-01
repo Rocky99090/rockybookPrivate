@@ -76,6 +76,7 @@ import img73 from '../../../assets/img/blog/new-blog73.jpg'
 import img74 from '../../../assets/img/blog/new-blog74.jpg'
 import img75 from '../../../assets/img/blog/new-blog75.jpg'
 import img76 from '../../../assets/img/blog/new-blog76.jpg'
+import img77 from '../../../assets/img/blog/new-blog77.jpg'
 
 export const Blogs = 
 [
@@ -1781,6 +1782,24 @@ export const Blogs =
         "body2": "The combination of fantasy sports sites in India and the Top Sports Betting Sites in India has completely transformed this platform for users. These are a mix of seamless environments that allow new entrants the chance to be comfortable around the navigation, along with other more experienced users. Security remains paramount: it's safe for transactions and safe for data. The users can enjoy their experience in peace. With live updates on real-time stats, players can make informed decisions to enhance their gameplay. To add to the excitement, there are excellent promotions, fantastic welcome bonuses, and great loyalty rewards through the platforms. Every wager and fantasy contest matters. A capable customer support section also functions around the clock, sort of taking care of it all. With so many features to offer, these platforms are not mere add-ons but rather essential companions alongside every sports enthusiast.",
         "body3": "The Indian sports betting industry and fantasy sports sites are undergoing rapid changes. With legal frameworks becoming clearer and the platforms innovating in various ways, such as AI, blockchain, and live gaming experiences, the future appears very bright. With millions of users already, the industry is all set to evolve into one of the most lucrative segments of the digital economy in India. For fans of sports who are really passionate about it, this is the ultimate fusion of recreation and prospect. Be it to strategize fantasy leagues or bet on live matches, the world of these games is tremendous, waiting for you.",
         "body4": "Now could be the time that you should experience the rush of fantasy sports sites in India or place a bet at the top betting sites in India. Rocky Book, innovative platforms offering the best odds, safe gaming, and stunning contests, things heat up even more. Don't merely watch; get into the action!",
+      },
+
+      {   
+        "handle":"SRHs-IPL-2025-Performance-Insights-Match-Schedule-Ticket-Booking-Guide",
+        "id":77,
+        "heading":"SRH’s IPL 2025:  ",
+        "title": "SRH’s IPL 2025: Performance Insights, Match Schedule, & Ticket Booking Guide",
+        "imageUrl": img77,
+        "totalHeads": 4,
+        "head0" : "SRH Performance Overview",
+        "head1" : "SRH Matches lists in IPL 2025",
+        "head2" : "How to book IPL tickets online?",
+        "head3" : "Get next-level profits with the best cricket ID provider in India",
+        "excerpt": "The IPL 2025 is the best time for cricket fans and bettors to be alive, as all the teams, especially SRH, are in their best form. When it comes to placing bets, mere guesswork doesn’t work. You need to have proper information regarding a team’s past performance, their scheduled matches. These will help you determine which performance is betting. To help you through, Rockybook presents a comprehensive overview of SRH performance till yet, who it will compete with in coming matches, and how SRH fans can book ipl hyd tickets Let’s understand each aspect one by one",
+        "body0": "The best strategy to analyze the winning probability of any team is by reviewing their past performance. It is important to review performance in preview SRH IPL matches and create betting strategies accordingly. In IPL 2013, the team debuted for the SRH team. Although they were not able to make it to the finale, their performance was appreciated. The preceding year was not their best performance, but they recovered in 2016 by winning the trophy by winning from RCB by 5 runs.  The team wasn’t able to keep up with this win for long, and their performance dropped to large numbers in 2018. Not to mention, David Warner was banned as he was involved in ball tampering. However, in 2019 had a record-breaking comeback by becoming the top scorer of the entire series. The SRH team wasn’t able to secure any high-ranking position in the next 3 years.  Talking about 2024, the SRH has secured the position of runner-up, with the team becoming highest highest-scoring team in the entire series.  So, this was a brief overview of SRH performance. From this it's quite clear that SRH is not a quitter and gives their best hits no matter how many hurdles come along their way. As of 2025, SRH, the team, has secured two wins out of 3 matches by winning against the Rajasthan Royals and DC on 23rd March and 30th March. Let's look at the next matches to understand what chances SRH has to win against which teams.",
+        "body1": "If you are booking IPL HYD tickets, have a look at the IPL ticket booking dates for the upcoming matches. The next upcoming match will be held on 30th March with Delhi Capital, 3rd April with Kolkata Knight Riders, and on 6th with Gujarat Titans. After that, we will see SRH in upcoming matches with Punjab Kings, Mumbai Indians, and Chennai Super Kings on the 12th, 17th, and 25th of April. In the month of May, it will compete Gujarat Titans, Delhi Capitals, Kolkata Knight Riders, Lucknow SuperGiants, and Royal Challengers Bengaluru.",
+        "body2": "You can book Sunrisers Hyderabad IPL tickets online for the Hyderabad stadiums or for other upcoming matches through book my show or through district. All you need to do is visit the official websites and search for your desired matches. Nextly, select the seats and then move to the payment process. Once it's done, you can make a payment and receive a notification on your sms or notification.",
+        "body3": "It is just the beginning of many matches that SRH will play and win. If you are a true fan, prove it by letting your cricket knowledge place winning bets at Rockybook, the Top Betting Sites in India. Here, you will enjoy instant deposits and withdrawals, 24/7 customer support, and a user-friendly interface that makes your experience a reliable one.",
       },
 
     ]

@@ -23,7 +23,7 @@ const Error404 = () => {
                                     <h3>{'Oops... Page Not Found!'}</h3>
                                 </div>
                                 <div className="error-body">
-                                    <p>{'Try using the button below to go to main page of the site'}</p>
+                                    <p>{'Try using button below to go to main page of the site'}</p>
                                     <Link to={'/'} className="btn btn-primary solid blank">
                                         <i className="fa fa-arrow-circle-left">&nbsp;</i>
                                         {'Go to Home'}

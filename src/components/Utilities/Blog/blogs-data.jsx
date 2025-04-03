@@ -77,6 +77,7 @@ import img74 from '../../../assets/img/blog/new-blog74.jpg'
 import img75 from '../../../assets/img/blog/new-blog75.jpg'
 import img76 from '../../../assets/img/blog/new-blog76.jpg'
 import img77 from '../../../assets/img/blog/new-blog77.jpg'
+import img78 from '../../../assets/img/blog/new-blog78.jpg'
 
 export const Blogs = 
 [
@@ -1801,5 +1802,27 @@ export const Blogs =
         "body2": "You can book Sunrisers Hyderabad IPL tickets online for the Hyderabad stadiums or for other upcoming matches through book my show or through district. All you need to do is visit the official websites and search for your desired matches. Nextly, select the seats and then move to the payment process. Once it's done, you can make a payment and receive a notification on your sms or notification.",
         "body3": "It is just the beginning of many matches that SRH will play and win. If you are a true fan, prove it by letting your cricket knowledge place winning bets at Rockybook, the Top Betting Sites in India. Here, you will enjoy instant deposits and withdrawals, 24/7 customer support, and a user-friendly interface that makes your experience a reliable one.",
       },
+
+
+      {   
+        "handle":"MI-Tickets-2025:-How-to-Book-Mumbai-Indians-Matches-at-Wankhede-Stadium",
+        "id":78,
+        "heading":"MI Tickets 2025:  ",
+        "title": "MI Tickets 2025: How to Book Mumbai Indians Matches at Wankhede Stadium",
+        "imageUrl": img78,
+        "totalHeads": 5,
+        "head0" : "How to Book MI Tickets 2025 Online?",
+        "head1" : "Mumbai Indians Home Matches at Wankhede – Full Schedule",
+        "head2" : "MI Ticket Prices at Wankhede Stadium",
+        "head3" : "Rockybook: Your Gateway to IPL Excitement",
+        "head4" : "Conclusion: Book Early and Enjoy the IPL Action",
+        "excerpt": "The 2025 Indian Premier League (IPL) is coming soon, and fans can't wait to see other teams on the field. The Mumbai Indians (MI), one of the most successful franchises in IPL history, will start their campaign against their old foes, Chennai Super Kings (CSK), on March 23 at Chepauk. But the excitement will hit an all-time high when Hardik Pandya and his team play their first home match at Wankhede Stadium on March 31 against the Kolkata Knight Riders (KKR). If you're keen to watch MI live from the stands, you ought to purchase your IPL 2025 tickets in advance. As with any popular event, demand is keen and seats are limited. If you are especially interested in one of the feature matchups of MI and CSK or perhaps MI and RCB, it would be in your best interest to make a reservation early.",
+        "bodyo": "Booking tickets for Mumbai Indians home matches is an effortless task, courtesy of online platforms. The tickets for all MI matches at Wankhede Stadium will be found only on BookMyShow. Here's how you can book them: Open the website or app BookMyShow on your device. Enter Mumbai-IPL 2025 in the search bar to look for MI home matches. Select the match that you wish to track, i.e., MI vs KKR on 31st March. Click on 'Book Now' and choose the number of tickets. Prices of tickets are different, so choose accordingly depending on your budget. Book now, pay, and confirm booking. Once you have booked, you will get an e-ticket or a QR code for access.",
+        "body1": "Mark your calendars because the Mumbai Indians are ready to set Wankhede Stadium ablaze with an electrifying series of home games for IPL 2025. The excitement begins with MI vs KKR on March 31, followed by a showdown against RCB on April 7. The team will next play SRH on April 17 and their arch-nemesis, CSK, on April 20, in what will be a high-tension encounter. The thrill goes on with MI fighting LSG on April 27, GT on May 6, and finally, finishing their home matches against DC on May 15. With an electrifying schedule like this, MI fans are in for a treat this season of cricket!",
+        "body2": "Mumbai Indians home match ticket costs at Wankhede Stadium vary based on the seating category available—something for everyone. The general stands cost from ₹999 to ₹5,000 and continue to be the choice of the majority of the fans. For the premium end experience, Club House seats cost from ₹6,000 to ₹10,000, and Premium Stands with the best view and amenities cost from ₹15,000 to ₹21,000. With the high demand for IPL tickets, it is logical to book in advance, especially for high-value games like MI vs CSK or MI vs RCB, which are expected to draw large crowds.",
+        "body3": "If you want to make your IPL 2025 experience more than just spectating, Rockybook is the way to go. Being one of the top betting sites in India, Rockybook allows you to turn up the excitement with real-money betting on all IPL matches. Whether it's match prediction or in-play wagering, you can place your bets on a game like MI vs CSK or MI vs KKR without any hassle.Being India's No. 1 book, Rockybook presents competitive odds, hassle-free betting, and diverse sports offerings. From the team performance in the match to player scores, Rockybook makes the IPL season even more thrilling.",
+        "body4": "With IPL 2025 on the horizon, ticket demand is going through the roof. If you're a Mumbai Indians supporter, be sure to get your seats booked for the Wankhede Stadium games well in advance to not miss out. Whether you're watching the game live or contributing to the excitement by wagering on Rockybook, this season of IPL is going to be one for the books. Prepare to cheer for MI and witness the IPL magic—live and happening!",
+      },
+
 
     ]

@@ -78,6 +78,7 @@ import img75 from '../../../assets/img/blog/new-blog75.jpg'
 import img76 from '../../../assets/img/blog/new-blog76.jpg'
 import img77 from '../../../assets/img/blog/new-blog77.jpg'
 import img78 from '../../../assets/img/blog/new-blog78.jpg'
+import img79 from '../../../assets/img/blog/new-blog79.jpg'
 
 export const Blogs = 
 [
@@ -1822,6 +1823,35 @@ export const Blogs =
         "body2": "Mumbai Indians home match ticket costs at Wankhede Stadium vary based on the seating category available—something for everyone. The general stands cost from ₹999 to ₹5,000 and continue to be the choice of the majority of the fans. For the premium end experience, Club House seats cost from ₹6,000 to ₹10,000, and Premium Stands with the best view and amenities cost from ₹15,000 to ₹21,000. With the high demand for IPL tickets, it is logical to book in advance, especially for high-value games like MI vs CSK or MI vs RCB, which are expected to draw large crowds.",
         "body3": "If you want to make your IPL 2025 experience more than just spectating, Rockybook is the way to go. Being one of the top betting sites in India, Rockybook allows you to turn up the excitement with real-money betting on all IPL matches. Whether it's match prediction or in-play wagering, you can place your bets on a game like MI vs CSK or MI vs KKR without any hassle.Being India's No. 1 book, Rockybook presents competitive odds, hassle-free betting, and diverse sports offerings. From the team performance in the match to player scores, Rockybook makes the IPL season even more thrilling.",
         "body4": "With IPL 2025 on the horizon, ticket demand is going through the roof. If you're a Mumbai Indians supporter, be sure to get your seats booked for the Wankhede Stadium games well in advance to not miss out. Whether you're watching the game live or contributing to the excitement by wagering on Rockybook, this season of IPL is going to be one for the books. Prepare to cheer for MI and witness the IPL magic—live and happening!",
+      },
+
+
+      {   
+        "handle":"IPL-2025-Match-51,-GT-vs-SRH-Match-Prediction—Who-Will-Win-the-IPL-Match?",
+        "id":79,
+        "heading":"IPL 2025: Match 51:",
+        "title": "IPL 2025: Match 51, GT vs. SRH Match Prediction—Who Will Win the IPL Match?",
+        "imageUrl": img79,
+        "totalHeads": 9,
+        "head0" : "GT vs SRH Match Details:",
+        "head1" : "GT vs SRH: About Important Team Members",
+        "head2" : "Gujarat Titans (GT):",
+        "head3" : " GT VS SRH Head-to-Head Record",
+        "head4" : "Pitch and Weather Report",
+        "head5" : "GT vs. SRH Match Prediction—Who Will Win?",
+        "head6" : "How to Enjoy the Match More?",
+        "head7" : "Why Choose Rockybook?",
+        "head8" : "Final Words",
+        "excerpt": "The Indian Premier League (IPL) is here again with another thrilling match! In Match 51 of IPL 2025, Sunrisers Hyderabad (SRH) will face Gujarat Titans (GT). The match is likely to be full of excitement, big hits, and brilliant bowling. Fans of both teams are waiting with bated breath to know who will emerge victorious in this match. In this blog by Rockybook, India's best cricket ID provider, we will discuss both teams, their strengths, and our pick for the winner. So, let's begin!",
+        "body0": "The match between SRH and Gujarat Titans will be 51. It will be held on 2nd May 2025. The venue for this glorious match is Narendra Modi Stadium, hopefully giving GT the home-ground edge in the match.",
+        "body1": "Sunrisers Hyderabad (SRH): SRH has a good bowling unit. They have had some of the best bowlers in IPL, such as Bhuvneshwar Kumar and T. Natarajan. In IPL 2025, SRH has also recruited some young guns who can smash big sixes and play aggressive cricket.Key Players for SRH: Aiden Markram—a good captain and batsman, Rahul Tripathi—a fast and intelligent batsman. Pat Cummins—a good all-rounder who can bat and bowl. SRH will attempt to win this match to rise higher on the points table.",
+        "body2": "won the IPL in 2022 and made it to the final in 2023. They have a well-balanced team with strong batters and intelligent bowlers. Shubman Gill, the stylish and young batsman, is captaining the team this year. Key players for GT: Shubman Gill—captain and opening batsman, Rashid Khan—world-class leg-spinner, and Sai Sudharsan—regular batsman for GT. GT also has a healthy combination of veteran players and new talent.",
+        "body3": "When SRH and GT clash, the games are always thrilling. In previous seasons, both teams have won games against each other. So, this game will be competitive and challenging.",
+        "body4": "The game will be hosted at [Add Stadium Name]. The ground here is generally good for batting. So, we can anticipate a high-scoring game.The weather will be clear, and there is zero possibility of rain. That is good news for players and supporters!",
+        "body5": " SRH and GT are both good teams. But comparing the current form and performance of players, the Gujarat Titans (GT)can gain an edge. The reason why GT can win is that their batting line-up is extremely powerful, Shubman Gill and Rashid Khan are in good nick, and GT has more seasoned finishers. But cricket is a surprise sport! If SRH's bowlers play well, they can also win the match. It will be a close match for sure!",
+        "body6": "Want to make IPL 2025 even more thrilling? You can play fantasy cricket, participate in contests, and earn rewards on online cricket platforms. To do so, you need a reliable Cricket ID. That's where Rockybook assists you!",
+        "body7": "Rockybook is the best ID provider for cricket in India. We assist cricket fans in obtaining their online cricket ID conveniently and securely. The benefit of choosing RockyBook is that you get quick and easy registration. Secure and safe platform, support available 24/7, safe with thousands of users. Thus, if you want an Online Cricket ID Provider in India,. Rocky Book is the appropriate one for you.",
+        "body8": "IPL 2025 match 51 of SRH vs GT is going to be a thrilling match. Both teams are good and eager to win. Our guess is that GT is going to emerge victorious, but in cricket! Anything could happen! Don't miss cheering for your team and watching the game with Rockybook, the top cricket ID provider in India.. Order your online cricket ID today and join the fun of IPL.",
       },
 
 

@@ -1827,7 +1827,7 @@ export const Blogs =
 
 
       {   
-        "handle":"IPL-2025-Match-51,-GT-vs-SRH-Match-Prediction—Who-Will-Win-the-IPL-Match?",
+        "handle":"IPL-2025-Match-51-GT-vs-SRH-Match-Prediction-Who-Will-Win-the-IPL-Match",
         "id":79,
         "heading":"IPL 2025: Match 51:",
         "title": "IPL 2025: Match 51, GT vs. SRH Match Prediction—Who Will Win the IPL Match?",

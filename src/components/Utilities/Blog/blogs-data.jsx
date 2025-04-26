@@ -79,6 +79,9 @@ import img76 from '../../../assets/img/blog/new-blog76.jpg'
 import img77 from '../../../assets/img/blog/new-blog77.jpg'
 import img78 from '../../../assets/img/blog/new-blog78.jpg'
 import img79 from '../../../assets/img/blog/new-blog79.jpg'
+import img80 from '../../../assets/img/blog/new-blog80.png'
+import img81 from '../../../assets/img/blog/new-blog81.png'
+import img82 from '../../../assets/img/blog/new-blog82.png'
 
 export const Blogs = 
 [
@@ -1852,6 +1855,79 @@ export const Blogs =
         "body6": "Want to make IPL 2025 even more thrilling? You can play fantasy cricket, participate in contests, and earn rewards on online cricket platforms. To do so, you need a reliable Cricket ID. That's where Rockybook assists you!",
         "body7": "Rockybook is the best ID provider for cricket in India. We assist cricket fans in obtaining their online cricket ID conveniently and securely. The benefit of choosing RockyBook is that you get quick and easy registration. Secure and safe platform, support available 24/7, safe with thousands of users. Thus, if you want an Online Cricket ID Provider in India,. Rocky Book is the appropriate one for you.",
         "body8": "IPL 2025 match 51 of SRH vs GT is going to be a thrilling match. Both teams are good and eager to win. Our guess is that GT is going to emerge victorious, but in cricket! Anything could happen! Don't miss cheering for your team and watching the game with Rockybook, the top cricket ID provider in India.. Order your online cricket ID today and join the fun of IPL.",
+      },
+
+      {   
+        "handle":"Latest-BCCI-Central-Contracts-2024-25-Promotions-Demotions-Full-Details",
+        "id":80,
+        "heading":"Latest BCCI Central Contracts 2024-25",
+        "title": "Latest BCCI Central Contracts 2024-25 – Promotions, Demotions & Full Details",
+        "imageUrl": img80,
+        "totalHeads": 6,
+        "head0" : "What's the Deal with BCCI Central Contracts?",
+        "head1" : "Big Promotions in the 2024-25 List",
+        "head2" : "Players Demoted This Year",
+        "head3" : "Big Names Left Out.",
+        "head4" : "Focus on Youth and Performance",
+        "head5" : "Join Rockybook: Top Online Betting Site in India",
+        "excerpt": "The BCCI Unveils 2024-25 Central Contracts—Who's Up, Who's Down & Everything Else The Board of Control for Cricket in India (BCCI) recently announced its central contracts for the 2024-25 season. This roster always makes headlines among all cricket enthusiasts, as it indicates which players the board considers most important.",
+        "body0": "BCCI Central Contracts are yearly deals between the board and players. The board puts players into different grades based on how well they play, how consistent they are, and how important they are to the team. These grades decide how much money a player gets each year. There are four grades: A+, A, B, and C. A+ players get paid the most and are seen as key team members in all types of cricket.",
+        "body1": "This year, young players got rewards for how well they did and how steady they were. Shubman Gill got one of the biggest boosts, moving up to the Grade A+ group for the first time. He's now one of India's most important players because he does so well in all three types of cricket. Rohit Sharma, Virat Kohli, and Jasprit Bumrah are also in this top group. They're still the main strength of Indian cricket. Mohammed Siraj has also moved up now in Grade A. He earned this spot because of his strong bowling in Test matches and his better play in shorter games.",
+        "body2": "Not everyone had good news. Some players have been demoted from their higher rankings last year. This change happens due to poor performance, illness issues, or fewer opportunities to play for the national team. KL Rahu, who has alternated in and out of the squad because of injuries, is now in Grade B. Similarly, Shardul Thakur and Umesh Yadav have had their contract levels change, reflecting their recent performance and selection.",
+        "body3": "The most debated part of this year's contracts is the non-inclusion of some veteran players. Ajinkya Rahane and Cheteshwar Pujara, who were once regulars in India's Test side, failed to receive contracts this time. Their exclusion suggests that the BCCI wishes to bet on younger players and think ahead. Shikhar Dhawan, one of the famous names in Indian cricket, also failed to feature in the central contract list. Although he continues to play domestic cricket and take part in the IPL, the board's decision suggests that he may no longer be a part of their schemes for international matches.The word is out: performance trumps reputation. Teams require players who are fit, consistent, and able to deliver when summoned to do so.At The Rocky Book We always have the latest and most straightforward news from the cricket world. Whether it is team news, match previews, or news like this, we keep it simple and informative.",
+        "body4": "The contract list this year reflects a firm emphasis on performance and youth. Performers such as Yashasvi Jaiswal and Rinku Singh, who have shone in domestic and T20 cricket, are now included in the setup. This indicates that the BCCI is keenly monitoring new developments and is willing to hand out rewards to consistent performers.",
+        "body5": "If you are a cricket enthusiast and also like a little excitement on the side, don't miss out on visiting the Top Online Betting sites in India and seeing what options are available among the top betting sites in India. Bet responsibly, and only with sites you trust.Stay updated with The Rocky Book for more sports news, reviews, and expert views.",
+      },
+
+
+
+      {   
+        "handle":"IPL-2025-CSK-vs-KKR-Head-to-Head-Match-Highlights-&-Predictions",
+        "id":81,
+        "heading":"IPL 2025 CSK vs KKR",
+        "title": "IPL 2025 CSK vs KKR: Head-to-Head, Match Highlights & Predictions",
+        "imageUrl": img81,
+        "totalHeads": 7,
+        "head0" : "Better off in the ipl CSK VS KKR: Which team is better ?",
+        "head1" : " Overview of CSK vs KKR Head-to-head stats",
+        "head2" : "CSK VS KKR: Recent match highlights",
+        "head3" : "Team under the spotlight",
+        "head4" : "CSK vs KKR match tickets",
+        "head5" : "KKR vs CSK match predictions 2025",
+        "head6" : "Rockybook: the ultimate and best online cricket betting id provider",
+        "excerpt": "CSK is known for its legendary performances over the years, success rates, and iconic team led by the legendary MS Dhoni. Alternatively, KKR has also achieved notable success in the IPL by winning two titles under the ownership of Shahrukh Khan and the Mehta Group.",
+        "body0": "CSK vs KKR Head to Head has happened in 31 matches, where CSK has won the title 19 times while KKR's won 11 times. Out of the 31 matches, 1 match didn’t have any result due to any uncertainty, which has made both teams powerful. At present, KKR has achieved a significant upper hand victory against CSK, where the latter holds sixth position while the former holds ninth position. However, the overall CSK vs KKR head-to-head is strongly in favor of CSK, where they won the last match.",
+        "body1": "The CSK vs KKR stats state that the total matches played between them is 31, where csk has the highest score of 235. However, other highlights state that kkr scored the lowest score of 107, and CSK ranked below kkr with the score of 103. This might make a significant difference in the future of both teams, where performance and playing strategy can matter. Considerably, CSK vs KKR head to head can become more interesting among the fans along with the team owners.",
+        "body2": "According to recent head-to-head KKR vs CSK match highlights, it is evident that CSK appears to be physically weak. It can be stated that the kkr vs CSK match might take an unexpected turn based on the physical weakness of the CSK team. This has also raised talks on the captaincy of MS Dhoni, which has been outplayed by the spinners of kkr. Hence, CSK vs KKR head to head can be presumed as a nonchalant trick of outplaying between CSK and KKR.",
+        "body3": "In the recent match between CSK and kkr, kkr had a great spotlight after winning their toss at MA Chidambaram Stadium. Various team replacements also happened at the scene where CSK replaced Rahul Tripathi for the injured Ruturaj Gaikwad. This turned CSK vs KKR head to head upside down with the biggest margin for defeat in the IPL over the years. Head to Head Kkr vs CSK has now resulted in both the highest and the lowest for kkr and CSK, respectively. Hence, both teams are in the spotlight.",
+        "body4": "After the spotlight of both teams, CSK VS KKR match tickets and the enthusiasm among their fans are undeniable. Therefore, there are various platforms where KKR vs CSK tickets can be made available to the audience in the best possible rates. BookMyShow, Official IPL Website, and Official Websites of IPL Team, etc. can be considered the top websites for such event bookings. This is because CSK vs KKR head to head is trending among the fans due to the unforeseen events taking place recently.",
+        "body5": "Although csk is running low in the scoreboards, it can still be given a slight edge of winning against all the odds. Therefore, KKR vs CSK match predictions might be based on strangling each other with wins and losses all across the board. CSK lost to KKR and faced defeat against some of the IPL teams, which has made KKR promising. Overall, CSK vs KKR head to head needs proper pitch and other aspects of the game where team alignment might be necessary.Ultimately, CSK vs KKR head to head can be idealized as a tricky stance where uncertainties can follow. The IPL match highlights CSK vs KKR, and the scoreboards suggest the dominance of both teams over the years. This may result in high-pressure situations.",
+        "body6": "Your one-stop destination for IPL match highlights is the Best Online Cricket Betting ID Provider, Rockybook. Join the online cricket betting platform to explore the ongoing cricket fever with end-to-end professional support.",
+      },
+
+      
+      {   
+        "handle":"IPL-2025-Match-65-GT-vs-LSG-Head-to-Head-&-Match-Analysis",
+        "id":82,
+        "heading":"GT vs LSG Head to Head & Match Analysis",
+        "title": "IPL 2025 Match 65: GT vs LSG Head to Head & Match Analysis",
+        "imageUrl": img82,
+        "totalHeads": 7,
+        "head0" : "LSG vs GT match",
+        "head1" : "GT vs LSG highlights",
+        "head2" : "GT vs LSG scorecard",
+        "head3" : "GT vs LSG: the rising stars",
+        "head4" : "LSG vs GT match prediction",
+        "head5" : "LSG vs GT: fan choice",
+        "head6" : "Rockybook - best online cricket betting ID provider: for entertaining purposes",
+        "excerpt": "GT vs. LSG head-to-head is rolling on the comprehensive six-wicket victory of LSG over GT in TATA IPL 2025. This set the stage for their second victory in the 2025 IPL segment with the combination of Mitchell Marsh and Aiden Markram.Gujarat Titans (GT) is led by its captain, Shubman Gill, known for his exceptional batting skills. Owned by Torrent Group with 67% of the acquisition in the team, the prominent players are Shubman Gill and Jos Buttler.On the other hand, Lucknow SuperGiants (LSG) is the IPL team based in Lucknow and is owned by Sanjiv Goenka since its establishment in 2021. Under the captaincy of Rishabh Pant, the other key players of LSG are Mitchell Marsh and Aiden Markram, responsible for effective batting.",
+        "body0": "The batters of GT struggled for runs at the initial stage as their wickets kept drying up due to GT’s death-overs spell. With the target of 181 in lsg vs gt highlights, Aiden Markram and Nicholas Pooran hit their half-centuries. The overall score became 186 for 4 in 19.3 overs, which affected gt vs lsg head to head for the fans",
+        "body1": "The win of LSG in the gt vs lsg head to head has led the team to be qualified for the playoffs. This depicts the balanced and secure innings played by them since their establishment in 2021 alongside the 50% win rate. IPL match 2025 till date has been the talk of the town due to its interesting and unexpected twists and turns.",
+        "body2": "Although the strategy of GT has taken over the fantasy of LSG fans, LSG has defeated GT by 6 wickets. The LSG vs GT match ended with the strategic partnership of Markram and Pooran with the target of 181. Hence, GT vs LSG head to head was maximized by the powerplay of Markram, Pant, and Pooran with a six-laden 61 off 34 balls.Seven sixes were shot by LSG players, in which Markram launched his 50 off 26 balls in Marsh’s absence. Abruptly, Captain Pant was knocked off while launching sixes, which resulted in slow delivery to the pitch. GT vs LSG head-to-head and LSG vs GT highlights depict matches played by GT and LSG along with their wins and losses.",
+        "body3": "As per the lsg vs gt highlights, the rising stars among both teams have been trending nowadays for their batting and fielding skills. Specifically, Gill and Marsh from LSG and Pant from the GT side can be a matter of discussion due to their exceptional batting skills. Therefore, GT vs LSG head to head recorded a few top performers in the IPL match 2025.To this, GT vs LSG head to head is affected by lack of strategy by LSG against GT, the team which has made a strong comeback. So, it can be predicted that the fans are expecting GT to rise again in this IPL season with prominent players. ",
+        "body4": "LSG vs GT match scorecard depicts the victory of LSG by 6 wickets against GT in IPL match highlights. The strategic timeout showed 61/0 in 6.0 overs with Markram 38 and Pant 17. However, it can be predicted that GT has been the balanced team as per the IPL match highlights LSG vs GT.",
+        "body5": "The IPL match schedule 2025 has been initiated since March and has been ruling the trending charts. So, GT vs LSG head to head has many fans debating over the wins and losses that occurred in the past days. Subsequently, LSG fans are more excited than the GT fans based on the unexpected match treats served to them.",
+        "body6": "Betting on your favorite team using the best online cricket betting id provided by Rockybook helps you in grabbing exciting discounts. Utilize this exciting opportunity and enhance your experience of the IPL match 2025 with the Best Online Cricket Betting ID. ",
       },
 
 

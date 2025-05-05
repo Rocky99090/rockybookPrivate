@@ -82,6 +82,7 @@ import img79 from '../../../assets/img/blog/new-blog79.jpg'
 import img80 from '../../../assets/img/blog/new-blog80.png'
 import img81 from '../../../assets/img/blog/new-blog81.png'
 import img82 from '../../../assets/img/blog/new-blog82.png'
+import img83 from '../../../assets/img/blog/new-blog83.png'
 
 export const Blogs = 
 [
@@ -1930,5 +1931,28 @@ export const Blogs =
         "body6": "Betting on your favorite team using the best online cricket betting id provided by Rockybook helps you in grabbing exciting discounts. Utilize this exciting opportunity and enhance your experience of the IPL match 2025 with the Best Online Cricket Betting ID. ",
       },
 
+
+      {   
+        "handle":"IPL-2025-Points-Table-Possible-Standings-and-Scenarios-After-April-27",
+        "id":83,
+        "heading":"IPL 2025 Points Table",
+        "title": "IPL 2025 Points Table: Possible Standings and Scenarios After April 27",
+        "imageUrl": img83,
+        "totalHeads":6,
+        "head0" : "RCB Take Pole Position",
+        "head1" : "Punjab Kings and Lucknow Super Giants: Still in the Hunt",
+        "head2" : "Trouble for KKR, SRH, RR, and CSK",
+        "head3" : "What to Expect Next?",
+        "head4" : "Final Thoughts",
+        "head5" : "Looking for the best fantasy sports ID provider in India? Rockybook is here",
+        "excerpt": "The IPL 2025 has officially completed 47 out of 74 matches. After a few matches, we will get to see the fiery clashes of the quarters. Fans have started to anticipate who will win the trophy. Guesswork never works; one can only conclude real-time stats. But this list can change at any given point. The team that ranks on top today might go downhill if another team beats it to it. Let’s review the current positions of the teams to evaluate the situation. ",
+        "body0": "Royal Challengers Bengaluru have had a fantastic turnaround in IPL 2025. With their recent 6-wicket victory over Delhi Capitals, RCB sits comfortably at the top with 14 points and a healthy +0.521 net run rate. Led by an in-form Virat Kohli and supported by consistent performances from Josh Hazlewood, RCB have set the tone for the rest of the league. Kohli is currently the holder of the Orange Cap as the leading run-scorer, while Hazlewood proudly dons the Purple Cap for most wickets.Their balanced squad and aggressive gameplay make them serious contenders for lifting their maiden IPL trophy this season. Gujarat Titans, Mumbai Indians, and Delhi Capitals in Hot PursuitWhile RCB is leading, the Gujarat Titans (GT), Mumbai Indians (MI), and Delhi Capitals (DC) are not far behind. Each team has collected 12 points and remains a major threat.Gujarat Titans have the best net run rate (+1.104) among the top four and will be eyeing the top spot with two games in hand compared to MI and RCB. Mumbai Indians are peaking at the right time with a powerful middle order and a resurgent bowling attack.Delhi Capitals, despite their loss to RCB, are displaying solid team performances and are well placed to secure a playoff berth. These three teams are virtually neck-and-neck, making every upcoming match a virtual knockout!",
+        "body1": "Sitting at 5th and 6th, Punjab Kings (PBKS) and Lucknow Super Giants (LSG) have been inconsistent but remain in playoff contention. PBKS have 11 points with a game in hand and can still push into the top four. LSG, with 10 points, needs to win their remaining matches and improve their net run rate, which is currently at -0.325. Every game is now a must-win for these two teams if they hope to break into the top tier.",
+        "body2": "The bottom four teams — KKR, SRH, RR, and CSK — are on the verge of elimination. Kolkata Knight Riders have an outside chance but need other results to go their way. Sunrisers Hyderabad and Rajasthan Royals have struggled for consistency. Chennai Super Kings, the five-time champions, find themselves at an unfamiliar 10th spot with just 4 points. For these teams, it's about salvaging pride or trying to pull off a miracle finish.Fans can also look forward to key clashes like RCB vs. GT, MI vs. DC, and PBKS vs. LSG, all of which could decide the final top four.",
+        "body3": "As we approach the final leg of the IPL 2025 league stage, expect intense battles, last-over finishes, and surprise upsets. The margins for qualification are thin, and every match will have a direct impact on the playoffs.",
+        "body4": "The IPL 2025 season has been full of thrilling cricket, incredible individual performances, and a closely contested points table. With RCB leading the pack and several teams breathing down their necks, the playoff race promises to be a rollercoaster ride.",
+        "body5": "If you are trying to find the best fantasy sports ID provider in India, you are welcome, Rockybook. Here you get a safe user ID and get started with your sports ID in a few seconds and get started within a few seconds. For more details, contact us through our WhatsApp portal.",
+     
+      },
 
     ]

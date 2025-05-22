@@ -84,6 +84,7 @@ import img81 from '../../../assets/img/blog/new-blog81.png'
 import img82 from '../../../assets/img/blog/new-blog82.png'
 import img83 from '../../../assets/img/blog/new-blog83.png'
 import img84 from '../../../assets/img/blog/new-blog84.png'
+import img85 from '../../../assets/img/blog/new-blog85.webp'
 
 export const Blogs = 
 [
@@ -1970,6 +1971,29 @@ export const Blogs =
         "body0": "IPL 2025 witnessed prominent catches of the season, with five IPL teams and five players. All these catches are undoubtedly the results of individual skills and on-field strategies. The top player with the most catches is Naman Dhir of MI with 12 catches overall this season. He has taken a catch in every match he has played till May 6, 2025, making him the lead catcher. Following Naman Dhir is Shimron Hetmyer of RR with an overall of 10 catches. Out of 10, his four main catches were in match 11 (RR vs. CSK), match 32 (DC vs. RR), match 36 (RR vs. LSG), and match 47 (RR vs. GT). The third rank is for Nicholas Pooran of LSG with 8 catches in 11 matches. His catches are known for maintaining pressure on the opposite team. His unforgettable catch was against GT in match 26, where Sai Sudarshan was targeted.Above are the top three players of IPL 2025 who have registered their names in taking the highest number of catches.",
         "body1": "Naman Dhir is a prominent cricket figure with all-rounder skills from Punjab. He has been playing for MI since his auction in 2024 with a base price of INR 20 lakhs. He was chosen as the replacement for Suryakumar Yadav against GT. He is the best fielder of IPL 2025, with the maximum number of catches. He has also contributed to MI’s top scores this year, as the team has taken a total of 51 catches. This is the reason behind their six-win streak in IPL 2025.The most important innings for Naman Dhir was MI vs LSG in match 45, with a 54-run victory. That win was his best performance in IPL 2025 in terms of not only the catches but also the runs. He scored 46 runs against the LSG fielders and also contributed to MI’s victory in the last overs. He is also an aggressive batter and an impactful player who has the potential to deliver powerful performances. This is why he is given the batting position at 6 or 7 to be the game-changer in the needed situations. Due to his interesting performances so far, he has now topped the “most catches in IPL 2025” title. In the IPL 2025 auction, Dhir was selected by MI for INR 5.25 crore. Before that, he was stuck in a bidding war at the TATA IPL 2025 auction for his specialization as an allrounder. The player also talked about his finisher role and a team mindset which helps him to walk on a tightrope!",
         "body2": "Rockybook has advanced its services for its users with the IPL 2025 craze among people. If you are someone who has an interest in investing and earning through your favourite sports, then look no further. With Rockybook’s top sports betting site in India, users can now bet on their favorite team and player. If this is not what excites you, then believe us, nothing ever can!.",
+
+     
+      },
+
+
+      {   
+        "handle":"CSK vs PBKS: Shocking Exit of CSK from IPL 2025",
+        "id":85,
+        "heading":"Shocking Exit of CSK from IPL 2025",
+        "title": "CSK vs PBKS: Shocking Exit of CSK from IPL 2025",
+        "imageUrl": img85,
+        "totalHeads":6,
+        "head0" : "CSK vs PBKS: CSK out of IPL 2025?",
+        "head1" : "CSK vs PBKS: Who is responsible for csk’s loss?",
+        "head2" : "After-effects",
+        "head3" : "Final thoughts",
+        "head4" : "Rockybook: best cricket ID provider in India",
+        "excerpt": "Chennai Super Kings (CSK) is known to be the most successful IPL team in the cricket tournament since its establishment. It was established in 2008 and is the most original team out of the 10 present teams in the IPL. The home venue of CSK is the M.A. Chidambaram Stadium in Chennai, which has hosted various matches for CSK. Did you know? CSK was banned for 2 years from the IPL tournament in 2015 following the betting scandal of 2013.",
+        "body0": "CSK vs PBKS took place on April 30, 2025, on Wednesday, where PBKS beat CSK by four wickets. Shreyas Iyer and Prabhsimran had a valuable partnership, resulting in a strategic win for PBKS. On the contrary, a trio of CSK is blamed for the team’s loss: MS Dhoni, Ravindra Jadeja, and Matheesha Pathirana. The team has claimed that the trio failed to retaliate against PBKS for their hard innings opposite them.  Furthermore, the leadership skills of Dhoni are targeted for not leading the team properly. He is blamed for his unprofessionalism on the pitch for not taking over PBKS. This is because the batters of CSK lacked intent, partnership, and strategic strikes, which led the team to lose. All-rounders of CSK such as Ashwin and Jadeja, disappointed the fans with their low strike and run rates. ",
+        "body1": "The loss of CSK in IPL 2025 has shocked the entire nation, along with the die-hard cricket fans. The mystery remains unsolved as there are many speculations regarding the responsible personality behind CSK’s loss. Others blame the trio of the CSK team for their failed planning and partnership against PBKS. Also, the starting run rate was 57 on which the team average was 45, which confirmed the loss of CSK. Some speculations revolve around the owners’ mistake of misguiding the players for their playing chances. This fuels the poor auction strategy of the owners in this IPL season, which resulted in poor performances throughout the season. This resulted in selecting inefficient bowlers in the team, another factor for the loss in CSK vs PBKS match.  ",
+        "body2": "The CSK vs PBKS match caused the elimination of CSK from IPL 2025. This has drastically affected the CSK vs PBKS head to head and the points table depicting the last position. Since CSK has lost, it is eliminated from the playoffs, and their innings will make no sense, even if they play. This means they are in their consolation match, which means their innings will determine third or fourth place among other teams.The captaincy of MS Dhoni has been questioned, considering the disappointment among the CSK fans. There are several mistakes committed by CSK’s players and owners that are being pointed out by the sources. Dhoni felt bad about not getting more in the CSK vs PBKS match. ",
+        "body3": "This historic loss of CSK in IPL 2025 has created buzz among cricket fans. Fans, cricket organizations, and media outlets are continuously trying to get to the focal point of the loss. However, it sparks confusion and curiosity among the watchers about the next PBKS vs CSK in the IPL tournament.",
+        "body4": "Do you want to bet on your favourite game using the best cricket ID provider in India? Then you are at the right place! Rockybook provides you with the best cricket ID online to bet securely on several types of games. Whether it is your favourite team or players, betting with Rockybook is always energetic and full of rewards.",
 
      
       },

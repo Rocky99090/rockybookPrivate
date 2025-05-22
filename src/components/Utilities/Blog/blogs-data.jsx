@@ -1977,7 +1977,7 @@ export const Blogs =
 
 
       {   
-        "handle":"CSK vs PBKS: Shocking Exit of CSK from IPL 2025",
+        "handle":"CSK-vs-PBKS-Shocking-Exit-of-CSK-from-IPL-2025",
         "id":85,
         "heading":"Shocking Exit of CSK from IPL 2025",
         "title": "CSK vs PBKS: Shocking Exit of CSK from IPL 2025",

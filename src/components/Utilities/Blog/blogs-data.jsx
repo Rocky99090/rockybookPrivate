@@ -85,6 +85,9 @@ import img82 from '../../../assets/img/blog/new-blog82.png'
 import img83 from '../../../assets/img/blog/new-blog83.png'
 import img84 from '../../../assets/img/blog/new-blog84.png'
 import img85 from '../../../assets/img/blog/new-blog85.webp'
+import img86 from '../../../assets/img/blog/new-blog86.webp'
+import img87 from '../../../assets/img/blog/new-blog87.webp'
+import img88 from '../../../assets/img/blog/new-blog88.webp'
 
 export const Blogs = 
 [
@@ -1997,5 +2000,71 @@ export const Blogs =
 
      
       },
+
+
+      {   
+        "handle":"Tata-IPL-2025-new-schedule-Teams-affected-and-pitch-prediction",
+        "id":86,
+        "heading":"Tata IPL 2025 new schedule",
+        "title": "Tata IPL 2025 new schedule: Teams affected and pitch prediction",
+        "imageUrl": img86,
+        "totalHeads":5,
+        "head0" : "IPL 2025 schedule: New match dates and venues",
+        "head1" : "IPL 2025 schedule: Which teams are the most affected?",
+        "head2" : "IPL 2025: Pitch prediction report",
+        "head3" : "Rockybook: top betting sites in india",
+        "excerpt": "After the rising tensions between India and Pakistan, the BCCI has announced the revised version of IPL 2025. Teams and players, therefore, are affected by IPL’s new schedule: new dates and venues according to the safety concerns. Apart from all these, the IPL 2025 schedule has also affected three major teams in the points table. These are GT, RCB, and PBKS, who are the kings of the points table in IPL 2025. Let us know more below about the new schedule for the most-awaited IPL 2025!",
+        "body0": "IPL 2025 now has new match dates, new venues and improvised playing tactics which will affect the finals. Amid the rising tensions of military rivalry between India and Pakistan, the news of ceasefire has increased the concerns. A total of 17 matches have been rescheduled to play across six venues: Delhi, Jaipur, Lucknow, Bengaluru, Mumbai and Ahmedabad. This revised schedule begins from May 17, 2025 which includes same teams playing twice a day! The final IPL match will take place on June 3, 2025. IPL 2025 schedule suggests that the matches resume with RCB vs KKR at the M. Chinnaswamy Stadium in Bengaluru. However, these details are now not announced in great detail as of May 14, 2025, fans still await the full hearings.",
+        "body1": "With the improvisation of the IPL 2025 match schedule, the whole tournament is torn apart due to uncertainties. GT, RCB, and MI are most prone to uncertainties as the innings clash with the West Indies vs England innings. Did you know? IPL 2025 playoffs might clash with the white-ball series of West Indies and England on May 29, 2025.GT and RCB are to play 3 more matches to qualify for the playoffs, whereas MI has 2 more chances. The previous match played by the teams had the most unexpected turn, where GT won by 8 wickets.Comparatively, RCB is more at stake in front of GT, as the team has faced defeat in earlier times. Although both teams are affected by the reschedule, RCB needs more striking performances to reach the finale.MI vs DC head to head and PBKS vs MI head to head will disclose the actual position of MI this year.MI has won the IPL trophy five times in the IPL franchise; however, this year, the team seems inconsistent. There could be many reasons for the inconsistency, such as low performance from its key players, especially the batsmen. Combining all the factors, the revised IPL 2025 schedule is going to be an unexpected one in both positive and negative ways. This is because of the results, venue change, and safety concerns at the borders. ",
+        "body2": "For IPL 2025, KKR’s home ground was chosen to host the finals earlier, however, BCCI is suspicious of the weather. Hyderabad, Chennai, and Kolkata might not hold any of these anymore. Only one stadium from Delhi, Jaipur, Lucknow, Bengaluru, Mumbai, and Ahmedabad will host qualifiers 1 & 2, and the eliminator. One of these venues will also host the finals on June 3, 2025. The stadiums in Delhi and Mumbai mainly favour the batsmen with the idea strategy of chasing runs through short boundaries. These stadiums require toss to win, and that too for fielding first, so that chasing runs becomes easy. Alternatively, Jaipur, Lucknow, Bengaluru, and Ahmedabad stadiums have moderate pitches favourable to both batsmen and bowlers. A good balance between batting and bowling can be drawn through strategic partnerships. However, there is one exception to this rule: weather conditions!",
+        "body3": "Rockybook is considered one of the top betting sites in India, with various types of sports betting options. These IDs can help you bet on plenty of cricket games alongside user-friendly features. Connect with Rockybook for more such options and avail of great welcome discounts on your purchase. ",
+
+     
+      },
+
+      {   
+        "handle":"SRH-vs-KKR-on-May-25-Match-Prediction-&-IPL-Match-15-Highlights",
+        "id":87,
+        "heading":"SRH vs KKR on May 25 Match",
+        "title": "SRH vs KKR on May 25: Match Prediction & IPL Match 15 Highlights",
+        "imageUrl": img87,
+        "totalHeads":5,
+        "head0" : "SRH vs KKR head to head",
+        "head1" : "SRH vs KKR scorecard",
+        "head2" : "KKR vs SRH team evaluation",
+        "head3" : "SRH vs KKR prediction: Who will win?",
+        "head4" : "You can’t miss any kind of cricket blog updates with Rockybook.",
+        "excerpt": "SRH vs KKR are going to play against each other once again. SRH lost the last time; can they manage to win this time? Catch up on full details here.SRH vs KKR match 68 will take place on May 25, 2025, at the Arun Jaitley Stadium in Delhi. This match might not hold a significant spot, as both teams are eliminated from IPL 2025. However, this match will offer an opportunity to both teams to end their IPL journey on a positive note. KKR and SRH are the defending teams of every season in IPL, but this season was different. Stay updated with our cricket blog updates about both winning and washed-out teams of IPL 2025",
+        "body0": "SRH vs KKR head to head in the IPL tournaments depicts a total of 29 matches played between them. Out of all these 29 matches, SRH has won 9 matches, and KKR has won 20 times against SRH.If we predict the win of match 68 on this basis, then KKR might win. The team has had a significant advantage in IPL tournaments over the years, with high dominance. Similarly, KKR vs SRH head to head from match 15 on April 3, 2025, states that KKR won by 80 runs. This happened with the explosive innings by Venkatesh Iyer (60 off 29 balls)  and Vaibhav Arora (3 wickets). This was followed by Varun Chakaraverthy with 3 wickets. This clears the image of the powerful players of KKR against SRH in the IPL 2025 match.",
+        "body1": "KKR defeated SRH in match 15 of IPL match 2025 on April 3, 2025 by 80 runs. SRH won the toss and chose to bowl first against KKR. KKR put up the score of 201 for SRH in their home ground Eden Gardens, Kolkata. KKR skipper Ajinkya Rahane gave a tough competition to the SRH bowlers. This was followed by Angkrish Raghuvanshi's (50 off 32) and Venkatesh Iyer's innings against SRH. On the other hand, KKR bowlers like Vaibhav Arora and Varun Chakravarthy also contributed to their win. A foolproof team performance was witnessed in the Eden Gardens by KKR against SRH. SRH lost its 3 wickets in their early overs between 1-6 in the match 15 against KKR. The team was not able to maintain the run rate also. Till 15 overs, the team had lost its 4 wickets, meaning SRH lost its key batsmen.That is why SRH lost its 10-15 runs due to KKR bowlers’ bowling and fielding style. Only 124 runs were scored by them in 16.4 overs. The key factors in their defeat were: early wickets, and effective bowling of KKR bowlers. Do you know? Vaibhav Arora of KKR was declared Player of the match.",
+        "body2": "After KKR vs SRH head to head, it can be understood that a strategic partnership is necessary to win. This is already present in KKR players as they can know the weak points of the opposite team. The key batsmen of KKR: Andre Russell, Venkatesh Iyer, and Rinku SinghThe key bowlers of KKR: Sunil Narine, Andre Russell, and Varun ChakravarthyThe key batsmen of SRH: Travis Head, Abhishek Sharma and Heinrich KlaasenThe key bowlers of SRH: Pat Cummins (c) and Jaydev UnadkatThe key players of SRH did not play well in match 15, and not much statistics is available regarding their innings. Alternatively, KKR has its best players, both batters and bowlers, available in all the innings they play. KKR has more chances of winning in the 68th IPL match 2025. In this, SRH vs KKR in Delhi Stadium, KKR will chase a win through early wickets and strategic partnership.",
+        "body3": "According to the IPL match 2025 match 15 head to head, KKR has more chances of winning. However, if SRH prepares and challenges the KKR batsmen, then the results might change. Consequently, if we refer to the SRH vs KKR scorecard, SRH knows all the tricks applied by KKR. SRH might use this trick to win this time, increasing the team’s win percentage this time. Why don’t you witness the SRH vs KKR match in the Arun Jaitely Stadium in Delhi when you can get exciting offers? IPL Ticket Booking 2025 is live, and there are limited seats left. Hurry and book your spot!",
+        "body4": "Yes, it is true that with Rockybook, our users get updates on all kinds of cricket news and statistics. You can be one of them, and the steps are easy. Just purchase our betting IDs and bet on your favourite teams and players. Then you can get all kinds of cricket blog updates related to your bet along with other updates also.",
+
+     
+      },
+
+
+      
+      {   
+        "handle":"IPL-2025-suspended-Will-the-IPL-resume-soon",
+        "id":88,
+        "heading":"IPL 2025 suspended",
+        "title": "IPL 2025 suspended: Will the IPL resume soon?",
+        "imageUrl": img88,
+        "totalHeads":4,
+        "head0" : "IPL 2025: the rising India-Pak tensions",
+        "head1" : "IPL 2025: the impact of war on teams and players",
+        "head2" : "When will IPL 2025 get rescheduled?",
+        "head3" : "Rockybook: fantasy sports sites in India",
+        "excerpt": "IPL 2025 has been suspended, and here are the reasons behind fans’ disappointment. Will IPL 2025 resume soon amid the India-Pak war?Amid the rising tensions of the India-Pakistan war, BCCI has declared a halt to IPL 2025 due to safety concerns. The IPL match schedule 2025 took an unexpected turn after the terror attack in Jammu & Kashmir’s Pahalgam. The aim is to support the nation in these tough times by encouraging our armed soldiers. It got worse after May 6-7, 2025, when India targeted several terror sites of Pakistan under the name of Operation Sindoor. ",
+        "body0": "The Indian Premier League 2025 was suspended on May 9, 2025, following the intensity of the India-Pakistan war. Following this, the BCCI has imposed a one-week suspension on the IPL matches due to security reasons. Since then, the Indian cricket fans have been on edge as their curiosity for the finals arises. The last innings played was KKR vs CSK, where CSK beat KKR by 2 wickets in the 57th match. This has tensed GT, RCB, and PBKS fans as these three teams are currently ruling IPL 2025 points table. Similarly, CSK fans are in a dilemma following the last match against KKR, and await a response from BCCI. Apart from this, match 58 was scheduled to take place between DC and PBKS, which was hosted by Dharamshala. However, due to the rising security concerns amid the India-Pakistan war, the match was halted. This has also caused tensions among the international players involved in the IPL tournament, who are expected to return to their hometowns. PBKS vs DC witnessed only a single over match where PBKS scored 122/1 against DC in 10.1 overs. A precautionary measure was taken as red alerts were issued in Jammu due to the terror attacks.",
+        "body1": "It has been the very first time in IPL history that the tournament has been halted. Amid the rising India-Pakistan war scenarios, several cricket franchises supported this idea of BCCI as it sparked security concerns. Although all the teams and players have supported the decision, however, the craze of IPL 2025 has fallen. IPL match 2025 suspension has affected three teams: GT, RCB, and PBKS, etc. said to rule the IPL points table. All three teams may face disrupted team strategies and financial discomfort until the tournament resumes again. Amid the rising tensions, logistical and relocation issues may also arise as the pre-planned venues need to be changed. Furthermore, if any player is seriously affected by this rising tension, then the uncertainty of tournament failure can occur. This can also result in low productivity of the players and, hence, the overall team productivity might suffer.",
+        "body2": "BCCI has updated the nation about IPL 2025 rescheduling as per the current circumstances. The organization might resume the IPL match schedule 2025 in September, following India’s matches in England and Bangladesh. This is seen as the most secure period to resume the remaining IPL matches, ensuring minimal disruption to lives. Concerning the current situation, England has offered to host the remaining matches of the tournament. BCCI might reschedule the matches in India only with immediate effect after a week. However, there might be some changes in the rescheduling process as per the national news sources.",
+        "body3": "Make your fantasy sports betting more thriving with Rockybook’s fantasy sports sites in India. Connect with us and sign up for exciting rewards upon arrival, which will make your betting journey memorable. Seize the opportunity to bet on the IPL match 2025 with competitive teams playing against each other. Play fantasy-style cricket virtually and win real cash!",
+
+     
+      },
+
 
     ]

@@ -88,6 +88,7 @@ import img85 from '../../../assets/img/blog/new-blog85.webp'
 import img86 from '../../../assets/img/blog/new-blog86.webp'
 import img87 from '../../../assets/img/blog/new-blog87.webp'
 import img88 from '../../../assets/img/blog/new-blog88.webp'
+import img89 from '../../../assets/img/blog/new-blog89.png'
 
 export const Blogs = 
 [
@@ -2062,6 +2063,29 @@ export const Blogs =
         "body1": "It has been the very first time in IPL history that the tournament has been halted. Amid the rising India-Pakistan war scenarios, several cricket franchises supported this idea of BCCI as it sparked security concerns. Although all the teams and players have supported the decision, however, the craze of IPL 2025 has fallen. IPL match 2025 suspension has affected three teams: GT, RCB, and PBKS, etc. said to rule the IPL points table. All three teams may face disrupted team strategies and financial discomfort until the tournament resumes again. Amid the rising tensions, logistical and relocation issues may also arise as the pre-planned venues need to be changed. Furthermore, if any player is seriously affected by this rising tension, then the uncertainty of tournament failure can occur. This can also result in low productivity of the players and, hence, the overall team productivity might suffer.",
         "body2": "BCCI has updated the nation about IPL 2025 rescheduling as per the current circumstances. The organization might resume the IPL match schedule 2025 in September, following India’s matches in England and Bangladesh. This is seen as the most secure period to resume the remaining IPL matches, ensuring minimal disruption to lives. Concerning the current situation, England has offered to host the remaining matches of the tournament. BCCI might reschedule the matches in India only with immediate effect after a week. However, there might be some changes in the rescheduling process as per the national news sources.",
         "body3": "Make your fantasy sports betting more thriving with Rockybook’s fantasy sports sites in India. Connect with us and sign up for exciting rewards upon arrival, which will make your betting journey memorable. Seize the opportunity to bet on the IPL match 2025 with competitive teams playing against each other. Play fantasy-style cricket virtually and win real cash!",
+
+     
+      },
+
+
+      {   
+        "handle":"The-Impact-of-IPL-on-Online-Betting-Trends-in-India",
+        "id":89,
+        "heading":"IPL 2025 suspended",
+        "title": "The Impact of IPL on Online Betting Trends in India",
+        "imageUrl": img89,
+        "totalHeads":5,
+        "head0" : "IPL 2025 Global Viewership Surged the Online Cricket Betting Market",
+        "head1" : "IPL 2025 Teams' Performances Increased the Cricket Betting Odds",
+        "head2" : "How IPL 2025 Can Impact the Upcoming India Vs England Series?",
+        "head3" : "Popular Bet Types in IPL 2025",
+        "head4" : "Final Words",
+        "excerpt": "IPL 2025 is a globally recognised league booming in the online cricket betting industry. During the IPL season in 2025, 67.8 crore cricket fans didn’t just watch the IPL; rather, they played along. If you are predicting online betting trends in India, it is fair to analyse the cricket betting on the IPL 2025 season. More so because betting on the cricket sport doesn’t happen on luck or emotional guesswork. And so, to prevent betting on overvalued teams, players, or unpredictable toss outcomes, understanding IPL betting trends is key. In this blog, you will discover IPL viewership, cricket betting statistics, and popular bet types that thrived during the IPL 2025 season. So, keep reading it till the end. ",
+        "body0": "As per the recent reports, the viewership of the IPL 2025 season surpassed the India-Pakistan clash during the ICC Championship in February this year. Cricket betting saw a massive global surge during IPL 2025, primarily because millions of bettors had a belief in their favourite teams and the players’ form.As stated by the recent sources, international rap star Drake bet 6.4 crore on the Royal Challengers, Bengaluru team and earned a grand reward on the team’s victory. This further spiked the online cricket betting trend and is going to be the same in the upcoming international series.",
+        "body1": "RCB won the maiden title and showed consistency in their form throughout the season. Besides celebrity stakes on multiple players, RCB’s key players like Virat Kohli have regained faith in online cricket betting in India. The 614 run-scorer will continue to be the safest bet in the coming matches as well. Additionally, the Punjab Kings emerged as the top team, winning 9 out of 14 matches in the recently concluded 70 league matches of IPL 2025. The strong performance of the Punjab Kings is followed by the Gujarat Titans (GT) and the Mumbai Indians (MI).",
+        "body2": "Besides the above IPL teams protecting your betting money, staking on individual players’ performances is going to be a trend. For instance, Gujarat Titans player B Sai Sudharsan finished with 759 runs, becoming the highest run-getter in the tournament. Suryakumar Yadav, falling 42 runs short of this achievement, is also a safe play.",
+        "body3": "Some of the most popular types of IPL betting that garnered major interest were match winner, top batsman/bowler, in-play betting, player performance bets, and over/under bets. This is going to increase the odds of cricket betting in the upcoming series as well. Match winner and top batsman/bowler bets were high on stake. Bettors were able to predict the match winner as RCB performed consistently well. Also, Prasidh Krishna took the wicket-taking charts by taking 25 wickets, further attracting betting interest in the Purple Cap race. ",
+        "body4": "We hope you found this blog useful. IPL has been an opportunity for online cricket bettors in India. So, whether you’re staking on the upcoming toss or the live play, the above analytics for online betting trends in India are going to be valuable, particularly in the cricket field. If you are a serious or casual Indian cricket bettor, consider getting a secure online cricket ID provider in India to get started.",
 
      
       },

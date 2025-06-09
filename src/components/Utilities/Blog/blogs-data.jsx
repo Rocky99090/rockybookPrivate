@@ -2071,7 +2071,7 @@ export const Blogs =
       {   
         "handle":"The-Impact-of-IPL-on-Online-Betting-Trends-in-India",
         "id":89,
-        "heading":"IPL 2025 suspended",
+        "heading":"The Impact of IPL on Online Betting",
         "title": "The Impact of IPL on Online Betting Trends in India",
         "imageUrl": img89,
         "totalHeads":5,

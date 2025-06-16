@@ -89,6 +89,7 @@ import img86 from '../../../assets/img/blog/new-blog86.webp'
 import img87 from '../../../assets/img/blog/new-blog87.webp'
 import img88 from '../../../assets/img/blog/new-blog88.webp'
 import img89 from '../../../assets/img/blog/new-blog89.png'
+import img90 from '../../../assets/img/blog/new-blog90.webp'
 
 export const Blogs = 
 [
@@ -2087,6 +2088,26 @@ export const Blogs =
         "body3": "Some of the most popular types of IPL betting that garnered major interest were match winner, top batsman/bowler, in-play betting, player performance bets, and over/under bets. This is going to increase the odds of cricket betting in the upcoming series as well. Match winner and top batsman/bowler bets were high on stake. Bettors were able to predict the match winner as RCB performed consistently well. Also, Prasidh Krishna took the wicket-taking charts by taking 25 wickets, further attracting betting interest in the Purple Cap race. ",
         "body4": "We hope you found this blog useful. IPL has been an opportunity for online cricket bettors in India. So, whether you’re staking on the upcoming toss or the live play, the above analytics for online betting trends in India are going to be valuable, particularly in the cricket field. If you are a serious or casual Indian cricket bettor, consider getting a secure online cricket ID provider in India to get started.",
 
+     
+      },
+
+
+      {   
+        "handle":"Gaming-Tips-for-Safe-Online-Betting-in-India",
+        "id":90,
+        "heading":"Gaming-Tips-for-Safe-Online-Betting-in-India",
+        "title": "Gaming-Tips-for-Safe-Online-Betting-in-India",
+        "imageUrl": img90,
+        "totalHeads":4,
+        "head0" : "Why Does Responsible Gaming Matter?",
+        "head1" : "Stick with Responsible Gaming Tools like Deposit Limits.",
+        "head2" : "Final Words",
+        "head3" : "Choose a Betting ID from RockyBook Today!",
+        "excerpt": "Online sports betting is safe and approachable when you’re staking your money in the right way, particularly in India. Although the term “right way” is broad and vague, here it means responsible sports betting. If you are new to online sports gaming, practicing safe online betting in India will definitely help. It boosts your betting confidence on favorable odds and helps you adhere to betting limits. In this blog, you will discover responsible sports betting tips, starting with why it matters and some essential tools to find on betting sites. So, keep reading it till the end.",
+        "body0": "Safe sports betting ensures adherence to financial and time limits, so it is harmless for you and your society’s reputation. Responsible gaming is well-known, yet many bettors still fail to practice online betting safety in India. It helps to control your betting limits and avoid chasing losses time and again. Without it, you might draw towards potential debt and eventually the financial strain. In addition, limited betting lets you remain worry-free and content with the winning or losing outcomes. You are no longer falling into the negative behavior, like constant staking or getting anxious about losing big stakes. Not to forget, mindful betting reminds you to consider it as entertainment and not an income-generating source. As a matter of fact, many betting platforms offer tools to let you set limits. ",
+        "body1": "You can set limits on the minimum or maximum money to deposit on a single day, week, or month. This prevents you from exhausting all the savings and moving towards unsafe gaming practices. This feature is available on most online betting sites, under the “deposit limits” section. You must practice mindful wagering limits. This feature lets you set a rule on the betting amount, whether it is on a specific player, match, or an upcoming sports league. This is usually available for a day; however, many platforms can feature distinct adjustments. Using betting limits in India is highly recommended to manage the betting size and use your deposits strategically. Don’t Forget to Fix the Loss Limit. You can also set the maximum betting loss within a specific time, day, week, or the whole month. This implies that you can only afford to lose up to X amount if you don’t win the bet. Doing this is crucial to prevent a similar routine in the hope of winning back more money.Choose Self-Exclusion to Control Aggressive Gaming. Unlike putting on a betting rule, the self-exclusion option is beneficial to opt out of your account for some time or forever. If you are playing aggressively or showing up more than necessary, you may choose to exclude yourself from your betting site. Take the help of authentic reality checks/session reminders. Instead of blocking betting account access, you can choose session reminders for a more practical approach. You can set a reminder for total playing time, wins, and losses before betting onsports. This keeps you in the loop and stops you from betting continuously.  ",
+        "body2": "We hope you found this blog useful. As you see, responsible gaming is the key to ensuring maximum success on every bet. By using the above tools, you can always pave the way for safe online betting in India.",
+        "body3": "Rocky Book is a leading sports ID provider to stake on the top betting sites in India, boasting over 2 lakh lucky winners to date. From cricket, live cards, casino games, and other sports events, WhatsApp us to get an instant credential.",
      
       },
 

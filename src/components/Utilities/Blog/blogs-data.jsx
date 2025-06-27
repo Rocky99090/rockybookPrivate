@@ -90,6 +90,8 @@ import img87 from '../../../assets/img/blog/new-blog87.webp'
 import img88 from '../../../assets/img/blog/new-blog88.webp'
 import img89 from '../../../assets/img/blog/new-blog89.png'
 import img90 from '../../../assets/img/blog/new-blog90.webp'
+import img91 from '../../../assets/img/blog/new-blog91.webp'
+import img92 from '../../../assets/img/blog/new-blog92.webp'
 
 export const Blogs = 
 [
@@ -2095,8 +2097,8 @@ export const Blogs =
       {   
         "handle":"Gaming-Tips-for-Safe-Online-Betting-in-India",
         "id":90,
-        "heading":"Gaming-Tips-for-Safe-Online-Betting-in-India",
-        "title": "Gaming-Tips-for-Safe-Online-Betting-in-India",
+        "heading":"Gaming Tips for Safe Online Betting in India",
+        "title": "Gaming Tips for Safe Online Betting in India",
         "imageUrl": img90,
         "totalHeads":4,
         "head0" : "Why Does Responsible Gaming Matter?",
@@ -2110,6 +2112,63 @@ export const Blogs =
         "body3": "Rocky Book is a leading sports ID provider to stake on the top betting sites in India, boasting over 2 lakh lucky winners to date. From cricket, live cards, casino games, and other sports events, WhatsApp us to get an instant credential.",
      
       },
+
+
+
+      {   
+        "handle":"Fundamentals-of-Indian-Cricket-Pitch-&-Its-Importance-for-Betting",
+        "id":91,
+        "heading":"Fundamentals of Indian Cricket Pitch & Its Importance for Betting",
+        "title": "Fundamentals of Indian Cricket Pitch & Its Importance for Betting",
+        "imageUrl": img91,
+        "totalHeads":8,
+        "head0" : "Importance of the Indian Cricket Pitch",
+        "head1" : "How to Get a Cricket Pitch Report Before Betting?",
+        "head2" : "Which is the Best Pitch for Betting?",
+        "head3" : "Identifying Value Bets with Pitch Reports",
+        "head4" : "Over/Under Scores: Steps to Use the Cricket Pitch Report",
+        "head5" : "Top Batsman/Bowler Markets: Tips to Use Pitch Analysis",
+        "head6" : "Match Winner Predictions: Finding Value Bet Through Pitch Report",
+        "head7" : "Why Choose RockyBook for Sports ID?",
+        "excerpt": "An Indian cricket pitch is more than just a playing ground. It is an analysis tool that cricket authorities like the ICC evaluate thoroughly. Interestingly, this analysis determines pitch impact on the ultimate match result and eventually on the betting strategies. So, understanding the cricket pitch fundamentals is crucial to answer frequently asked questions like, “Are Indian pitches bad?” In this blog, you will discover RockyBook’s recommended pitches and steps to identify value bets using a pitch report. So, keep reading it till the end.",
+        "body0": "You have probably heard the term “cricket pitch report” before a live match. This essentially shows cricket ground conditions up close. The 20.12-metre cricket batting pitch length tells everything about the cracks, flat surfaces, and greener sides of the playing area. It influences the cricket game and eventually your betting strategies.",
+        "body1": "Most often, cricket commentators, captains, or former cricket leaders offer a full and detailed report on the pitch conditions. You’ll probably see or hear a pitch report prediction, either 15-20 minutes before a live match or after the toss outcome. It is important to remember that pitch health can vary depending on its overnight or morning preparation.",
+        "body2": "Elements like grass cover, moisture levels, hardness, colour, and underlying soil conditions are crucial in a cricket pitch report. To determine the best pitch for batting and bowling, you must remember three points. First, greener grass cover encourages rapid spin, helps fast bowlers, & potentially you to focus on “more wickets in a series” or “under score” bets. Second, a dry or hard pitch means betting on “over score” or on a “highest run scorer” is favourable. Last but not least, a brown & cracked ground signifies odds for wicket losses. As a result, you must bet on a team with quality spinners.",
+        "body3": "To understand the value bet, you must choose a top sports betting site in India. Usually, the ones offering higher odds than your expectation are a great tool. Once you find that, you must use the pitch report to find a value bet. ",
+        "body4": "First, read the bookmaker’s over/under line and determine the pitch health. If the pitch is on the greener side, it is good to bet under the specified score. However, if it feels dry and flat, you must aim for “over the score” odds. ",
+        "body5": "When placing your first stake on the top batsman/bowler market, you might question, “Is a hard pitch good for batting?” Well, certainly a dry and even surface favours a strong stroke batsman. So, you must put your money on the top-order batsman. However, if the pitch is dusty green, betting on fast spinner bowlers will increase your profits. ",
+        "body6": "One of the most straightforward “winner of the match” bets also offers a valuable opportunity. You can take the assistance of the pitch report to find a value bet on a particular team. For example, if Team A has a top-order batsman playing on a dry and flat pitch and the platform’s odds are at their best, you have a valuable stake.",
+        "body7": "If you want to bet on the next cricket match, getting a secure ID through an agent is the key. Rocky Book is a premier sports betting ID provider to access and bet on sports and fantasy sports sites in India.",
+     
+      },
+
+
+
+      {   
+        "handle":"The-Importance-of-Research-in-Cricket-Betting",
+        "id":92,
+        "heading":"The Importance of Research in Cricket Betting",
+        "title": "The Importance of Research in Cricket Betting",
+        "imageUrl": img92,
+        "totalHeads":7,
+        "head0" : "Impact of Research on Cricket Betting",
+        "head1" : "Cricket Betting Strategies: Research on Your Team",
+        "head2" : "Tips for Betting in Cricket: Discover The Toss Impact",
+        "head3" : "Cricket Betting Techniques: Analyse the Opponent’s Weaknesses",
+        "head4" : "Final Tips on Cricket Wagering: Markets and Odds Movement:",
+        "head5" : "Cricket Betting: How to Find Top Research Tools",
+        "head6" : "Final Thoughts: Choose RockyBook for Sourcing Sports and Casino ID",
+        "excerpt": "Betting on an online sports event is a rising trend; everyone is enjoying the ups and downs of winning or losing their money. But what if you realise that this habit is raising impulse bets? You end up reacting out of your emotions and blaming it on luck. No expert encourages online betting this way.  Instead, one of the expert-led tips to win in cricket betting is to research the cricket event beforehand. This starts with analysing the team, players’ key performances, pitch condition, toss impact, and odds movement. Rocky Book provides insights on why, how, and when to research in cricket betting. So, keep reading it till the end.",
+        "body0": "When you are familiar with the betting terms, know the ins and outs of team records, players’ strengths, and pitch conditions, you increase the winning probability. You are not second-guessing and betting out of mere hope. Bookmakers can sometimes imply an odd based on past betting patterns and do not react to recently updated news. So, proper research helps in going beyond the surface-level knowledge.Read More: Ultimate Guide on Winning Cricket Bets",
+        "body1": "First, learn the past 5-10 cricket matches, their recent form, and the tournament format. Besides head-to-head records, updated knowledge about the squad’s injuries is the key. Next, get pitch insights and venue history to play and bet perfectly. A weather forecast will be a helpful resource to gauge the impact of the swing and seam.",
+        "body2": "Beyond the analysis of the team’s strengths and weaknesses, it is fair to learn the team captain’s decisions on a toss outcome. You can find the number of times a particular team chose to bat or bowl, especially when you are backing on it. Additionally, discovering the success rate of a particular toss outcome is an ideal decision to achieve the most wins.",
+        "body3": "Figure out the opponent team’s batsmen's struggles against a bowling attack. Read about their records in each of the pace-heavy, spin-dominant, or balanced bowling throws. Many times, professional wagers lean towards understanding the batting flaws. As a result, pay attention to yours or the other team’s footwork, strength/weakness zones, backlift, and other batting irregularities.",
+        "body4": "Observing the reasons behind huge shifts in odds during a pre-match or live match is key. You must remember that odds can move rapidly due to late team news, a crucial toss decision, or an unexpected pitch situation. So, it is best not to bet blindly. Instead, relying on the key reasons behind a sharp drop in odds can empower your betting outcomes.",
+        "body5": "Here are a few sports betting research sources to grab first-hand information before placing your bet. ESPNcricinfo, Cricbuzz, ICC-Cricket, or Hindustan Times are credible sources. You can also find information on SportsAdda & CricTracker for experts’ opinions. Lastly, a sports ID platform like TheRockyBook is reliable for acquiring verified betting IDs",
+        "body6": "As you see, researching before making huge stakes on cricket or other sports is a relevant, convenient, and safe approach. To proceed, finding one of the best online cricket ID facilitators is essentially the first step. The Rocky Book is a premier platform that delivers sports, casino, and fantasy sports IDs, besides being recognised as the best online cricket ID provider in India. Beyond an accessible medium, the provider offers integrated stats, live scores, and even expert insights.",
+
+      },
+
 
 
     ]

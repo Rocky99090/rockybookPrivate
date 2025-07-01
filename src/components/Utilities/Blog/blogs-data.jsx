@@ -92,6 +92,7 @@ import img89 from '../../../assets/img/blog/new-blog89.png'
 import img90 from '../../../assets/img/blog/new-blog90.webp'
 import img91 from '../../../assets/img/blog/new-blog91.webp'
 import img92 from '../../../assets/img/blog/new-blog92.webp'
+import img93 from '../../../assets/img/blog/new-blog93.webp'
 
 export const Blogs = 
 [
@@ -2170,5 +2171,24 @@ export const Blogs =
       },
 
 
+      {   
+        "handle":"WTC-Test-Match-India-vs-England-Upcoming-Series",
+        "id":93,
+        "heading":"WTC Test Match: India vs England Upcoming Series",
+        "title": "WTC Test Match: India vs England Upcoming Series",
+        "imageUrl": img93,
+        "totalHeads":5,
+        "head0" : "WTC Test Match Schedule for India vs England",
+        "head1" : "Team India’s 1st Test Impact on Upcoming WTC Matches",
+        "head2" : "England’s Bazball Approach: Impact on Next WTC Test Series",
+        "head3" : "Individual Standouts and Surprises",
+        "head4" : "Final Thoughts: Why Choose Rocky Book for Betting ID",
+        "excerpt": "The World Test Championship series between India and England began with a historic win for England in the 1st Test. Amidst the powerful performances leading to a victorious play, this test match cleared strategic betting approaches for the upcoming series. If you’re still clueless and confused about the schedule, location, and players’ recent forms, this blog from Rocky Book will guide you through every detail. You’ll also analyse the experts takeaways from the India vs England 1st WTC test match. So, keep reading it till the end.",
+        "body0": "After England’s 1st Test win in June, 2025, the team’s battle against India is scheduled for July till August 2025 at 3.30 PM (Indian Standard Time). The 2nd test is going to be on July 2 - 6, 2025, at Edgbaston, Birmingham, while the 3rd test is to be conducted on July 10 - 14, 2025, at Lord’s, London. Similarly, the 4th test is on July 23 - 27, 2025, at Emirates Old Trafford, Manchester. At last, the 5th one is finalised for July 31 - August 4, 2025, at the Oval, London. Discover More: Explore and Read Rocky Book Blogs on Betting Sports",
+        "body1": "The Indian team showed immense dedication and outstanding batting skills during the 5-match 1st test. Aiming for a strategic win, the team showed batting expertise with aggressive centuries in two innings. Surpassing the past test records, the team’s 5 centuries in a single match earned a major spotlight. Whether it is a century from the team’s captain, Shubham Gill, or from leaders like Rishabh Pant or Yashaswi Jaiswal, each one showed their strengths. This shows that betting on a top batsman or a player with the most sixes becomes an obvious decision",
+        "body2": "England’s 371-run chase with quick scoring rates and strokeplay proved to be a major reason behind the team’s prestigious win. Besides the team’s aggressive batting skills, the bettors acknowledged the 188-run partnership between Ben Duckett and Zak Crawley. As an Indian bettor, it is wise to anticipate England’s other successful rotating strikes in the coming matches. Also Read: Latest Cricket Blog Updates on Rocky Book",
+        "body3": "For India, centuries from a player like KL Rahul proved his aggressive batting flair. Also, players like Jasprit Bumrah were a class apart with a 5-wicket haul in the first innings. That too, when the pitch was not highly trustworthy for pacers like Bumrah. For England, a player like Ben Duckett scoring 149 in the 4th innings earned him the player of the match title. As a result, Indian bettors placed high during an in-play match.",
+        "body4": "As you see, preparing for the upcoming WTC test match betting starts with analysing what went well and what did not. While batters from both teams contributed towards the teams’ scores, some of them were inconsistent. As a matter of fact, betting on successful batters and pacers becomes your next betting target. If you’re ready to explore betting on the next test series, trust Rocky Book blogs before obtaining their sports betting ID. We provide unique, KYC-verified, and instant IDs for every betting sport, fantasy, and casino game.",
 
+      },
     ]

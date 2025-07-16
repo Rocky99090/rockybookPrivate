@@ -94,6 +94,9 @@ import img91 from '../../../assets/img/blog/new-blog91.webp'
 import img92 from '../../../assets/img/blog/new-blog92.webp'
 import img93 from '../../../assets/img/blog/new-blog93.webp'
 import img94 from '../../../assets/img/blog/new-blog94.webp'
+import img95 from '../../../assets/img/blog/new-blog95.webp'
+
+
 
 export const Blogs = 
 [
@@ -2218,4 +2221,29 @@ export const Blogs =
 
       },
 
+
+
+      {   
+        "handle":"Smart-Cricket-Betting-Tips-for-Beginners",
+        "id":95,
+        "heading":"Smart Cricket Betting Tips for Beginners ",
+        "title": "Smart Cricket Betting Tips for Beginners ",
+        "imageUrl": img95,
+        "totalHeads":7,
+        "head0" : "Understanding the Legal Status of Online Cricket Betting",
+        "head1" : "Understand Betting Terms",
+        "head2" : "Get Familiar with the Cricket Betting Rules",
+        "head3" : "Log in to a Registered Betting Platform",
+        "head4" : "Choose a Licensed Cricket Betting ID Provider",
+        "head5" : "Pick the Right Odds:",
+        "head6" : "Trust Rocky Book: Best Cricket ID Provider in India",
+        "excerpt": "An online cricket bet is a source of entertainment and passive income. With the rising popularity of India’s cricket team owing to their historic wins, many betting businesses are finding ways to earn a good profit.  However, placing a bet for the first time on any of the betting sites is scary. You’re unsure of the betting legality in India, cannot predict the odds, and find it hard to manage it all alone. But worry not. We at Rocky Book, an online cricket ID provider in India, have essential online cricket betting tips. So, keep reading it till the end. ",
+        "body0": "When hearing the term “online betting”, you might question, “Is cricket betting legal?” In India, no jurisdiction explicitly prohibits or bans online cricket betting. It is currently a part of the “gray area”, having a legal status in some states. While Telangana, Andhra Pradesh, Tamil Nadu, and Karnataka ban wagering, other states have mixed laws. You must rely on your state law before wagering. However, games of skill like rummy, horse racing, and fantasy sports are still legal, allowing worry-free staking for bettors.",
+        "body1": "In online sports betting, you need to learn the commonly used betting terminology and its actual meaning. Some common ones can be betting odds, betting markets, and even the terms used within the different markets. Additionally, you must also learn the concepts surrounding responsible gaming tools for an informed decision. This knowledge will pave the way for successful stakes, efficient planning, and fund management",
+        "body2": "An online betting accompanies rules and regulations. You need to be well familiar with the betting platform rules. To avoid violating a policy, you must read these terms and conditions. This will always keep you protected against rising cyber crimes, ensure fair play, and prevent aggressive betting habits.",
+        "body3": "The first step to begin wagering is to create an account on a reliable betting platform. While some sites allow you to create a unique account, some internationally recognised and private sites require a need for an agent.",
+        "body4": "A cricket betting ID provider is an agent that provides a unique username and password to every bettor. Finding a third-party ID provider becomes essential when you are betting on credible websites like DR Diamond Exchange, World777 Betting Exchange, Durga247, and R9 Exchange.",
+        "body5": "One of the main strategies behind a valuable bet is to aim for the right odds. This can mean two different things. One, it shows the chances of winning an outcome. And second, it implies the potential payout for a given stake. The former one is quite the same on almost every platform. However, the latter ones can vary, depending on the betting site’s analysis and the expected returns on the investment.",
+        "body6": "As you see, betting for the first time on your favourite cricket league starts with following the right strategies. Consider each of the above online cricket betting tips before choosing an online cricket betting ID provider in India. Now that you’re ready to explore a betting interface and place your first stake, explore why Rocky Book is the best cricket ID provider in India. Besides a unique ID, you’ll also find engaging cricket prediction blogs for careful betting"
+      },   
     ]

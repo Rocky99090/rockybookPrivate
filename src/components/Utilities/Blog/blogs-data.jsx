@@ -96,6 +96,7 @@ import img93 from '../../../assets/img/blog/new-blog93.webp'
 import img94 from '../../../assets/img/blog/new-blog94.webp'
 import img95 from '../../../assets/img/blog/new-blog95.webp'
 import img96 from '../../../assets/img/blog/new-blog96.webp'
+import img97 from '../../../assets/img/blog/new-blog97.webp'
 
 
 
@@ -2271,6 +2272,31 @@ export const Blogs =
         "body4": "Easy earnings do not come quickly. To maximise them, you must target safe bets on players or teams who are most likely to win. Especially when high-ranked players or consistent performers can be your betting targets to reduce the risks. As a matter of fact, your expertise matters in sports for a confident decision. Utilising value betting consistently can grow your profit chances too. Avoiding parlays and accumulator bets and focusing on single-event betting makes more money.",
         "body5": "Look for websites with no hidden fees and verified results. Use expert predictions and make a strategic move to earn money from every bet. When comparing odds, find the bookmaker presenting the highest-paying odds for the sports match.",
         "body6": "As you see, setting the right expectations, staying away from rumours, educating yourself, leveraging rewards, and considering the expert analysis is the key. Before you jump onto a reliable betting site, explore our Rocky Book blogs for comprehensive and up-to-date information on online sports betting.Primarily, our focus lies on providing unique, safe, and accessible betting IDs for all types of sports and fantasy games. Explore our website today and WhatsApp us using the provided link"
+      },   
+
+
+      {   
+        "handle":"IND-vs-ENG-4th-Test-Match-Pre-Match-Details-&-Betting-Prediction",
+        "id":97,
+        "heading":"IND vs ENG 4th Test Match: Pre-Match Details & Betting Prediction",
+        "title": "IND vs ENG 4th Test Match: Pre-Match Details & Betting Prediction",
+        "imageUrl": img97,
+        "totalHeads":7, 
+        "head0" : "India vs England 4th Test Match: Venue, Dates, and Time",
+        "head1" : "India Vs England Manchester Weather Report",
+        "head2" : "India vs England 4th Test Pitch Report",
+        "head3" : "India vs England 4th Test Indian Squad",
+        "head4" : "India vs England 4th Live Match: Who is a Likely Winner?",
+        "head5" : "India vs England Betting Prediction",
+        "head6" : "Ready to Bet? Choose RockyBook for Cricket Betting ID",
+        "excerpt": "India vs England 4th test match is a buzz-worthy series, followed by the 1-2 status of the duo. As the match is set to begin tomorrow, many Indian bettors are raising eyebrows on the next favourable bets. If you are in the same dilemma too, you must get familiar with the venue, dates, and time before the match starts. In addition, it is good to analyse the latest weather and pitch report for accurate prediction. At Rocky Book, you’ll also find the official Indian squad playing the test, most likely the winner, and be able to predict the favourable bets. So, keep reading it till the end.",
+        "body0": "India vs England 4th test is set to begin at Old Trafford in Manchester. Scheduled from Wednesday, 23rd July, 2025, to Sunday, 27th July, 2025, the 5-day series is a much-awaited event after India’s loss in the 3rd match. You can expect to see a live cricket match at 3.30 PM IST on Sony Sports or Hotstar. Also Read: Importance of Research in Cricket Betting",
+        "body1": "Manchester is known for its colder climate, expecting a mild to moderate rainfall. You must look forward to a moderate temperature during the match. For better information, it is good to rely on credible sites like AccuWeather or Weather Channel for a precise and accurate weather forecast.",
+        "body2": "The Old Trafford pitch has worn out after continuous play. It is now showing signs of cracks and rough patches, which is a downside for batsmen. However, fast spinners will find the pitch favourable for its ability to grip the ball for a few seconds. A ball can bounce roughly, tricking the batters for as long as the dry condition prevails. Due to rain, Indian pacers can benefit from slow pitch.",
+        "body3": "Shubham Gill (Captain), Rishabh Pant (Vice Captain, Wicket Keeper), Yashaswi Jaiswal, KL Rahul, Sai Sudarshan, Abhimanyu Easwaran, Karun Nair, Ravindra Jadeja, Dhruv Jurel, Washington Sundar, Shardul Thakur, Jasprit Bumrah, Mohammed Siraj, Prasidh Krishna, Kuldeep Yadav, and Anshul Kamboj. Some of the ruled-out players could be Nitish Kumar Reddy, Arshdeep Singh, and Akash Deep for their unavoidable injuries.",
+        "body4": "England is potentially a winning team in the upcoming India vs England 4th cricket match. As an Indian bettor, you might risk losing money for two reasons. First, the top-order batsman or bowler is in inconsistent form. Second, the player’s absence due to injuries can be a setback. Instead, you can focus on popular betting markets like draw, top batsmen like KL Rahul, and top bowlers like Jasprit Bumrah or Ravindra Jadeja.",
+        "body5": "As per the latest team news and head-to-head records, England is delivering its powerful performances. As the team is leading by 2-1 against India, you can expect another record-breaking win for its home advantage too. In addition, it has never lost a single match against India at Old Trafford venue.",
+        "body6": "As you can see, India vs England 4th test match is possibly inclining towards England for its leading position, home advantage, and resilient approach. You must expect another success if India fails to refine its strategy. As an Indian bettor, you can refrain from high stakes and play safe on consistent deliveries. Take the next step, visit trusted cricket betting sites in India for stress-free earnings. But before betting, you must choose RockyBook, a premier cricket ID facilitator in India, to get legalised credentials."
       },   
 
 

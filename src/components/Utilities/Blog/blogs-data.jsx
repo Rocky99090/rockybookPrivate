@@ -97,6 +97,7 @@ import img94 from '../../../assets/img/blog/new-blog94.webp'
 import img95 from '../../../assets/img/blog/new-blog95.webp'
 import img96 from '../../../assets/img/blog/new-blog96.webp'
 import img97 from '../../../assets/img/blog/new-blog97.webp'
+import img98 from '../../../assets/img/blog/new-blog98.webp'
 
 
 
@@ -2297,6 +2298,31 @@ export const Blogs =
         "body4": "England is potentially a winning team in the upcoming India vs England 4th cricket match. As an Indian bettor, you might risk losing money for two reasons. First, the top-order batsman or bowler is in inconsistent form. Second, the player’s absence due to injuries can be a setback. Instead, you can focus on popular betting markets like draw, top batsmen like KL Rahul, and top bowlers like Jasprit Bumrah or Ravindra Jadeja.",
         "body5": "As per the latest team news and head-to-head records, England is delivering its powerful performances. As the team is leading by 2-1 against India, you can expect another record-breaking win for its home advantage too. In addition, it has never lost a single match against India at Old Trafford venue.",
         "body6": "As you can see, India vs England 4th test match is possibly inclining towards England for its leading position, home advantage, and resilient approach. You must expect another success if India fails to refine its strategy. As an Indian bettor, you can refrain from high stakes and play safe on consistent deliveries. Take the next step, visit trusted cricket betting sites in India for stress-free earnings. But before betting, you must choose RockyBook, a premier cricket ID facilitator in India, to get legalised credentials."
+      },   
+
+
+
+      {   
+        "handle":"India-vs-England-3rd-Test-Series-2025-Learnings-for-Future-Bets",
+        "id":98,
+        "heading":"India vs England 3rd Test Series 2025: Learnings for Future Bets",
+        "title": "India vs England 3rd Test Series 2025: Learnings for Future Bets",
+        "imageUrl": img98,  
+        "totalHeads":6, 
+        "head0" : "India vs England in 2025: Partnerships Influenced Betting Markets",
+        "head1" : "India vs England Test Series: Low-Order Batsmen Are Resilient",
+        "head2" : "India vs England Live Test Match: Star Players Met Expectations",
+        "head3" : "India vs England 3rd Test: Sudden Wickets Surprised Bettors",
+        "head4" : "India vs England Test Series: Key Takeaways",
+        "head5" : "Choose RockyBook for Your Next Betting ID",
+        "excerpt": "Day 5 of the 3rd test match between India vs England in 2025 was nothing less than a powerful display of resilience. Although the Indian cricket team faced a 22-run defeat against England, their performances deserve all the praise. Whether you come across a powerstroke Shubham Gill & century-hitters like KL Rahul or their partnerships, each player demonstrated the team’s strength & favoured the odds. At RockyBook, we are here to analyse India’s in-play performances during the 3rd test match, which will obviously help future bets. In addition, you’ll also discover some key takeaways for successful betting. ",
+        "body0": "The day began with India’s batting and England’s uncommon bowling choice. During the first session, India’s batsmen were in their top form, shaping a 112/8 first-innings score in the India vs England cricket match. The partnership between Rishabh Pant and the top-order batsman KL Rahul survived well until Pant got a wicket. This shifted odds for betting markets like “session runs”, “next wickets”, and “first-inning runs”.",
+        "body1": "Low-order batsmen like Axar Patel and Mohammad Siraj played under pressure, especially when wickets were falling at the other end. Axar Patel scored 26 runs in the partnership with Ravindra Jadeja and Mohammed Siraj, spending considerable time. He defended the team for many overs, which contributed to uncertain results and improved match odds. Siraj’s bravery and significant time at the crease opened betting markets for all three results (win, loss, draw), too.",
+        "body2": "Shubham Gill, the Indian Team’s captain, and Ravindra Jadeja showed their batting style, pressure-taking ability, and adaptive partnership. With Gill’s 72 runs under immense pressure and Ravindra Jadeja’s 8th wicket partnership, the duo kept their spirits high amidst the early inning tension. As a bettor targeting the India vs England test series 2025, this will influence “match result odds”, “partnership markets”, and “over/under bets”",
+        "body3": "The subsequent wickets of Ravindra Jadeja and Shubham Gill took everyone by surprise. While the two started off to build a steady partnership, their sudden dismissal changed the live odds. First, the draw odds turned higher, and second, England’s winning odds got lower. Henceforth, many bookmakers speculated the England’s winning chances. This paved the way for in-play betting over pre-match betting for the upcoming India vs England live test match.",
+        "body4": "As per the recently concluded India vs England 3rd test match, you must remember a few points for future bets. First, the lower-order partnerships can impact betting odds, keeping uncertain match results till the very end. Second, sudden wickets in the mid-overs shift the live odds and betting strategies. Third, in-play betting markets are more commonly favourable over pre-match wagers. Fourth, focusing on the players’ contributions and rapid changes in the live match helps with acquiring profitable bets.",
+        "body5": "As you see, betting odds fluctuate within a moment of sudden wickets, long-term partnerships, and with every inning. As an Indian bettor, it is crucial to focus on the in-play performances of the team, players, and the opponent’s weaknesses. In the 4th test match between India vs England in 2025, you must bet while securing your hard-earned money. RockyBook, a premier sports ID provider in India, ensure to hand-over a unique, secure, and instant credentials to every bettor. Explore our platform today to understand our offerings, bonus offers, and accessible betting games. With our sports betting ID, you will confidently put your money on the top betting sites in India."
+    
       },   
 
 

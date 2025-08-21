@@ -99,6 +99,7 @@ import img96 from '../../../assets/img/blog/new-blog96.webp'
 import img97 from '../../../assets/img/blog/new-blog97.webp'
 import img98 from '../../../assets/img/blog/new-blog98.webp'
 import img99 from '../../../assets/img/blog/new-blog99.webp'
+import img100 from '../../../assets/img/blog/new-blog100.webp'
 
 
 
@@ -2351,6 +2352,31 @@ export const Blogs =
         "body6": "Choosing a sports betting ID is a crucial decision, and it's important to select a provider that offers a combination of security, user-friendliness, variety, and value. RockyBook stands out in the market by excelling in all these areas. By providing a secure and transparent platform, a wide range of betting options, competitive odds, and dedicated customer support, RockyBook ensures that your betting experience is not only exciting but also reliable and rewarding. If you're looking for a trusted partner for your sports betting journey, getting a RockyBook ID is a decision you can make with confidence.",
     
       },   
+
+
+      {   
+        "handle":"5-Common-Mistakes-New-Fantasy-Players-Make-and-How-to-Avoid-Them",
+        "id":100,
+        "heading":"5 Common Mistakes New Fantasy Players Make and How to Avoid Them",
+        "title": "5 Common Mistakes New Fantasy Players Make and How to Avoid Them",
+        "imageUrl": img100,  
+        "totalHeads":6, 
+        "head0" : "Over-Relying on Popular Names",
+        "head1" : "Ignoring Pitch and Weather Report",
+        "head2" : "Neglecting Captain and Vice Captain Choices",
+        "head3" : "Not Thinking About the Grand League Team Structure",
+        "head4" : "Not Selecting the All-Rounders",
+        "head5" : "Final Thoughts: Choose RockBook for Fantasy Sports Betting ID",
+        "excerpt": "Creating your fantasy sports team without making any mistakes is inevitable. Either you lose the game or fail to learn the winning technique; there is always an outcome behind every mistake.But not knowing the crucial mistakes when creating your team for fantasy sports in India can leave a negative impact on your betting. For this reason, Rocky Book, a premier sports betting ID provider, provides immediate solutions to common mistakes. So, whether you’re facing issues with choosing the right players or failing the contest every time, this blog will suggest better solutions.",
+        "body0": "It is a common perception to pick popular and star sports players for your virtual team. You might think that the known names will deliver a consistent result before creating a fantasy team. However, that is not always true. Even the best performers face downfall and might not be in their best form. To avoid this mistake, it is good to research on player’s recent form, injuries, suspensions, and head-to-head record. Make sure to always trust a credible source for getting insights into the fantasy sports in India.",
+        "body1": "Another mistake when building your fantasy sport team is to ignore external factors like pitch, venue, and weather report. While it is true that your knowledge and crucial analysis of every player is the key point, you cannot always ignore the impact of indirect factors. To avoid this, it is best to follow the reliable sports news channels days before the start of the league. Also, many reliable sports betting ID providers in India curate beneficial insights.",
+        "body2": "When you’re overlooking the captain and vice-captain of the fantasy league team, it is a huge blunder. This comes from the act of not knowing the right and ideal players for captain and vice-captain picks. A poor captain in a fantasy sports game can negate the game, while a smarter choice will only improve your overall points.",
+        "body3": "As a beginner in fantasy sports betting, it is quite obvious to rely on one team for every contest. You might think that your chosen players will remain consistent throughout the contests. But that is not an ideal strategy. Instead, you must gather all the information on the specific contests and adapt your strategy as per the size of the contest. Be a risk-taker in grand leagues, choosing players who are consistent performers. Also, you can diversify your team based on which ones would be safer, riskier, and rewarder to each other.",
+        "body4": "New players often focus on picking a mix of specialists (batsmen, bowlers, raiders, and defenders). In this way, they often overlook or undermine the importance of reliable all-rounders on any fantasy sports betting sites in India. To avoid this mistake, it is crucial to get an all-rounder to earn points in batting, bowling, and fielding. This can help you in different ways, especially if an all-rounder fails on bat, you can leverage their presence for bowling or fielding.",
+        "body5": "As you can see, familiarising yourself with the crucial mistakes is the key to winning every fantasy league contest. Acknowledging and ignoring each of the above mistakes is a good start to transforming into a strategic player. If you’re moving ahead with fantasy sports betting, get your verified ID from us instantly. Log in to fantasy sports betting sites in India using our credentials and build your fantasy team today.",
+       
+    
+      }, 
 
 
     ]

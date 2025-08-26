@@ -100,6 +100,7 @@ import img97 from '../../../assets/img/blog/new-blog97.webp'
 import img98 from '../../../assets/img/blog/new-blog98.webp'
 import img99 from '../../../assets/img/blog/new-blog99.webp'
 import img100 from '../../../assets/img/blog/new-blog100.webp'
+import img101 from '../../../assets/img/blog/new-blog101.webp'
 
 
 
@@ -2374,6 +2375,30 @@ export const Blogs =
         "body3": "As a beginner in fantasy sports betting, it is quite obvious to rely on one team for every contest. You might think that your chosen players will remain consistent throughout the contests. But that is not an ideal strategy. Instead, you must gather all the information on the specific contests and adapt your strategy as per the size of the contest. Be a risk-taker in grand leagues, choosing players who are consistent performers. Also, you can diversify your team based on which ones would be safer, riskier, and rewarder to each other.",
         "body4": "New players often focus on picking a mix of specialists (batsmen, bowlers, raiders, and defenders). In this way, they often overlook or undermine the importance of reliable all-rounders on any fantasy sports betting sites in India. To avoid this mistake, it is crucial to get an all-rounder to earn points in batting, bowling, and fielding. This can help you in different ways, especially if an all-rounder fails on bat, you can leverage their presence for bowling or fielding.",
         "body5": "As you can see, familiarising yourself with the crucial mistakes is the key to winning every fantasy league contest. Acknowledging and ignoring each of the above mistakes is a good start to transforming into a strategic player. If you’re moving ahead with fantasy sports betting, get your verified ID from us instantly. Log in to fantasy sports betting sites in India using our credentials and build your fantasy team today.",
+       
+    
+      }, 
+
+
+      {   
+        "handle":"IND-vs-ENG-5th-Test-Match-The-Final-35-Runs-That-Helped-Indian-Pacers",
+        "id":101,
+        "heading":"IND vs ENG 5th Test Match: The Final 35 Runs That Helped Indian Pacers",
+        "title": "IND vs ENG 5th Test Match: The Final 35 Runs That Helped Indian Pacers",
+        "imageUrl": img101,  
+        "totalHeads":5, 
+        "head0" : "IND vs ENG: Day 1 Started with England’s Dominance",
+        "head1" : "IND vs ENG Live Match:  Day 2 and 3 Balanced the Game",
+        "head2" : "IND vs ENG 5th Test Series, 2025: Day 3 Reflected India’s Winning Certainty",
+        "head3" : "IND vs ENG Highlights: Day 4 and 5 Set the Benchmark",
+        "head4" : "Ready to Explore a Betting Site? Choose Rocky Book for Safe Betting ID",
+        "excerpt": "In cricket, a few surprising and nerve-straining moments can leave a crucial impact. In the recently concluded India vs England 5th test match, many Indian and English bettors witnessed a historic moment. In the final hour of the 35-run chase, the game turned around for India’s win after the team’s successive wickets. However, it is possible to undermine the crucial betting markets that hold the attention during the 5th test. For this reason, Rocky Book brings forth all that happened in the 5th test match, starting from Day 1 to Day 5.",
+        "body0": "India vs England 5th test match on Day 1 started with a mix of certain and suspenseful tension. The match began with a bowling attack from Gus Atkinson, England’s pacer, who ended up picking 5 wickets on just 33 runs. Another powerplay bowler, Josh Tongue, managed to take 3 wickets on 57 runs. England’s decision to bowl first on a green surface eventually favoured the team with swing bowling. As a result, India was bowled out for 224, helping England to carry forward with a confident mindset.",
+        "body1": "Day 2 of the 5th test began to pace up after India’s first innings came to an end on Day 1. The match started with England’s Bazball batting style. With a target to wrap up India’s 224 runs in the first innings, England gave a 24-run lead. Zak Crawley and Ben Duckett, the crucial openers, managed to hit a century in their partnership. At the same time, India’s pace bowlers like Mohammad Siraj and Prasidh Krishna dismissed middle and lower-order batters. This counterfeit balanced the game, bowling out England for 247 runs in the first innings.",
+        "body2": "Day 3 of the 5th test, 2025, started with a good performance from India’s end. Their brilliance and pressure-taking ability proved to be a winning strategy. Jaiswal’s century contributed to the second-innings total, while his partnership with Akash Deep changed the game’s uncertainty. Contributions from lower-order batsmen in the Indian team also pushed the edge, paving the way for a winning streak",
+        "body3": "Day 4 of the 5th test series welcomed a partnership between Joe Root and Harry Brook, followed by their not-out performance on Day 5. Team England anticipated another history with their Bazball batting style, while the Indian team prepared for a resilient attack.However, the final hour on Day 5 turned around the scope for England's win. England had to score only 35 runs, but with 4 wickets in hand. However, Indian pacers Mohammad Siraj and Prasidh Krishna's support through 3 crucial wickets inclined the match to India’s side.",
+        "body4": "As you can see, England’s final 35 runs swung the predictability with the resilience of Mohammad Siraj and Prasidh Krishna. As India led the victory in the India vs England 5th test match, it is quite certain for bettors to place bets on “next wicket runs”, “totals in partnership”, and “top bowler”, or “total wickets (over/under)”. Before staking on the next live match, choose Rocky Book’s platform for acquiring safe and verified betting IDs. Want to discover more? Choose any of our partnered India’s No.1 betting site for a crucial impact.",
+
        
     
       }, 

@@ -101,6 +101,7 @@ import img98 from '../../../assets/img/blog/new-blog98.webp'
 import img99 from '../../../assets/img/blog/new-blog99.webp'
 import img100 from '../../../assets/img/blog/new-blog100.webp'
 import img101 from '../../../assets/img/blog/new-blog101.webp'
+import img102 from '../../../assets/img/blog/new-blog102.webp'
 
 
 
@@ -2398,6 +2399,28 @@ export const Blogs =
         "body2": "Day 3 of the 5th test, 2025, started with a good performance from India’s end. Their brilliance and pressure-taking ability proved to be a winning strategy. Jaiswal’s century contributed to the second-innings total, while his partnership with Akash Deep changed the game’s uncertainty. Contributions from lower-order batsmen in the Indian team also pushed the edge, paving the way for a winning streak",
         "body3": "Day 4 of the 5th test series welcomed a partnership between Joe Root and Harry Brook, followed by their not-out performance on Day 5. Team England anticipated another history with their Bazball batting style, while the Indian team prepared for a resilient attack.However, the final hour on Day 5 turned around the scope for England's win. England had to score only 35 runs, but with 4 wickets in hand. However, Indian pacers Mohammad Siraj and Prasidh Krishna's support through 3 crucial wickets inclined the match to India’s side.",
         "body4": "As you can see, England’s final 35 runs swung the predictability with the resilience of Mohammad Siraj and Prasidh Krishna. As India led the victory in the India vs England 5th test match, it is quite certain for bettors to place bets on “next wicket runs”, “totals in partnership”, and “top bowler”, or “total wickets (over/under)”. Before staking on the next live match, choose Rocky Book’s platform for acquiring safe and verified betting IDs. Want to discover more? Choose any of our partnered India’s No.1 betting site for a crucial impact.",
+
+       
+    
+      }, 
+
+
+      {   
+        "handle":"Value-Betting-in-Sports:-How-to-Identify-One-in-High-Pressure-Cricket",
+        "id":102,
+        "heading":"Value Betting in Sports: How to Identify One in High-Pressure Cricket?",
+        "title": "Value Betting in Sports: How to Identify One in High-Pressure Cricket?",
+        "imageUrl": img102,  
+        "totalHeads":4, 
+        "head0" : "Importance of Close Finishes",
+        "head1" : "What to Watch for in High-Pressure Games",
+        "head2" : "Smart Betting Tips for Close Finishes",
+        "head3" : "Choose Rocky Book for Online Sports Betting ID",
+        "excerpt": "The India vs England 2025 Oval Test, began with an exciting run-scoring chase and a suspenseful wicket. As much as the match elevated the curiosity, it brought huge swings in the betting markets. Partnership runs or the next wicket runs became a crucial focus for bettors, helping them to discover the undervalued bets. However, many new or less knowledgeable bettors still struggle to identify profitable bets and their odds. Ahead of India’s 6-run win against England, this is your chance to make the most of the value betting in sports. At RockyBook, you’ll find some tips and tricks to spot high-value bets, especially in high-pressure gaming moments.",
+        "body0": "India vs England 4th test, 2025 raised eagerness for the next match. After a draw match, many bettors prepared for a close finish. A close finish, in this aspect, is a high-pressure game where teams compete with full zest. In this scenario, every ball can change the game’s dynamics and the live betting odds quickly than expected. To that matter, the team’s consistent performers can make mistakes while the underrated players can appear reliable. Hence, bookmakers can misjudge every outcome when determining odds. And so, a wise bettor can find the hidden value bets as a crucial betting opportunity.",
+        "body1": "When the live test cricket reaches the final stage and the pressure goes high, it is important to understand the high-value bets. This way, you can always win, no matter the real outcome.Here are a few tips to pick profitable bets in online sports betting.In high-pressure cricket games, odds change more frequently than you expect. That happens because a high-pressure can nervous the player, which directly impacts the odds. Also, every wicket or boundary hit can unpredict the match outcome. So, you must consider the “next wicket” right after a big moment to get the most benefit. In close cricket matches, it is good to understand that key players make a crucial impact. Each win or loss can add to the pressure, and so it is good to observe their form and playing style. To identify valuable bets, you must also observe their confidence and body language to get to the right prediction. Tail-end players are lower-order batsmen, and are specifically known as bowlers. Tail-enders can collapse quickly, but sometimes they produce unexpected runs. Since bookmakers undervalue the tail-end players when analysing sports betting odds, you must find profitable bets on small partnerships. Or, even the sudden boundaries from the least-expected performers",
+        "body2": "When matches get tight, you must focus on small bets. This involves predicting a run in the next over or the total of a partnership. This is often a safer bet and brings greater returns.In high-pressure cricket events, emotions soar high and rushing decisions can affect your bankroll. Instead, you can wait for the game to pace over and then identify the hidden value. Close finishes often put low prices on less-favoured players. So, you must find them to make the most of the value betting system. Also, protecting your bankroll is the key.Before staking on the next live cricket match, it is good to find a credible cricket ID online.",
+        "body3": "As you can see, choosing a value betting on sports is the key to successful wagering. As you begin to understand the crucial opportunities, you must not forget to get the best online cricket ID. Choosing Rocky Book, a premier sports betting ID, is the key to placing your bets safely and instantly. Explore our website today to learn more. ",
 
        
     

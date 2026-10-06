@@ -11,7 +11,7 @@ import thumbnail from '../../../assets/img/thumb.jpeg'
 
 const About = () => {
     const openWhatsapp = () => {
-        window.location.href = "https://wa.link/rockywebsite?text=I want Id"
+        window.location.href = "https://w.app/rockywebsite1"
     }
     return (
         <section id="about" className="about-area about-p   pb-40 p-relative" style={{ background: `url(${aboutBgImg}) no-repeat center center / cover` }}>

@@ -14,7 +14,7 @@ const heroData = [{
 }
 ]
 const openWhatsapp = () => {
-  window.location.href = "https://wa.link/rockywebsite?text=I want Id"
+  window.location.href = "https://w.app/rockywebsite1"
 }
 
 const MySlider = () => (

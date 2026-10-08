@@ -26,7 +26,7 @@ import { useLocation } from 'react-router-dom';
 const content = require("../../../SeoData/HomeData.json");
 const Home = () => {
     const openWhatsapp = () => {
-        window.location.href = "https://w.app/rockywebsite1"
+        window.location.href = "https://mywalink.link/r/rockywebsite"
     }
 
     const location = useLocation();

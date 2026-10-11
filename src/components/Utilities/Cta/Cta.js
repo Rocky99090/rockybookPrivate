@@ -13,7 +13,7 @@ const Cta = () => {
 const [hidden, setHidden] = useState(false);
     const { bg, title, description, btn } = ctaData;
     const openWhatsapp = () => {
-        window.location.href = "https://mywalink.link/r/rockywebsite"
+        window.location.href = "https://mywalink.link/rockywebsite"
     }
     return (
         <section id="graph" className="features-area pt-10 pb-10" style={{ background: `url(${bg}) no-repeat center/cover`, backgroundBlendMode:'overlay',backgroundColor:'rgba(0,0,0,0.8)' }}>

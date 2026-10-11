@@ -86,7 +86,7 @@ const WorkGallery = () => {
         setItems(filterUpdate);
     }
     const openWhatsapp = () => {
-        window.location.href = "https://mywalink.link/r/rockywebsite"
+        window.location.href = "https://mywalink.link/rockywebsite"
     }
 
     return (
